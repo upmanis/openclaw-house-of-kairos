@@ -1,0 +1,11 @@
+.DS_Store
+.env
+*.key
+*.pem
+**/secrets*
+.openclaw/
+*.pdf
+*.png
+*.svg
+*.html
+out/
