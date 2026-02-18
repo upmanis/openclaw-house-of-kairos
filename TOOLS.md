@@ -74,17 +74,32 @@ You have full API access to the House of Kairos Asana workspace via `ASANA_TOKEN
 # List incomplete tasks for a project (sorted by due date)
 python3 scripts/asana-tasks.py PROJECT_GID
 
-# List tasks filtered by assignee
+# With filters
 python3 scripts/asana-tasks.py PROJECT_GID --assignee "Name"
-
-# Include completed tasks
+python3 scripts/asana-tasks.py PROJECT_GID --overdue
+python3 scripts/asana-tasks.py PROJECT_GID --due-this-week
+python3 scripts/asana-tasks.py PROJECT_GID --due-next-week
+python3 scripts/asana-tasks.py PROJECT_GID --due-before 2026-03-01
+python3 scripts/asana-tasks.py PROJECT_GID --due-after 2026-02-15
+python3 scripts/asana-tasks.py PROJECT_GID --no-date
 python3 scripts/asana-tasks.py PROJECT_GID --completed
+
+# Sorting and limiting
+python3 scripts/asana-tasks.py PROJECT_GID --sort assignee   # sort by: date (default), assignee, name
+python3 scripts/asana-tasks.py PROJECT_GID --sort date --reverse
+python3 scripts/asana-tasks.py PROJECT_GID --limit 10
+
+# Combine any filters
+python3 scripts/asana-tasks.py PROJECT_GID --assignee "Kaspars" --due-this-week --sort date
 
 # Search tasks across entire workspace
 python3 scripts/asana-tasks.py search "search term"
 
-# Get details of a specific task
+# Get details of a specific task (includes subtasks)
 python3 scripts/asana-tasks.py task TASK_GID
+
+# List all projects with GIDs
+python3 scripts/asana-tasks.py projects
 ```
 
 **Fallback** (only if the script is unavailable): use `curl` with `$ASANA_TOKEN`:
@@ -94,9 +109,12 @@ curl -s -H "Authorization: Bearer $ASANA_TOKEN" \
 ```
 
 ### Tips
-- **Prefer the script** — it handles sorting, overdue marking, and formatting automatically
-- Use `completed_since=now` to get only incomplete tasks (script default)
-- When asked "what's due this week" or "overdue tasks", the script marks overdue items
+- **Prefer the script** — it handles pagination, sorting, overdue marking, and formatting automatically
+- All dates use WITA timezone (UTC+8)
+- Filters can be combined freely (e.g. `--assignee "Name" --due-this-week --sort name`)
+- When asked "what's due this week" → use `--due-this-week`
+- When asked "overdue tasks" → use `--overdue`
+- When asked "unscheduled tasks" → use `--no-date`
 - Keep output WhatsApp-friendly: bullet lists, no tables
 - **Never use node-fetch, require(), or JS template literals in exec commands**
 

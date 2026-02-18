@@ -20,8 +20,10 @@ Don't ask permission. Just do it.
 
 ### Quick Reference (always available)
 
-- **Asana tasks:** `python3 scripts/asana-tasks.py PROJECT_GID` — NEVER use inline curl|python for Asana
+- **Asana tasks:** `python3 scripts/asana-tasks.py PROJECT_GID [--overdue|--due-this-week|--due-next-week|--assignee "Name"|--no-date|--sort date|--limit N]` — NEVER use inline curl|python for Asana
 - **Asana search:** `python3 scripts/asana-tasks.py search "query"`
+- **Asana projects:** `python3 scripts/asana-tasks.py projects`
+- **Asana task detail:** `python3 scripts/asana-tasks.py task TASK_GID`
 - **Gmail search:** `GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail search 'query' -a ops@houseofkairos.com`
 - **Team scripts:** `python3 scripts/team.py <command>`
 
