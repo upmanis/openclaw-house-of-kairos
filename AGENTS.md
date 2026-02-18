@@ -12,10 +12,18 @@ Before doing anything else:
 
 1. Read `SOUL.md` — this is who you are
 2. Read `USER.md` — this is who you're helping
-3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
-4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
+3. Read `TOOLS.md` — this is how you use tools (Asana, Gmail, team scripts)
+4. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
+5. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
 
 Don't ask permission. Just do it.
+
+### Quick Reference (always available)
+
+- **Asana tasks:** `python3 scripts/asana-tasks.py PROJECT_GID` — NEVER use inline curl|python for Asana
+- **Asana search:** `python3 scripts/asana-tasks.py search "query"`
+- **Gmail search:** `GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail search 'query' -a ops@houseofkairos.com`
+- **Team scripts:** `python3 scripts/team.py <command>`
 
 ## Memory
 
@@ -245,8 +253,9 @@ The daily summary must include these three sections:
 - Note any unresolved questions or follow-ups needed
 
 **2. Emails Received**
-- Query ops@houseofkairos.com for today's emails: `GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail search 'newer_than:1d' -a ops@houseofkairos.com`
+- Query ops@houseofkairos.com for ALL today's emails (inbox + spam): `GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail search 'newer_than:1d in:anywhere' -a ops@houseofkairos.com`
 - List each email: sender, subject, brief summary, whether it needs action
+- Flag anything in spam — note it as "[SPAM]" so Kaspars can review
 - Flag anything urgent or unanswered
 
 **3. Asana Tasks Completed Today**

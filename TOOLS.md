@@ -68,47 +68,35 @@ You have full API access to the House of Kairos Asana workspace via `ASANA_TOKEN
 
 ### How to query Asana
 
-Use `curl` with the `ASANA_TOKEN` env var. Do NOT use node-fetch or require(). Avoid JS template literals in bash.
-
-**IMPORTANT: Always use `curl`, not Node.js, for Asana API calls.** This avoids bash escaping issues.
+**ALWAYS use the helper script** instead of inline curl|python. This avoids shell escaping issues.
 
 ```bash
-# List incomplete tasks for a project
-curl -s -H "Authorization: Bearer $ASANA_TOKEN" \
-  "https://app.asana.com/api/1.0/tasks?project=PROJECT_GID&completed_since=now&opt_fields=name,due_on,assignee.name"
+# List incomplete tasks for a project (sorted by due date)
+python3 scripts/asana-tasks.py PROJECT_GID
 
-# Search tasks across workspace
-curl -s -H "Authorization: Bearer $ASANA_TOKEN" \
-  "https://app.asana.com/api/1.0/workspaces/1208695572000101/tasks/search?text=SEARCH_TERM&completed=false&opt_fields=name,due_on,projects.name,assignee.name"
+# List tasks filtered by assignee
+python3 scripts/asana-tasks.py PROJECT_GID --assignee "Name"
 
-# Get a single task by GID
-curl -s -H "Authorization: Bearer $ASANA_TOKEN" \
-  "https://app.asana.com/api/1.0/tasks/TASK_GID?opt_fields=name,due_on,notes,assignee.name,completed,projects.name"
+# Include completed tasks
+python3 scripts/asana-tasks.py PROJECT_GID --completed
+
+# Search tasks across entire workspace
+python3 scripts/asana-tasks.py search "search term"
+
+# Get details of a specific task
+python3 scripts/asana-tasks.py task TASK_GID
 ```
 
-### Parsing results
-
-Use `python3` to format the JSON output (it's always available):
-
+**Fallback** (only if the script is unavailable): use `curl` with `$ASANA_TOKEN`:
 ```bash
 curl -s -H "Authorization: Bearer $ASANA_TOKEN" \
-  "https://app.asana.com/api/1.0/tasks?project=PROJECT_GID&completed_since=now&opt_fields=name,due_on,assignee.name" \
-  | python3 -c "
-import json, sys
-data = json.load(sys.stdin).get('data', [])
-for t in sorted(data, key=lambda x: x.get('due_on') or 'zzzz'):
-    due = t.get('due_on') or 'no date'
-    name = t.get('name', '?')
-    assignee = (t.get('assignee') or {}).get('name', 'unassigned')
-    print(f'{due} | {name} | {assignee}')
-"
+  "https://app.asana.com/api/1.0/tasks?project=PROJECT_GID&completed_since=now&opt_fields=name,due_on,assignee.name"
 ```
 
 ### Tips
-- Use `completed_since=now` to get only incomplete tasks
-- Use `opt_fields` to control what fields are returned
-- For paginated results, check `next_page.uri` in response and follow it
-- When asked "what's due this week" or "overdue tasks", filter by `due_on`
+- **Prefer the script** — it handles sorting, overdue marking, and formatting automatically
+- Use `completed_since=now` to get only incomplete tasks (script default)
+- When asked "what's due this week" or "overdue tasks", the script marks overdue items
 - Keep output WhatsApp-friendly: bullet lists, no tables
 - **Never use node-fetch, require(), or JS template literals in exec commands**
 
