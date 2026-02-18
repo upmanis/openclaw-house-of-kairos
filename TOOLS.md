@@ -168,3 +168,33 @@ GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail send --to "to@example.com" --cc
 - New emails are also pushed to you in real-time via Gmail Pub/Sub webhook
 - **Sending to kaspars@houseofkairos.com** — allowed without asking
 - **Sending to anyone else** — always ask Kaspars for approval first
+
+---
+
+## Team scripts
+
+Add local team-management script usage and guidance here. These are the canonical commands for team data so you don't have to remember to run them manually.
+
+**Rule:** NEVER calculate birthdays, ages, joiners, contract end dates, or sort employees manually. Use the scripts below and copy the output verbatim.
+
+```bash
+python3 /root/.openclaw/workspace/scripts/team.py birthdays [limit]
+python3 /root/.openclaw/workspace/scripts/team.py ages [limit]
+python3 /root/.openclaw/workspace/scripts/team.py joiners [limit]
+python3 /root/.openclaw/workspace/scripts/team.py contracts [limit]
+python3 /root/.openclaw/workspace/scripts/team.py list [limit]
+```
+
+Example: `python3 /root/.openclaw/workspace/scripts/team.py birthdays 3`
+
+For employee emails and details, see `employees.md` in workspace.
+
+- Tip: Always check both inbox and spam for recent emails related to HR or contracts.
+
+### Employee Context Profiles
+
+Per-employee activity logs live in `team/`. Updated daily by the `employee-context-update` cron job.
+
+- **Profiles:** `team/<slug>.md` — one per employee
+- **Aliases:** `team/_aliases.json` — name-variant mapping for WhatsApp parsing
+- **Init script:** `python3 scripts/init_team_profiles.py` — creates new profiles (safe to re-run)
