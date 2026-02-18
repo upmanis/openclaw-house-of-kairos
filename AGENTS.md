@@ -26,6 +26,7 @@ Don't ask permission. Just do it.
 - **Asana task detail:** `python3 scripts/asana-tasks.py task TASK_GID`
 - **Gmail search:** `GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail search 'query' -a ops@houseofkairos.com`
 - **Team scripts:** `python3 scripts/team.py <command>`
+- **HOK OS database (CRITICAL):** For ANY database query (revenue, members, check-ins, classes, memberships), ALWAYS use a preset: `python3 scripts/hok-query.py revenue-month` — NEVER write your own SQL, NEVER ask the user for column names. Available presets: member-count, revenue-month, revenue-all, revenue-by-method, memberships-active, memberships-month, checkins-today, checkins-yesterday, classes-today, classes-tomorrow, joined-week, yesterday-stats. Just pick the matching preset and run it. See TOOLS.md § HOK OS for details.
 
 ## Memory
 
@@ -119,7 +120,7 @@ You have access to your human's stuff. That doesn't mean you _share_ their stuff
 
 ### 💬 WhatsApp Groups — @Tag Only!
 
-**HARD RULE: In WhatsApp group chats, NEVER reply unless you are explicitly @mentioned/tagged.**
+Log all group chat conversations automatically, tracking key points, actions, and decisions.
 
 - No exceptions. Not even if you "could add value."
 - Not even to correct misinformation.

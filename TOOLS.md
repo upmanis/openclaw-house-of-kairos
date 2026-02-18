@@ -204,3 +204,49 @@ Per-employee activity logs live in `team/`. Updated daily by the `employee-conte
 - **Profiles:** `team/<slug>.md` — one per employee
 - **Aliases:** `team/_aliases.json` — name-variant mapping for WhatsApp parsing
 - **Init script:** `python3 scripts/init_team_profiles.py` — creates new profiles (safe to re-run)
+
+---
+
+## HOK OS — Read-Only Query API
+
+Query the HOK OS database. **Use presets whenever possible — they never fail.**
+
+### Preset commands (PREFERRED — use these first!)
+
+Via the helper script:
+```bash
+python3 scripts/hok-query.py member-count
+python3 scripts/hok-query.py revenue-month
+python3 scripts/hok-query.py revenue-all
+python3 scripts/hok-query.py revenue-by-method
+python3 scripts/hok-query.py memberships-active
+python3 scripts/hok-query.py memberships-month
+python3 scripts/hok-query.py checkins-today
+python3 scripts/hok-query.py checkins-yesterday
+python3 scripts/hok-query.py classes-today
+python3 scripts/hok-query.py classes-tomorrow
+python3 scripts/hok-query.py joined-week
+python3 scripts/hok-query.py yesterday-stats
+python3 scripts/hok-query.py schema
+```
+
+Or via curl (if the script is unavailable):
+```bash
+curl -s -X POST -H "x-api-key: 28I+FBXuGhNWO+UivrJFjRw1Gd1Bj7FyTnD/M768uLs=" -H "Content-Type: application/json" -d '{"preset": "revenue-month"}' "https://tsmkchtfljmfvwqurbxy.supabase.co/functions/v1/openclaw-query"
+```
+
+Available presets: member-count, revenue-month, revenue-all, revenue-by-method, memberships-active, memberships-month, checkins-today, checkins-yesterday, classes-today, classes-tomorrow, joined-week, yesterday-stats
+
+### Custom queries (only when no preset fits)
+
+```bash
+python3 scripts/hok-query.py "SELECT first_name, last_name FROM members WHERE deleted_at IS NULL"
+```
+
+### Important
+
+- **ALWAYS try a preset first** before writing custom SQL
+- **There is NO payments table** — revenue is in `memberships.price`
+- **ONLY members has deleted_at** — do NOT filter other tables by deleted_at
+- Prices are in Indonesian Rupiah (IDR)
+- Use `--staging` flag for staging environment
