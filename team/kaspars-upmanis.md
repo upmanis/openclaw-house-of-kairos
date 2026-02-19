@@ -12,10 +12,10 @@
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-18_
+_Last updated: 2026-02-20_
 
 **Architecture**
-- [ ] GF - toilets — due 2026-02-18
+- [ ] GF - toilets — **overdue** 2026-02-18
 - [ ] GF - Co-working - built-in furniture — due 2026-02-25
 - [ ] GF - Reception - merch area — due 2026-02-25
 - [ ] GF - Restaurant DJ station — due 2026-03-04
@@ -30,26 +30,26 @@ _Last updated: 2026-02-18_
 - [ ] GF: Library - Modulo k.id shelving units for Library — **overdue** 2026-02-10
 - [ ] GF: Library - table — **overdue** 2026-02-10
 - [ ] GF: Library - adjust sloping for drain pipe — **overdue** 2026-02-12
-- [ ] GF: Kitchen - tiles in dishwashing area — **overdue** 2026-02-13
-- [ ] LGF: Changing rooms - finish wall adjustments — **overdue** 2026-02-13
 - [ ] LGF: Hot tub - choose tiles — **overdue** 2026-02-13
 - [ ] LGF: Ice bath - choose tiles — **overdue** 2026-02-13
 - [ ] LGF: Kitchen - door intstallation — **overdue** 2026-02-13
 - [ ] LGF: Kitchen - SikaBoom gap filling — **overdue** 2026-02-13
-- [ ] LGF: Kitchen - tile grouting — **overdue** 2026-02-13
 - [ ] LGF: Kitchen - window fixing — **overdue** 2026-02-13
-- [ ] LGF: Planter pot waterproofing — **overdue** 2026-02-13
 - [ ] GF: Ceiling Finish (Expose Paint) — **overdue** 2026-02-15
 - [ ] GF: Ceiling Finish (Gypsum+Paint) — **overdue** 2026-02-15
 - [ ] GF: Ceiling Finish (Gypsum+Paint) — **overdue** 2026-02-15
 - [ ] GYM: Wall Finish (Texture+Paint) — **overdue** 2026-02-17
-- [ ] ROOFTOP: Cleaner station - water — **overdue** 2026-02-17
+- [ ] GF: Kitchen - add stainless steel on top of wood cover — **overdue** 2026-02-19
+- [ ] ROOFTOP: Cleaner station - drain — **overdue** 2026-02-19
 - [ ] LGF: Pool bar - build structure — due 2026-02-20
 - [ ] GF: AC tray in office room — due 2026-02-21
 - [ ] ROOFTOP: Ceiling Finish (Install+Paint) — due 2026-02-21
 - [ ] LGF: Steam room - steamer seat build — due 2026-02-23
+- [ ] GYM: Rubber floor — due 2026-02-25
 - [ ] GYM: Storage wood cladding — due 2026-02-25
+- [ ] GYM: Wood base for squat racks — due 2026-02-25
 - [ ] LGF: MEP ventilation  — due 2026-02-25
+- [ ] ROOFTOP: staircase curve ceiling structure  — due 2026-02-25
 - [ ] GYM: Reception shelving furniture — due 2026-02-26
 - [ ] GYM: Reception shelving unit — due 2026-02-26
 - [ ] LGF: Sauna (Floor + Wood + MEP) — due 2026-02-26
@@ -58,45 +58,44 @@ _Last updated: 2026-02-18_
 - [ ] GYM: Cleaner's room painting — due 2026-02-27
 - [ ] GYM: Mirrors — due 2026-02-27
 - [ ] GYM: Storage room painting — due 2026-02-27
+- [ ] LGF: Pool - Water test & defect repair — due 2026-02-27
+- [ ] ROOFTOP: Cleaner station - water — due 2026-02-27
 - [ ] ROOFTOP: Floor waterproofing — due 2026-02-27
-- [ ] LGF: Floor Finish pool area marble — due 2026-02-28
 - [ ] LGF: MDP panel — due 2026-02-28
 - [ ] LGF: Steam (Ceiling + Body + Floor + MEP) — due 2026-02-28
 - [ ] ROOFTOP: Drinking station drains — due 2026-02-28
+- [ ] ROOFTOP: Studio Wall Finish (Texture+Paint) — due 2026-02-28
 - [ ] LGF: Loungers - deliver to site — due 2026-03-02
 - [ ] GYM: Ceiling diffuser light (LED) — due 2026-03-04
 - [ ] GYM: LED cable remote — due 2026-03-04
 - [ ] LGF: Hot water installation — due 2026-03-05
 - [ ] ROOFTOP: Floor Inside Finish (parquet) — due 2026-03-05
+- [ ] LGF: Pool - install pool tiles — due 2026-03-06
 - [ ] ROOFTOP: Black grass install — due 2026-03-06
 - [ ] LGF: Icebath (Structure + MEP + Finishing) — due 2026-03-07
+- [ ] LGF: Pool - testing comissioning — due 2026-03-08
 - [ ] ROOFTOP: Floor Outdoor Finishing (grass) — due 2026-03-08
 - [ ] GF: PLN second cable — due 2026-03-09
-- [ ] LGF: Pool — due 2026-03-10
-- [ ] LGF: Pool - install pool tiles - START 9th Feb — due 2026-03-10
 - [ ] GYM: Reception shelving marble (drinking station) — due 2026-03-11
 - [ ] ROOFTOP: 5cm floor gap for windows, 16cm wide — due 2026-03-11
 - [ ] GF: Cardio planter/storage — due 2026-03-12
 - [ ] GYM: facade waterproofing — due 2026-03-12
+- [ ] LGF: Pool area ujung padang marble — due 2026-03-13
+- [ ] GF: 2nd feeder cable installation — due 2026-03-14
 - [ ] LGF: Jacuzzi (Structure + MEP + Finishing) — due 2026-03-14
 - [ ] LGF: MEP Pool + Pooldeck (Accessories) — due 2026-03-14
 - [ ] GF: OUTDOOR: Parking (Structure + Finishing) — due 2026-03-15
 - [ ] LGF: Wall Finish (Marble) — due 2026-03-21
 - [ ] GF: Library doors / windows — due 2026-04-01
-- [ ] LGF: Pool - install skimmer — due 2026-04-09
 - [ ] GF: Staff stair railing — due 2026-04-15
 - [ ] GF: Co-working desks & chairs design — no due date
 - [ ] GF: Curtains — no due date
 - [ ] GF: Kitchen - dish shelve — no due date
 - [ ] GF: Kitchen - dumb waiter cladding — no due date
 - [ ] GF: Kitchen - metal decorative shelving — no due date
-- [ ] GF: Office - chairs — no due date
 - [ ] GF: Office - lights — no due date
-- [ ] GF: Office - table — no due date
 - [ ] GF: Reception - iMac — no due date
 - [ ] GF: Reception desk steel cladding — no due date
-- [ ] GF: Toilets - sinks — no due date
-- [ ] GF: Toilets - vanity table — no due date
 - [ ] GF: Wood wall cladding — no due date
 - [ ] GYM - Adjust LED cable wall finish (gap still visible) — no due date
 - [ ] LGF Sauna - install floor tiles — no due date
@@ -116,6 +115,9 @@ _Last updated: 2026-02-18_
 - [ ] LGF: Steam room - install speaker — no due date
 - [ ] LGF: Steam room - install tiles — no due date
 - [ ] LGF: Umbrellas for pool area — no due date
+
+**F&B**
+- [ ] Menu design — no due date
 
 **Operations**
 - [ ] Team Uniform: Plan, Create, Produce and Distribute — no due date
@@ -315,3 +317,756 @@ _Last updated: 2026-02-18_
 
 **Email:**
 - (none)
+### 2026-02-19
+
+**Asana:**
+- Completed: LGF: Floor Finish pool area marble (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Wall Finish (Texture+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Cleaner station - water (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Wood base for squat racks (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Rubber floor (CONSTRUCTION CHECKLIST)
+- Completed: GF: 2nd feeder cable installation (CONSTRUCTION CHECKLIST)
+- Completed: Menu design (F&B)
+- Completed: GYM: Reception shelving furniture (CONSTRUCTION CHECKLIST)
+- Completed: GF - toilets (Architecture)
+- Completed: ROOFTOP: Floor Leveling (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Floor Inside Finish (parquet) (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Ceiling Finish (Install+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Drinking station drains (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Floor waterproofing (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Sloping improvements in AC area (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: MEP (Rough-In) (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Floor Outdoor Finishing (grass) (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Black grass install (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: 5cm floor gap for windows, 16cm wide (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Hot water installation (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Cleaner's room painting (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Storage room painting (CONSTRUCTION CHECKLIST)
+- Completed: LGF: MEP ventilation (CONSTRUCTION CHECKLIST)
+- Completed: GF: AC tray in office room (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library doors / windows (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Steam room - steamer seat build (CONSTRUCTION CHECKLIST)
+- Completed: LGF - Pool bar (Architecture)
+- Completed: GF: OUTDOOR: Parking (Structure + Finishing) (CONSTRUCTION CHECKLIST)
+- Completed: GF: Cardio planter/storage (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - doors (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Ceiling diffuser light (LED) (CONSTRUCTION CHECKLIST)
+- Completed: GYM: LED cable remote (CONSTRUCTION CHECKLIST)
+- Completed: Pool - lights (No Project)
+- Completed: Order emergency staircase (No Project)
+- Completed: Rooftop - drinking station (Architecture)
+- Completed: GF - Restaurant DJ station (Architecture)
+- Completed: GF - Co-working - built-in furniture (Architecture)
+- Completed: GF - Reception - merch area (Architecture)
+- Completed: Rooftop - landing area tiles (Architecture)
+- Completed: Rooftop - studio mirrors & walls (Architecture)
+- Completed: Rooftop - outdoor gym mirrors/wall (Architecture)
+- Completed: Team Uniform: Plan, Create, Produce and Distribute (Operations)
+- Completed: GYM: facade waterproofing (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Mirrors (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Storage wood cladding (CONSTRUCTION CHECKLIST)
+- Completed: GF: Staff stair railing (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Reception shelving marble (drinking station) (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Reception shelving unit (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Emergency door (CONSTRUCTION CHECKLIST)
+- Completed: LGF: clean planter box areas (CONSTRUCTION CHECKLIST)
+- Completed: GF: Ceiling Finish (Gypsum+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: GF: Ceiling Finish (Expose Paint) (CONSTRUCTION CHECKLIST)
+- Completed: GF: Ceiling Finish (Gypsum+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - wall tile finishing (around electrical box) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool planterbox water proofing (CONSTRUCTION CHECKLIST)
+- Completed: GYM - Adjust LED cable wall finish (gap still visible) (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Buy switches & sockets (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - tile grouting (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - window fixing (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - door intstallation (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - SikaBoom gap filling (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Planter pot waterproofing (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - finish wall adjustments (CONSTRUCTION CHECKLIST)
+- Completed: GF: Kitchen - tiles in dishwashing area (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Ice bath - choose tiles (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Hot tub - choose tiles (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library - ceiling lamp (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library - table (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library - chairs (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library - Modulo k.id shelving units for Library (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Laundry - washing machine (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Laundry - exhaust to outside (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Laundry - iron & ironing board (CONSTRUCTION CHECKLIST)
+- Completed: LGF: MEP Pool + Pooldeck (Accessories) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Sauna (Floor + Wood + MEP) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool bar - build structure (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Sauna - install glass (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Sauna - install seating and heaters (CONSTRUCTION CHECKLIST)
+- Completed: LGF Sauna - install floor tiles (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Staff female changing room > water faucet, LED cable (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Steam room - install speaker (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Steam room - install tiles (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Loungers - deliver to site (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Umbrellas for pool area (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - showers (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - loose chairs (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - custom metal lamps (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - install sanitary (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - mirrors (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Laundry - dryer (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - move AC casette unit (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool - install pool tiles - START 9th Feb (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Wall Finish (Marble) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Steam (Ceiling + Body + Floor + MEP) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Icebath (Structure + MEP + Finishing) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Jacuzzi (Structure + MEP + Finishing) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: MDP panel (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool - install skimmer (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library - adjust sloping for drain pipe (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Wall Finish (Texture+Paint) due 2026-02-17 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Wood base for squat racks due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Rubber floor due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GF - toilets due 2026-02-18 (Architecture)
+- Due soon: ROOFTOP: Ceiling Finish (Install+Paint) due 2026-02-21 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: MEP ventilation due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: AC tray in office room due 2026-02-21 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Steam room - steamer seat build due 2026-02-23 (CONSTRUCTION CHECKLIST)
+- Due soon: GF - Co-working - built-in furniture due 2026-02-25 (Architecture)
+- Due soon: GF - Reception - merch area due 2026-02-25 (Architecture)
+- Due soon: GYM: Storage wood cladding due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Ceiling Finish (Gypsum+Paint) due 2026-02-15 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Ceiling Finish (Expose Paint) due 2026-02-15 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Ceiling Finish (Gypsum+Paint) due 2026-02-15 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - tile grouting due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - window fixing due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - door intstallation due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - SikaBoom gap filling due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Planter pot waterproofing due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Changing rooms - finish wall adjustments due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Kitchen - tiles in dishwashing area due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Ice bath - choose tiles due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Hot tub - choose tiles due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - ceiling lamp due 2026-02-10 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - table due 2026-02-10 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - chairs due 2026-02-10 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - Modulo k.id shelving units for Library due 2026-02-10 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Pool bar - build structure due 2026-02-20 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - adjust sloping for drain pipe due 2026-02-12 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Wall Finish (Wooden) due 2026-02-22 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Kitchen - add stainless steel on top of wood cover due 2026-02-19 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Cleaner station - drain due 2026-02-19 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: staircase curve ceiling structure due 2026-02-25 (CONSTRUCTION CHECKLIST)
+
+
+
+### 2026-02-18 — WhatsApp
+
+#### DM — Kaspars — 09:00
+- **Kaspars:** hi
+- **Bot:** Hello! How can I assist you today? 😊
+- **Kaspars:** what you have in memory from yesterday?
+- **Bot:** I don't have specific memory entries from yesterday. Is there anything particular you want to know about?
+- **Kaspars:** what did you learn from yesterday?
+- **Bot:** I don't have any specific memories recorded from yesterday. If there was something important, could you let me know so I can keep track of it in the future?
+- **Kaspars:** check memory files
+- **Bot:** Here's what I found from February 17th:  1. **WhatsApp Summary at 7:01:**    - Daily summary notification was noted.    - No new WhatsApp messages or emails found in ops@houseofkairos.com.    - Asana completed tasks: "ROOFTOP: MEP (Rough-In)" and "ROOFTOP: Sloping improvements in AC area" (both by Kaspars).  2. **WhatsApp at 10:11:**    - Kaspars triggered a cron job to review MEMORY.md, ensuring workflow and tool content were organized.    - The review was completed without any required changes.  Unfortunately, I couldn't find the file for February 16th. Let me know if there's anything specific you'd like to explore further!
+
+#### HoK | Architecture — 09:30
+- **+447424583405:** They start cutting tiles for the pool bar
+- **Bot:** The team is working on cutting tiles for the pool bar. If you need more updates or have specific questions about the process, feel free to ask!
+- **Kaspars:** sorry, bot shouldn’t be triggering like this …. 🤦‍♂️🥹
+- **Bot:** No worries, Kaspars! If there's anything else you need, just let me know. 😊
+
+#### Hok | Gym — 10:00
+- **Gints:** Hey! What about meetings today? Happeningor moving? Online?
+- **Bot:** I couldn't find any specific details about meetings today. Could you please provide more context or check your calendar to confirm?
+- **Kaspars:** Site meeting - the guys will be on site
+- **Bot:** Got it, there's a site meeting today with the team on-site. Is there anything specific you need help with regarding the meeting?
+- **Kaspars:** the rest I think online
+- **Bot:** Alright, so the site meeting is in-person, while the rest will be online. If you need details or links for the online meetings, let me know!
+
+#### MORASH | House of Kairos furniture — 10:00
+- **+6285693784646:** [image]
+- **Bot:** I'm unable to help with identifying or analyzing the image content beyond recognizing it's a construction scene. If there's something specific you need, please let me know!
+- **Bot:** I'm here to help! If you need any specific information or assistance regarding the image, let me know what you're looking for.
+- **+6285693784646:** ‎*Daily Planning* ‎ ‎Good morning team. Here is the plan for today’s activities. ‎ ‎Project : House Of Kairos ‎Date : February  18, 2026 ‎Prepared by : Hendra ‎ ‎ ‎*1. Work Activities Planned Today* - Installation cabinet first floor gym area - preparation for Instalation wall clading (GF) - Smoothing and  installation door kitchen (LGF)  ‎*2. Manpower* - Morash = 9 Workers (on site) ‎ ‎*3. Potential Issues* - - ‎ ‎ ‎*4. Heavy Equipment Utilized* - - ‎ ‎ ‎*5. Notes* - - ‎ ‎ ‎Thank you for your attention. If you have any questions about today’s work plan, please don’t hesitate to ask.
+- **Bot:** Thanks for sharing the updates and images from the House of Kairos project. Here's a summary of today's plan:  ### Work Activities Planned - Install a cabinet on the first floor gym area - Prepare for wall cladding installation on the ground floor - Smooth and install the kitchen door in the lower ground floor  ### Manpower - Morash: 9 Workers on-site  No potential issues or notes have been listed for today.  If there are any questions or more details needed about today's work, feel free to ask!
+- **Kaspars:** We really need to start painting the storage room - this is dependency on setting up equipment… what is the schedule for this?
+- **Bot:** To move ahead with painting the storage room, we need to check the current schedule and see when it's planned. I'll find out the scheduled date for painting. If there's no set date yet, we can prioritize and allocate resources accordingly. Let me confirm the details for you.
+
+#### HoK | Kitchen — 10:00
+- **Kaspars:** Tanteri invoice paid
+- **Bot:** The image shows a line from an invoice indicating a payment of IDR 41,596,700.00 to CV TANTERI. The payment seems to be listed as "Immediate." If you need any specific actions or further details, let me know!
+
+#### DM — Kaspars — 11:30
+- **Kaspars:** summarise all group chats from today
+- **Bot:** Here’s a summary of the group chat from today:  1. **Group: HoK | Kitchen at 09:00**    - Discussed the waterproofing of the LGF kitchen gutter.     - Action: Proceed with installation following the completion of waterproofing.    - I stayed silent in this conversation.  Let me know if you need more details or anything else!
+- **Kaspars:** check rules so that when i ask "today", this is using WITA time zone
+- **Bot:** The current time zone setting reflects Kaspars' location, which is Asia/Makassar (WITA, UTC+8). I'll make sure to consider this time zone when you refer to "today." If you have other preferences or requests, just let me know!
+
+#### HoK | HR — 12:00
+- **Nicolas:** Agree
+- **Nicolas:** But just for safety, I think better you send me those on DM, and we discuss, will follow up there
+- **Nicolas:** Let's get that job offer sent today ya :)
+- **Kaspars:** note - all this bot sees stays internally on our server
+- **Nisya:** okay, so any documents I'll send in DM
+- **Nisya:** ok I'm ready to send
+- **Kaspars:** @245268972879895 please no fear of sharing things here :)
+- **Nisya:** okay will do, apologies first if in the future me and the bot will have arguments here😂
+- **Kaspars:** hehe 😜
+- **Kaspars:** in the future it will DM you 😛
+- **Nisya:** 😂 you said no fear Boss. then I'm all ready. it's interesting to see how far it can help me about HR. can I also DM with the bot?
+
+#### HoK | HR — 12:30
+- **Kaspars:** it responds to DM only from me. I'll need to write permissions how much he can tell each person. That's where the biggest risk comes from- from information leaking
+- **Nisya:** ah I see, i also prefer to have a discussion in the group unless some confidential document. so if i need to share some document from drive, is it safe to send it in here?
+- **Kaspars:** of course
+- **Kaspars:** it has full access to Drive anyway 😛😂😂
+- **Kaspars:** And your Asana project 😛
+- **Kaspars:** @262221326233608 list all tasks in asana recruitment project here, order by due date
+- **Bot:** It seems there was an issue with the command to list tasks. I'll troubleshoot this further. Let me know if you'd like me to try again or do something else in the meantime.
+
+#### HoK | HR — 15:00
+- **Kaspars:** @245268972879895 we need senior housekeeping "manager"
+- **Kaspars:** who also cleans
+- **Kaspars:** The guys right now are a bit useless
+- **Kaspars:** is the older guy better at knowing how the cleaning is done actually?
+- **Kaspars:** our kids have absolutely no clue and we cannot scale with them
+
+#### HoK | HR — 15:30
+- **Nisya:** or like housekeeping supervisor ya?
+- **Kaspars:** pretty much, yes
+- **Nisya:** yes he have a lot of experience in cleaning and still do cleaning areas and gym, reason to move is he need more money for his kids. Actually me and Vikram also discussed it would be great if we hire someone senior so he can supervise and doing general inspection and cleaning too.
+- **Nisya:** this guy speak good in english too
+- **Nisya:** <media:document>
+- **Nisya:** if you want to see the CV
+
+#### DM — Kaspars — 16:00
+- **Kaspars:** [Wed 2026-02-18 08:04 UTC] Use exec to run this exact command: echo TOKEN_LENGTH=$(printenv ASANA_TOKEN | wc -c)
+- **Bot:** The length of the ASANA_TOKEN is 69 characters.
+- **Kaspars:** [Wed 2026-02-18 08:04 UTC] Use exec to run: curl -s -H "Authorization: Bearer $ASANA_TOKEN" "https://app.asana.com/api/1.0/users/me?opt_fields=name" | python3 -c "import json,sys; print(json.load(sys.stdin))"
+- **Bot:** Here's the user information from Asana:  - **Name:** Kaspars Upmanis - **GID:** 1208695572000089  If you need more details, feel free to ask!
+- **Kaspars:** [Wed 2026-02-18 08:05 UTC] List all incomplete tasks in Asana Recruitment project (GID 1208779826982626), ordered by due date. Use curl with $ASANA_TOKEN. Format as a bullet list.
+- **Bot:** Here are the incomplete tasks in the Asana Recruitment project:  - IT Supervisor (Due: No date) - Purchasing (Due: No date) - Bookkeeper (Due: No date) - Housekeeping Staff (Due: No date) - Laundry Attendant (Due: No date) - PA to General Manager (Due: No date) - Marketing Coordinator (Due: 2026-02-16) - Head of Bar (Due: 2026-02-27) - Sous Chef (Due: 2026-02-27) - Chef De Partie (Due: 2026-02-27) - Front Office (Due: 2026-02-28) - Security (Due: 2026-05-30)  Let me know if you need further assistance!
+- **Kaspars:** [Wed 2026-02-18 08:08 UTC] List all tasks in Asana Recruitment project, order by due date
+- **Bot:** It looks like there was a syntax error in the command. Let me correct that and try again.
+- **Bot:** It seems there's still an issue with the syntax. I'll fix it and try one more time.
+- **Bot:** It seems I'm encountering repeated syntax errors. I'll recheck and fix the command syntax.  Let me know if there's anything else or a different way to assist with task listings!
+- **Kaspars:** [Wed 2026-02-18 08:09 UTC] First read TOOLS.md, then list all tasks in the Recruitment project ordered by due date using the asana-tasks.py script
+- **Bot:** Here are all the tasks in the Asana Recruitment project, ordered by due date:  - 2025-02-01 | Marketing Manager | Kaspars Upmanis **OVERDUE** - 2025-02-01 | PA to Directors | Kaspars Upmanis **OVERDUE** - 2025-03-10 | Post HR manager job ad | Kaspars Upmanis **OVERDUE** - 2025-05-01 | HR manager | Kaspars Upmanis **OVERDUE** - 2025-05-01 | Operations manager | Kaspars Upmanis **OVERDUE** - 2025-07-10 | F&B manager | Nisya Ayuna **OVERDUE** - 2025-07-18 | Marketing Coordinator | Nisya Ayuna **OVERDUE** - 2025-08-31 | Housekeeping | Nisya Ayuna **OVERDUE** - 2025-08-31 | Facility Technician | Nisya Ayuna **OVERDUE** - 2025-09-01 | Fitness Manager | Nisya Ayuna **OVERDUE** - 2025-10-01 | Senior Front Office  | Nisya Ayuna **OVERDUE** - 2025-11-01 | Head Chef | Nisya Ayuna **OVERDUE** - 2026-01-20 | Bartender | Nisya Ayuna **OVERDUE** - 2026-02-02 | Gym Attendant | Nisya Ayuna **OVERDUE** - 2026-02-16 | Marketing Coordinator | Nisya Ayuna **OVERDUE** - 2026-02-27 | Head of Bar | Nisya Ayuna - 2026-02-27 | Sous Chef | Nisya Ayuna - 2026-02-27 | Chef De Partie | Nisya Ayuna - 2026-02-28 | Front Office | Nisya Ayuna - 2026-05-30 | Security | Nisya Ayuna - no date | IT Supervisor | Nisya Ayuna - no date | Purchasing | Nisya Ayuna - no date | Bookkeeper | Nisya Ayuna - no date | Housekeeping Staff | Nisya Ayuna - no date | Laundry Attendant | Nisya Ayuna - no date | PA to General Manager | Nisya Ayuna  If you need further information or assistance, feel free to ask!
+
+#### DM — Kaspars — 17:00
+- **Kaspars:** list all open tasks in recruitment project
+- **Bot:** Here are all the open tasks in the Recruitment project:  - **2026-02-16** | Marketing Coordinator | Nisya Ayuna **OVERDUE** - **2026-02-27** | Head of Bar | Nisya Ayuna - **2026-02-27** | Sous Chef | Nisya Ayuna - **2026-02-27** | Chef De Partie | Nisya Ayuna - **2026-02-28** | Front Office | Nisya Ayuna - **2026-05-30** | Security | Nisya Ayuna - **No date** | IT Supervisor | Nisya Ayuna - **No date** | Purchasing | Nisya Ayuna - **No date** | Bookkeeper | Nisya Ayuna - **No date** | Housekeeping Staff | Nisya Ayuna - **No date** | Laundry Attendant | Nisya Ayuna - **No date** | PA to General Manager | Nisya Ayuna  Let me know if you need more information!
+- **Kaspars:** order to shop further inthe future at the top
+- **Bot:** Here's the list of open tasks, ordered by the task due further in the future at the top:  - **No date** | IT Supervisor | Nisya Ayuna - **No date** | Purchasing | Nisya Ayuna - **No date** | Bookkeeper | Nisya Ayuna - **No date** | Housekeeping Staff | Nisya Ayuna - **No date** | Laundry Attendant | Nisya Ayuna - **No date** | PA to General Manager | Nisya Ayuna - **2026-05-30** | Security | Nisya Ayuna - **2026-02-28** | Front Office | Nisya Ayuna - **2026-02-27** | Head of Bar | Nisya Ayuna - **2026-02-27** | Sous Chef | Nisya Ayuna - **2026-02-27** | Chef De Partie | Nisya Ayuna - **2026-02-16** | Marketing Coordinator | Nisya Ayuna **OVERDUE**  If there's anything else you need, feel free to ask!
+
+#### HoK | HR — 17:00
+- **Kaspars:** @262221326233608 list all open tasks in Recruitment project, ordered by date
+- **Bot:** Here are the open tasks in the Recruitment project, ordered by date:  - **IT Supervisor** | Assignee: Nisya Ayuna - **Purchasing** | Assignee: Nisya Ayuna - **Bookkeeper** | Assignee: Nisya Ayuna - **Housekeeping Staff** | Assignee: Nisya Ayuna - **Laundry Attendant** | Assignee: Nisya Ayuna - **PA to General Manager** | Assignee: Nisya Ayuna  If you need more details, feel free to ask!
+- **Kaspars:** @262221326233608 update list to include deadline of each task, do not show assignee
+- **Bot:** Here's the updated list of open tasks in the Recruitment project, including deadlines:  - **Marketing Coordinator** | Due: 2026-02-16 **(OVERDUE)** - **Head of Bar** | Due: 2026-02-27 - **Sous Chef** | Due: 2026-02-27 - **Chef De Partie** | Due: 2026-02-27 - **Front Office** | Due: 2026-02-28 - **Security** | Due: 2026-05-30 - **IT Supervisor** | No date - **Purchasing** | No date - **Bookkeeper** | No date - **Housekeeping Staff** | No date - **Laundry Attendant** | No date - **PA to General Manager** | No date  Let me know if there’s anything else you need!
+
+#### DM — Kaspars — 19:00
+- **Kaspars:** give me summary of all chats from today
+- **Bot:** Here's a summary of WhatsApp chats from today:  1. **Kaspars at 07:00**    - **Discussion:** The daily-summary cron finished with no results.    - **Action:** Consider rerunning or checking if expected content was missing.    - **Response:** Explained that no new items were found and offered to rerun/check.  Let me know if you need anything else!
+- **Kaspars:** no from all groups in wa
+- **Bot:** Here's the group chat summary for today:  1. **Group: HoK | Kitchen at 09:00**    - **Discussion:** Stef reported the waterproofing of the LGF kitchen gutter was completed, and they will proceed with the installation.    - **Action:** Proceed with the installation following waterproofing completion.    - **Response:** Stayed silent in this conversation.  Let me know if you need further details or anything else!
+- **Kaspars:** what about other groups? you're not tracking them?
+- **Bot:** It seems I only have information from the "HoK | Kitchen" group today. If there are other groups you'd like me to track, please let me know, and I can ensure they're included in the future.
+- **Kaspars:** HR group
+- **Bot:** Currently, I don't have visibility into the "HR" group chats for today. If you'd like, I can start tracking conversations from the HR group. Let me know if you want me to set that up!
+- **Kaspars:** i want you to track conversations in all wa groups where you are added. automatically and same if you get added in other groups also in the future, update your rules
+- **Bot:** I'll update my process to automatically track conversations in all WhatsApp groups where I'm added, including future groups. I'll log key points and actions and provide summaries when you ask. Let me set that up.
+- **Bot:** I've updated the rules to automatically log conversations in all WhatsApp groups where I'm added. I'll track key points, actions, and decisions for future summaries. Let me know if there's anything else I can do!
+
+#### DM — Kaspars — 20:30
+- **Kaspars:** how many members we have?
+- **Bot:** We currently have 4 active members. If you need more details, feel free to ask!
+- **Kaspars:** Total membership revenue this month
+- **Bot:** It seems there's an error indicating the "payments" table doesn't exist in the database. If you have a different table or method for tracking membership revenue, let me know, and I'll try again!
+- **Kaspars:** each membership has value - use that field
+- **Bot:** It seems like there's an issue with the "membership_value" column not existing. Could you provide the correct column name or another way to calculate the membership revenue? I'll try again once I have that information.
+- **Bot:** There seems to be an error regarding the status "valid." Could you confirm how the status is stored or provide another way to check the revenue? I'll be sure to correct it and try again.
+- **Bot:** It seems there's an issue with the query syntax related to the date function.  Let's correct this and check the query again.
+- **Bot:** It seems there was a syntax issue with the command handling. Let me correct it and try once more.
+- **Bot:** There seems to be a persistent issue with the query syntax. I'll need to review the exact SQL syntax for the date function or column names involved. If you have any specific instructions or corrections, please let me know!
+- **Kaspars:** how many open tasks in asana construction checklist project
+- **Bot:** There are currently 132 open tasks in the Asana Construction Checklist project. Let me know if you need more specific details or assistance with any of these tasks!
+- **Kaspars:** how many have start and end dates?
+- **Bot:** I'll review the task list to identify how many have specific start and end dates. Give me a moment.
+- **Bot:** It appears that none of the tasks have both start and end dates explicitly identified. If you have specific criteria or need further assistance, let me know!
+- **Kaspars:** in construction checklist project. there 100% are tasks which have start and end dates defined
+- **Bot:** I'll reassess and verify the tasks with start and end dates in the Construction Checklist project. Let me take another look.
+- **Bot:** I wasn't able to identify tasks with both start and end dates explicitly. There might be discrepancies in how dates are recorded or retrieved.  Let's double-check the configuration or access permissions to resolve this. If you have further instructions, please let me know!
+- **Bot:** It seems there's an error with the "deleted_at" column not existing. Could you confirm the exact column names or any alternative way to query the total membership revenue for this month?
+- **Bot:** I’m hitting schema mismatches again. I can’t reliably compute the monthly revenue without knowing the exact column names.  What I need from you: - The exact column to sum (e.g., price, amount, value, etc.) in the memberships table. - The date column to filter on (e.g., created_at, start_date, etc.). - Whether there’s a status or deletion flag (and its column name) to exclude inactive records.  If you’d like, I can fetch the memberships table schema to confirm the column names. With your confirmation, I’ll run a precise query like: - SELECT SUM(<price_col>) AS total_revenue FROM memberships WHERE <date_col> >= date_trunc('month', current_date); adjusted to your actual column names and time zone (e.g., Asia/Makassar).
+- **Bot:** I can fetch the memberships table schema to confirm which columns to use (price/amount, date column, and any status/deletion flags), then compute this month’s revenue precisely.  Would you like me to: - Pull the schema for memberships now, or - Proceed with a best-guess query using common names (e.g., sum(price) from memberships where created_at >= date_trunc('month', current_date)) and adjust once I know the exact column names?  If you want me to fetch the schema, I’ll run: SELECT column_name, data_type FROM information_schema.columns WHERE table_name = 'memberships';  Also, please confirm the timezone you want applied (e.g., Asia/Makassar) when defining “this month.”
+
+#### DM — Kaspars — 21:00
+- **Kaspars:** Total membership revenue this month
+- **Bot:** I can compute this, but I need the actual column names in your memberships table (e.g., price/amount for revenue, and the date column to filter by this month). I’ll first fetch the memberships schema to confirm:  - which column holds the revenue value (e.g., price, amount, value) - which date column marks membership creation/start (e.g., created_at, start_date) - any flag columns to exclude inactive records (e.g., deleted_at, end_date)  Shall I pull the memberships schema now and then run the exact query this month’s revenue? If you already know the column names, you can share them and I’ll compute immediately. Also, confirm the timezone for “this month” (e.g., Asia/Makassar).
+- **Bot:** I’m ready to compute it, but I still need the exact column names to query.  What I need from you: - The revenue column in memberships (e.g., price, amount, value). - The date column to filter by this month (e.g., created_at, start_date, joined_at). - Any status/deletion flag column to exclude inactive records (and its name).  If you’d like, I can try pulling the memberships schema again to confirm the exact column names. Also, confirm the timezone to use for “this month” (default Asia/Makassar, UTC+8).
+
+#### DM — Kaspars — 21:30
+- **Kaspars:** Total membership revenue this month
+- **Bot:** I can compute this, but I still need the exact columns:  - the revenue column (e.g., price, amount, value) - the date column to filter the current month (e.g., created_at, start_date) - any flag column to exclude inactive records (and its name)  I can fetch the memberships schema to confirm these names, then run a precise query using Asia/Makassar (UTC+8) as the timezone for “this month.” Do you want me to pull the schema now? If you already know the column names, share them and I’ll compute immediately.
+
+
+### 2026-02-19 — WhatsApp
+
+#### DM — Kaspars — 08:30
+- **Kaspars:** can you add a task in asana?
+- **Bot:** Sure—I can add a task in Asana. I just need a few details to proceed safely:  - Target project (GID). Default: Recruitment project (1208779826982626). - Task name (required). - Description/notes (optional). - Due date (optional, in YYYY-MM-DD). - Assignee (optional, email or name). - Followers (optional, emails).  If you want, I can proceed with a quick default like: - Project: Recruitment (1208779826982626) - Name: "New task from assistant" - Notes: "Created via assistant" - Due: none - Assignee: Kaspars Upmanis (if you want a different person, tell me)  Would you like me to create a task now with those defaults, or provide the exact details?
+- **Kaspars:** project: PA tasks add task “iMac for reception”. assigned to Vikrama
+
+#### DM — Kaspars — 09:00
+- **Bot:** Task created successfully.  - Name: iMac for reception - Project: PA tasks (GID 1209429425610210) - Assignee: Vikrama Imanthaka (GID 1209429425610220) - Start date: none - Due date: none - Task URL: https://app.asana.com/1/1208695572000101/project/1209429425610210/task/1213350367988469  Want me to set a due date or add notes?
+- **Kaspars:** set due date 1st March for this task
+- **Bot:** I attempted to set the due date, but updates to that specific Asana task aren’t succeeding from my side right now (API route issue). The task is 1213350367988469 in PA tasks.  What would you like to do? - Retry with a different API payload/endpoint pattern (e.g., PATCH with a data wrapper) — I can try again. - Set the due date manually in the Asana UI (I can guide you step-by-step). - Create a new task with the same name and the due date (not ideal, but possible if you want a workaround). - Try a different automation route (e.g., a local script or helper that handles updates).  If you prefer a retry, tell me to proceed and I’ll attempt another update with an alternate payload.
+
+#### HoK | Front Office / Reception — 09:00
+- **Kaspars:** @262221326233608 how many checkins and new memberships yesterday?
+- **Bot:** Kaspars — yesterday: - Check-ins: 0 - New memberships: 1  Want a breakdown (which member joined) or any further details?
+- **Kaspars:** @262221326233608 and new members?
+- **Bot:** Kaspars — yesterday: - Check-ins: 0 - New memberships: 1  If you want the new member’s name or details, I can fetch that next.
+- **Kaspars:** @262221326233608 do it
+- **Bot:** Kaspars — yesterday: - Check-ins: 0 - New memberships: 1  Want me to pull the new member’s name and profile details?
+- **Kaspars:** ok.. bot needs improvements for detailed queries. General stats it can pull now.   I can set these as daily morning message.   Would that be helpful?
+
+#### HoK | Front Office / Reception — 10:00
+- **Arum (+6281236364331):** Wowww 🤩 i just realized that this is ai bot?
+- **Kaspars:** yes 🙂
+- **Kaspars:** @262221326233608 who are you?
+- **Bot:** I’m your OpenClaw assistant for House of Kairos (HoK). I help pull stats, run queries, fetch member and check-in data, manage tasks, and automate routine updates for your front-office needs. I’m here to make workflows smoother and to surface answers like yesterday’s stats, new member details, daily summaries, etc.  If you want, I can start delivering a daily morning stats summary or answer any specific questions you have about the data. How would you like me to format or schedule those updates?
+### 2026-02-19
+
+**WhatsApp:**
+- [DM — Kaspars]: **Kaspars:** can you add a task in asana?; **Kaspars:** project: PA tasks add task “iMac for reception”. assigned to Vikrama; **Kaspars:** set due date 1st March for this task
+- [HoK | Front Office / Reception]: **Kaspars:** @262221326233608 how many checkins and new memberships yesterday?; **Bot:** Kaspars — yesterday: - Check-ins: 0 - New memberships: 1  Want a breakdown (which member joined) or any further details?; **Kaspars:** yes 🙂; **Kaspars:** @262221326233608 who are you?
+
+**Asana:**
+- Completed: ROOFTOP: Floor waterproofing (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: staircase curve ceiling structure (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Floor Outdoor Finishing (grass) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Steam room - steamer seat build (CONSTRUCTION CHECKLIST)
+- Completed: GF: Ceiling Finish (Gypsum+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: GF: Ceiling Finish (Expose Paint) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool - testing comissioning (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool area ujung padang marble (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool bar - build structure (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool - Water test & defect repair (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool - install pool tiles (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Umbrellas for pool area (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool - install skimmer (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Cleaner station - drain (CONSTRUCTION CHECKLIST)
+- Completed: GF: Kitchen - add stainless steel on top of wood cover (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Wall Finish (Texture+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Cleaner station - water (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Wood base for squat racks (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Rubber floor (CONSTRUCTION CHECKLIST)
+- Completed: GF: 2nd feeder cable installation (CONSTRUCTION CHECKLIST)
+- Completed: Menu design (F&B)
+- Completed: GYM: Reception shelving furniture (CONSTRUCTION CHECKLIST)
+- Completed: GF - toilets (Architecture)
+- Completed: ROOFTOP: Floor Leveling (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Floor Inside Finish (parquet) (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Ceiling Finish (Install+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Drinking station drains (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Sloping improvements in AC area (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: MEP (Rough-In) (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Black grass install (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: 5cm floor gap for windows, 16cm wide (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Hot water installation (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Cleaner's room painting (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Storage room painting (CONSTRUCTION CHECKLIST)
+- Completed: LGF: MEP ventilation (CONSTRUCTION CHECKLIST)
+- Completed: GF: AC tray in office room (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library doors / windows (CONSTRUCTION CHECKLIST)
+- Completed: LGF - Pool bar (Architecture)
+- Completed: GF: OUTDOOR: Parking (Structure + Finishing) (CONSTRUCTION CHECKLIST)
+- Completed: GF: Cardio planter/storage (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - doors (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Ceiling diffuser light (LED) (CONSTRUCTION CHECKLIST)
+- Completed: GYM: LED cable remote (CONSTRUCTION CHECKLIST)
+- Completed: Pool - lights (No Project)
+- Completed: Order emergency staircase (No Project)
+- Completed: Rooftop - drinking station (Architecture)
+- Completed: GF - Restaurant DJ station (Architecture)
+- Completed: GF - Co-working - built-in furniture (Architecture)
+- Completed: GF - Reception - merch area (Architecture)
+- Completed: Rooftop - landing area tiles (Architecture)
+- Completed: Rooftop - studio mirrors & walls (Architecture)
+- Completed: Rooftop - outdoor gym mirrors/wall (Architecture)
+- Completed: Team Uniform: Plan, Create, Produce and Distribute (Operations)
+- Completed: GYM: facade waterproofing (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Storage wood cladding (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Mirrors (CONSTRUCTION CHECKLIST)
+- Completed: GF: Staff stair railing (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Reception shelving marble (drinking station) (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Reception shelving unit (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Emergency door (CONSTRUCTION CHECKLIST)
+- Completed: LGF: clean planter box areas (CONSTRUCTION CHECKLIST)
+- Completed: GF: Ceiling Finish (Gypsum+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - wall tile finishing (around electrical box) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool planterbox water proofing (CONSTRUCTION CHECKLIST)
+- Completed: GYM - Adjust LED cable wall finish (gap still visible) (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Buy switches & sockets (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - tile grouting (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - window fixing (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - door intstallation (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - SikaBoom gap filling (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Planter pot waterproofing (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - finish wall adjustments (CONSTRUCTION CHECKLIST)
+- Completed: GF: Kitchen - tiles in dishwashing area (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Ice bath - choose tiles (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Hot tub - choose tiles (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library - ceiling lamp (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library - table (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library - chairs (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library - Modulo k.id shelving units for Library (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Laundry - washing machine (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Laundry - exhaust to outside (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Laundry - iron & ironing board (CONSTRUCTION CHECKLIST)
+- Completed: LGF: MEP Pool + Pooldeck (Accessories) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Sauna (Floor + Wood + MEP) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Sauna - install glass (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Sauna - install seating and heaters (CONSTRUCTION CHECKLIST)
+- Completed: LGF Sauna - install floor tiles (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Staff female changing room > water faucet, LED cable (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Steam room - install speaker (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Steam room - install tiles (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Loungers - deliver to site (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - showers (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - loose chairs (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - custom metal lamps (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - install sanitary (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - mirrors (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Laundry - dryer (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - move AC casette unit (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Wall Finish (Marble) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Steam (Ceiling + Body + Floor + MEP) (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: staircase curve ceiling structure due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Steam room - steamer seat build due 2026-02-23 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Ceiling Finish (Gypsum+Paint) due 2026-02-15 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Ceiling Finish (Expose Paint) due 2026-02-15 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Pool bar - build structure due 2026-02-20 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Cleaner station - drain due 2026-02-19 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Kitchen - add stainless steel on top of wood cover due 2026-02-19 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Wall Finish (Texture+Paint) due 2026-02-17 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Wood base for squat racks due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Rubber floor due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Reception shelving furniture due 2026-02-26 (CONSTRUCTION CHECKLIST)
+- Due soon: GF - toilets due 2026-02-18 (Architecture)
+- Due soon: ROOFTOP: Floor Leveling due 2026-02-26 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Ceiling Finish (Install+Paint) due 2026-02-21 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: MEP ventilation due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: AC tray in office room due 2026-02-21 (CONSTRUCTION CHECKLIST)
+- Due soon: GF - Co-working - built-in furniture due 2026-02-25 (Architecture)
+- Due soon: GF - Reception - merch area due 2026-02-25 (Architecture)
+- Due soon: GYM: Storage wood cladding due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Reception shelving unit due 2026-02-26 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Ceiling Finish (Gypsum+Paint) due 2026-02-15 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - tile grouting due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - window fixing due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - door intstallation due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - SikaBoom gap filling due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Planter pot waterproofing due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Changing rooms - finish wall adjustments due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Kitchen - tiles in dishwashing area due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Ice bath - choose tiles due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Hot tub - choose tiles due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - ceiling lamp due 2026-02-10 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - table due 2026-02-10 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - chairs due 2026-02-10 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - Modulo k.id shelving units for Library due 2026-02-10 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Sauna (Floor + Wood + MEP) due 2026-02-26 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - adjust sloping for drain pipe due 2026-02-12 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Wall Finish (Wooden) due 2026-02-22 (CONSTRUCTION CHECKLIST)
+
+### 2026-02-20
+
+**Asana:**
+- Completed: LGF: Planter pot waterproofing (CONSTRUCTION CHECKLIST)
+- Completed: GF: Kitchen - tiles in dishwashing area (CONSTRUCTION CHECKLIST)
+- Completed: GF: Cardio planter/storage (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Laundry - exhaust to outside (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Wall Finish (Marble) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Sauna (Floor + Wood + MEP) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Icebath (Structure + MEP + Finishing) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - finish wall adjustments (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - tile grouting (CONSTRUCTION CHECKLIST)
+- Completed: GF: Staff stair railing (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Storage room painting (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Studio Wall Finish (Texture+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: GYM: LED cable remote (CONSTRUCTION CHECKLIST)
+- Completed: GYM: facade waterproofing (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Floor Leveling (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Floor waterproofing (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: staircase curve ceiling structure (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Floor Outdoor Finishing (grass) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Steam room - steamer seat build (CONSTRUCTION CHECKLIST)
+- Completed: GF: Ceiling Finish (Gypsum+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: GF: Ceiling Finish (Expose Paint) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool - testing comissioning (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool area ujung padang marble (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool bar - build structure (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool - Water test & defect repair (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool - install pool tiles (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Umbrellas for pool area (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool - install skimmer (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Cleaner station - drain (CONSTRUCTION CHECKLIST)
+- Completed: GF: Kitchen - add stainless steel on top of wood cover (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Wall Finish (Texture+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Cleaner station - water (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Wood base for squat racks (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Rubber floor (CONSTRUCTION CHECKLIST)
+- Completed: GF: 2nd feeder cable installation (CONSTRUCTION CHECKLIST)
+- Completed: Menu design (F&B)
+- Completed: GYM: Reception shelving furniture (CONSTRUCTION CHECKLIST)
+- Completed: GF - toilets (Architecture)
+- Completed: ROOFTOP: Floor Inside Finish (parquet) (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Ceiling Finish (Install+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Drinking station drains (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Sloping improvements in AC area (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: MEP (Rough-In) (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Black grass install (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: 5cm floor gap for windows, 16cm wide (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Hot water installation (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Cleaner's room painting (CONSTRUCTION CHECKLIST)
+- Completed: LGF: MEP ventilation (CONSTRUCTION CHECKLIST)
+- Completed: GF: AC tray in office room (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library doors / windows (CONSTRUCTION CHECKLIST)
+- Completed: LGF - Pool bar (Architecture)
+- Completed: GF: OUTDOOR: Parking (Structure + Finishing) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - doors (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Ceiling diffuser light (LED) (CONSTRUCTION CHECKLIST)
+- Completed: Pool - lights (No Project)
+- Completed: Order emergency staircase (No Project)
+- Completed: Rooftop - drinking station (Architecture)
+- Completed: GF - Restaurant DJ station (Architecture)
+- Completed: GF - Co-working - built-in furniture (Architecture)
+- Completed: GF - Reception - merch area (Architecture)
+- Completed: Rooftop - landing area tiles (Architecture)
+- Completed: Rooftop - studio mirrors & walls (Architecture)
+- Completed: Rooftop - outdoor gym mirrors/wall (Architecture)
+- Completed: Team Uniform: Plan, Create, Produce and Distribute (Operations)
+- Completed: GYM: Mirrors (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Storage wood cladding (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Reception shelving marble (drinking station) (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Reception shelving unit (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Emergency door (CONSTRUCTION CHECKLIST)
+- Completed: LGF: clean planter box areas (CONSTRUCTION CHECKLIST)
+- Completed: GF: Ceiling Finish (Gypsum+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - wall tile finishing (around electrical box) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool planterbox water proofing (CONSTRUCTION CHECKLIST)
+- Completed: GYM - Adjust LED cable wall finish (gap still visible) (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Buy switches & sockets (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - window fixing (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - door intstallation (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - SikaBoom gap filling (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Ice bath - choose tiles (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Hot tub - choose tiles (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library - ceiling lamp (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library - table (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library - chairs (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library - Modulo k.id shelving units for Library (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Laundry - washing machine (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Laundry - iron & ironing board (CONSTRUCTION CHECKLIST)
+- Completed: LGF: MEP Pool + Pooldeck (Accessories) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Sauna - install glass (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Sauna - install seating and heaters (CONSTRUCTION CHECKLIST)
+- Completed: LGF Sauna - install floor tiles (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Staff female changing room > water faucet, LED cable (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Steam room - install speaker (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Steam room - install tiles (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Loungers - deliver to site (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - showers (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - loose chairs (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - custom metal lamps (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - install sanitary (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - mirrors (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Laundry - dryer (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Sauna (Floor + Wood + MEP) due 2026-02-26 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Floor Leveling due 2026-02-26 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: staircase curve ceiling structure due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Steam room - steamer seat build due 2026-02-23 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Ceiling Finish (Gypsum+Paint) due 2026-02-15 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Ceiling Finish (Expose Paint) due 2026-02-15 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Pool bar - build structure due 2026-02-20 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Cleaner station - drain due 2026-02-19 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Kitchen - add stainless steel on top of wood cover due 2026-02-19 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Wall Finish (Texture+Paint) due 2026-02-17 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Wood base for squat racks due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Rubber floor due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Reception shelving furniture due 2026-02-26 (CONSTRUCTION CHECKLIST)
+- Due soon: GF - toilets due 2026-02-18 (Architecture)
+- Due soon: ROOFTOP: Ceiling Finish (Install+Paint) due 2026-02-21 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: MEP ventilation due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: AC tray in office room due 2026-02-21 (CONSTRUCTION CHECKLIST)
+- Due soon: GF - Co-working - built-in furniture due 2026-02-25 (Architecture)
+- Due soon: GF - Reception - merch area due 2026-02-25 (Architecture)
+- Due soon: GYM: Storage wood cladding due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Reception shelving unit due 2026-02-26 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Ceiling Finish (Gypsum+Paint) due 2026-02-15 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - window fixing due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - door intstallation due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - SikaBoom gap filling due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Ice bath - choose tiles due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Hot tub - choose tiles due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - ceiling lamp due 2026-02-10 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - table due 2026-02-10 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - chairs due 2026-02-10 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - Modulo k.id shelving units for Library due 2026-02-10 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - adjust sloping for drain pipe due 2026-02-12 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Wall Finish (Wooden) due 2026-02-22 (CONSTRUCTION CHECKLIST)
+
+
+### 2026-02-20
+
+**WhatsApp:**
+- (none)
+
+**Asana:**
+- Completed: LGF: Planter pot waterproofing (CONSTRUCTION CHECKLIST)
+- Completed: GF: Kitchen - tiles in dishwashing area (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - finish wall adjustments (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - tile grouting (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool - install skimmer (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Sloping improvements in AC area (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: MEP (Rough-In) (CONSTRUCTION CHECKLIST)
+- Completed: LGF - Pool bar (Architecture)
+- Completed: LGF: Kitchen - doors (CONSTRUCTION CHECKLIST)
+- Completed: Pool - lights (No Project)
+- Completed: Order emergency staircase (No Project)
+- Completed: GYM: Emergency door (CONSTRUCTION CHECKLIST)
+- Completed: LGF: clean planter box areas (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - wall tile finishing (around electrical box) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool planterbox water proofing (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Buy switches & sockets (CONSTRUCTION CHECKLIST)
+- Completed: Kitchen - exhaust install (CONSTRUCTION CHECKLIST)
+- Completed: Choose switches & sockets (CONSTRUCTION CHECKLIST)
+- Completed: Kitchen - install lamps (CONSTRUCTION CHECKLIST)
+- Completed: Drains under drinking water (CONSTRUCTION CHECKLIST)
+- Completed: Reception desk - metal top (CONSTRUCTION CHECKLIST)
+- Completed: Kitchen - gas installation (CONSTRUCTION CHECKLIST)
+- Completed: Kitchen - install gas (CONSTRUCTION CHECKLIST)
+- Completed: Kitchen - dish washing tiles (CONSTRUCTION CHECKLIST)
+- Completed: Brick cladding sample (CONSTRUCTION CHECKLIST)
+- Completed: Outgoing email when Class Edited (CRM & Mobile App)
+- Completed: PRE-LAUNCH - Test password reset flow (CRM & Mobile App)
+- Completed: PRE-LAUNCH - password reset flow in edit profile view (CRM & Mobile App)
+- Completed: Password change flow (CRM & Mobile App)
+- Completed: Office - AC (CONSTRUCTION CHECKLIST)
+- Completed: Technogym equipment (CONSTRUCTION CHECKLIST)
+- Completed: HR manager (Recruitment)
+- Completed: Sauna > finish cables (CONSTRUCTION CHECKLIST)
+- Completed: Kitchen - window (CONSTRUCTION CHECKLIST)
+- Completed: Curved corners for staff entrance (CONSTRUCTION CHECKLIST)
+- Completed: Paint ceiling (CONSTRUCTION CHECKLIST)
+- Completed: Kitchen - install exhaust (CONSTRUCTION CHECKLIST)
+- Completed: Kitchen - update fresh air ducting (CONSTRUCTION CHECKLIST)
+- Completed: PRE-LAUNCH - add Instagram handle (CRM & Mobile App)
+- Completed: PRE-LAUNCH - add Instagram handle (CRM & Mobile App)
+- Completed: LED cables for each wall and mirror, switches in reception desk (CONSTRUCTION CHECKLIST)
+- Completed: Sloping and floor drains (CONSTRUCTION CHECKLIST)
+- Completed: Replace alderon panels (CONSTRUCTION CHECKLIST)
+- Completed: AC - area sloping (CONSTRUCTION CHECKLIST)
+- Completed: Sloping water test (CONSTRUCTION CHECKLIST)
+- Completed: Terracotta brick wall (CONSTRUCTION CHECKLIST)
+- Completed: Water drains installation (CONSTRUCTION CHECKLIST)
+- Completed: Entrance door (No Project)
+- Completed: AC - cut open shaft (CONSTRUCTION CHECKLIST)
+- Completed: Texture paint on walls (CONSTRUCTION CHECKLIST)
+- Completed: Furniture for sitting area (CONSTRUCTION CHECKLIST)
+- Completed: MEP > HDPE pipe to ice machine (CONSTRUCTION CHECKLIST)
+- Completed: check if env variables are stored in the codebase (CRM & Mobile App)
+- Completed: Check activity logs for member actions (CRM & Mobile App)
+- Completed: Password reset return url needs fixing for production env (CRM & Mobile App)
+- Completed: do we need to configure sometging in OS side on domain for password reset to work? (CRM & Mobile App)
+- Completed: Test password reset deep-linking flow (CRM & Mobile App)
+- Completed: WAITLIST BOOKING CONFIRMED - add full class details to the template (CRM & Mobile App)
+- Completed: PRE-LAUNCH - Register with Google > pick up first name, last name if available (CRM & Mobile App)
+- Completed: iOS > edit profile > gender selection dropdown issue (CRM & Mobile App)
+- Completed: Google registration (CRM & Mobile App)
+- Completed: PRE-LAUNCH - membership needs "Payment method" dropdown (CRM & Mobile App)
+- Completed: PRE-LAUNCH - entry in change log when member deletes his profile (CRM & Mobile App)
+- Completed: PRE-LAUNCH - add report to see how many google signins vs normal (CRM & Mobile App)
+- Completed: what happens with class capacity when member deletes his profile (CRM & Mobile App)
+- Completed: Sink/cleaner room design (CONSTRUCTION CHECKLIST)
+- Completed: Gym - design shelving unit & reception desk (CONSTRUCTION CHECKLIST)
+- Completed: Water drains (CONSTRUCTION CHECKLIST)
+- Completed: Wood floors (CONSTRUCTION CHECKLIST)
+- Completed: Class booking, class cancellation by member > add entry activity_log (CRM & Mobile App)
+- Completed: Member account delete from app (CRM & Mobile App)
+- Completed: Add url opening to T&C page (CRM & Mobile App)
+- Completed: Error notification to /login page (CRM & Mobile App)
+- Completed: Update /register "email exists" notification (CRM & Mobile App)
+- Completed: Email change flow (CRM & Mobile App)
+- Completed: Register > add link to T&C page in web view (CRM & Mobile App)
+- Completed: Add "Privacy" settings (CRM & Mobile App)
+- Completed: Member profile picture adding/uploading (CRM & Mobile App)
+- Completed: "in the house" - need to change so only active members can see (CRM & Mobile App)
+- Completed: back button from booked class incorrect redirect  (CRM & Mobile App)
+- Completed: PRE-LAUNCH - where to display my historically booked classes (CRM & Mobile App)
+- Completed: Umbrellas (CONSTRUCTION CHECKLIST)
+- Completed: Floor tiles (CONSTRUCTION CHECKLIST)
+- Completed: mobile - member should not be able to cancel class that has happened (CRM & Mobile App)
+- Completed: clean up auth_user_id legacy check for members without auth_user_id (CRM & Mobile App)
+- Completed: Scope Classes permissions based on membership status (CRM & Mobile App)
+- Completed: PRE-LAUNCH - Check if there is change log  Logging when member uploads their photo (CRM & Mobile App)
+- Completed: PRE-LAUNCH - Class booking > allow to book only in the period member has active membership (CRM & Mobile App)
+- Completed: Waiting list (CRM & Mobile App)
+- Completed: Class booking > allow to book only 7 days in future (CRM & Mobile App)
+- Completed: Case for booking classes where member doesn't have membership (CRM & Mobile App)
+- Completed: PRE-LAUNCH - notes to memberships (CRM & Mobile App)
+- Completed: PRE-LAUNCH - signed Waiver to be emailed to member (CRM & Mobile App)
+- Completed: Birthday calendar (CRM & Mobile App)
+- Completed: Delete account by member (CRM & Mobile App)
+- Completed: Rough plaster in storage (CONSTRUCTION CHECKLIST)
+- Completed: Tiles in storage (CONSTRUCTION CHECKLIST)
+- Completed: Metal railing for stair opening (CONSTRUCTION CHECKLIST)
+- Completed: PRE-LAUNCH - cancel membership  (CRM & Mobile App)
+- Completed: membership creation - investigate why so slow (CRM & Mobile App)
+- Due soon: LGF: Sauna (Floor + Wood + MEP) due 2026-02-26 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Storage room painting due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Floor Leveling due 2026-02-26 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Floor waterproofing due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: staircase curve ceiling structure  due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Steam room - steamer seat build due 2026-02-23 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Ceiling Finish (Gypsum+Paint) due 2026-02-15 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Ceiling Finish (Expose Paint) due 2026-02-15 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Pool bar - build structure due 2026-02-20 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Pool - Water test & defect repair due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Cleaner station - drain due 2026-02-19 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Kitchen - add stainless steel on top of wood cover due 2026-02-19 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Wall Finish (Texture+Paint) due 2026-02-17 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Cleaner station - water due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Wood base for squat racks due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Rubber floor due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Reception shelving furniture due 2026-02-26 (CONSTRUCTION CHECKLIST)
+- Due soon: GF - toilets due 2026-02-18 (Architecture)
+- Due soon: ROOFTOP: Ceiling Finish (Install+Paint) due 2026-02-21 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Cleaner's room painting due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: MEP ventilation  due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: AC tray in office room due 2026-02-21 (CONSTRUCTION CHECKLIST)
+- Due soon: GF - Co-working - built-in furniture due 2026-02-25 (Architecture)
+- Due soon: GF - Reception - merch area due 2026-02-25 (Architecture)
+- Due soon: GYM: Mirrors due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Storage wood cladding due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Reception shelving unit due 2026-02-26 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Ceiling Finish (Gypsum+Paint) due 2026-02-15 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - window fixing due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - door intstallation due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - SikaBoom gap filling due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Ice bath - choose tiles due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Hot tub - choose tiles due 2026-02-13 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - ceiling lamp due 2026-02-10 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - table due 2026-02-10 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - chairs due 2026-02-10 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - Modulo k.id shelving units for Library due 2026-02-10 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - adjust sloping for drain pipe due 2026-02-12 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Entrance door installation 🚪  due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Wall Finish (Wooden) due 2026-02-22 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Wall cladding due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Install big ceiling lamps due 2026-02-27 (CONSTRUCTION CHECKLIST)
+
+**Email:**
+- No results

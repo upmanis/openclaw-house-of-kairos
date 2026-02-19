@@ -1,0 +1,22 @@
+{
+  "since": "2026-02-18T07:00:16.000Z",
+  "projects": {
+    "CONSTRUCTION CHECKLIST": [
+      {
+        "name": "LGF: Pool - install skimmer",
+        "completed_at": "2026-02-19T01:17:02.584Z",
+        "assignee": "Kaspars Upmanis"
+      },
+      {
+        "name": "LGF: Kitchen - tile grouting",
+        "completed_at": "2026-02-19T03:26:45.011Z",
+        "assignee": "Kaspars Upmanis"
+      },
+      {
+        "name": "LGF: Changing rooms - finish wall adjustments",
+        "completed_at": "2026-02-19T03:28:00.992Z",
+        "assignee": "Kaspars Upmanis"
+      }
+    ]
+  }
+}

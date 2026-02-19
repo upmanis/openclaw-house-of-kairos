@@ -12,7 +12,7 @@
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-18_
+_Last updated: 2026-02-20_
 
 **CKM kitchen & Bar**
 - [ ] Bar equipment - deposit paid but no agreement on the final equipment — no due date
@@ -68,3 +68,83 @@ _Last updated: 2026-02-18_
 
 **Email:**
 - (none)
+### 2026-02-19
+
+**Asana:**
+- Completed: Cutlery (F&B)
+- Completed: Pool Bar Layout (F&B)
+- Completed: Protein / supplement supplier (F&B)
+- Completed: SUPPLEMENT PARNERTSHIP (F&B)
+- Completed: Coffee beans (F&B)
+- Completed: Engraving on wine glasses (F&B)
+- Completed: Protein bars - Bumi / Kygo (F&B)
+- Completed: Plates (F&B)
+- Completed: Protein shake menu (F&B)
+- Completed: Cold storage supplier (F&B)
+- Completed: Straws (F&B)
+- Completed: Takeaway coffee cups (F&B)
+- Completed: Napkins (F&B)
+- Completed: Bar equipment - deposit paid but no agreement on the final equipment (CKM kitchen & Bar)
+- Completed: Circle bar - never approved, will need to change equipment (CKM kitchen & Bar)
+- Completed: Cutlery (F&B)
+- Completed: Glasses (F&B)
+
+### 2026-02-19
+
+**Asana:**
+- Completed: Cutlery (F&B)
+- Completed: Pool Bar Layout (F&B)
+- Completed: Protein / supplement supplier (F&B)
+- Completed: SUPPLEMENT PARNERTSHIP (F&B)
+- Completed: Coffee beans (F&B)
+- Completed: Engraving on wine glasses (F&B)
+- Completed: Protein bars - Bumi / Kygo (F&B)
+- Completed: Plates (F&B)
+- Completed: Protein shake menu (F&B)
+- Completed: Cold storage supplier (F&B)
+- Completed: Straws (F&B)
+- Completed: Takeaway coffee cups (F&B)
+- Completed: Napkins (F&B)
+- Completed: Bar equipment - deposit paid but no agreement on the final equipment (CKM kitchen & Bar)
+- Completed: Circle bar - never approved, will need to change equipment (CKM kitchen & Bar)
+- Completed: Cutlery (F&B)
+- Completed: Glasses (F&B)
+
+### 2026-02-20
+
+**Asana:**
+- Completed: Cutlery (F&B)
+- Completed: Pool Bar Layout (F&B)
+- Completed: Protein / supplement supplier (F&B)
+- Completed: SUPPLEMENT PARNERTSHIP (F&B)
+- Completed: Coffee beans (F&B)
+- Completed: Engraving on wine glasses (F&B)
+- Completed: Protein bars - Bumi / Kygo (F&B)
+- Completed: Plates (F&B)
+- Completed: Protein shake menu (F&B)
+- Completed: Cold storage supplier (F&B)
+- Completed: Straws (F&B)
+- Completed: Takeaway coffee cups (F&B)
+- Completed: Napkins (F&B)
+- Completed: Bar equipment - deposit paid but no agreement on the final equipment (CKM kitchen & Bar)
+- Completed: Circle bar - never approved, will need to change equipment (CKM kitchen & Bar)
+- Completed: Cutlery (F&B)
+- Completed: Glasses (F&B)
+
+
+### 2026-02-20
+
+**WhatsApp:**
+- (none)
+
+**Asana:**
+- Completed: Protein / supplement supplier (F&B)
+- Completed: SUPPLEMENT PARNERTSHIP (F&B)
+- Completed: Coffee beans (F&B)
+- Completed: Engraving on wine glasses (F&B)
+- Completed: Protein shake menu (F&B)
+- Completed: Cold storage supplier (F&B)
+- Due soon: (none)
+
+**Email:**
+- No results
