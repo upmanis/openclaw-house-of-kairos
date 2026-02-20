@@ -12,56 +12,12 @@
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-20_
+_Last updated: 2026-02-21_
 
 **CONSTRUCTION CHECKLIST**
 - [ ] ROOFTOP: Audio — no due date
 
 ## Activity Log
-
-### 2026-02-18
-
-**Asana:**
-- Completed: ROOFTOP: Audio (CONSTRUCTION CHECKLIST)
-- Completed: Sound supplier selection (No project)
-- Completed: Gym equipment for rooftop (CONSTRUCTION CHECKLIST)
-- Completed: Select final gym equipment for gym floor (CONSTRUCTION CHECKLIST)
-- Completed: RO filter supplier (No project)
-- Completed: Investigate body scanners (No project)
-- Completed: Send latest layout to Daikin (No project)
-- Completed: Dumbwaiter (quote attached) (No project)
-
-
-### 2026-02-18
-
-**WhatsApp:**
-- (none)
-
-**Asana:**
-- Completed: Dumbwaiter (quote attached) (No Project)
-- Completed: Send latest layout to Daikin (No Project)
-- Completed: RO filter supplier (No Project)
-- Completed: Investigate body scanners (No Project)
-- Completed: Select final gym equipment for gym floor (CONSTRUCTION CHECKLIST)
-- Completed: Gym equipment for rooftop (CONSTRUCTION CHECKLIST)
-- Completed: Sound supplier selection (No Project)
-
-**Email:**
-- (none)
-### 2026-02-19
-
-**Asana:**
-- Completed: ROOFTOP: Audio (CONSTRUCTION CHECKLIST)
-- Completed: Sound supplier selection (No Project)
-- Completed: Gym equipment for rooftop (CONSTRUCTION CHECKLIST)
-- Completed: Select final gym equipment for gym floor (CONSTRUCTION CHECKLIST)
-- Completed: RO filter supplier (No Project)
-- Completed: Investigate body scanners (No Project)
-- Completed: Send latest layout to Daikin (No Project)
-- Completed: Dumbwaiter (quote attached) (No Project)
-
-
-
 ### 2026-02-18 — WhatsApp
 
 #### HoK | HR — 12:00
@@ -106,37 +62,19 @@ _Last updated: 2026-02-20_
 - **Bot:** Here are the open tasks in the Recruitment project, ordered by date:  - **IT Supervisor** | Assignee: Nisya Ayuna - **Purchasing** | Assignee: Nisya Ayuna - **Bookkeeper** | Assignee: Nisya Ayuna - **Housekeeping Staff** | Assignee: Nisya Ayuna - **Laundry Attendant** | Assignee: Nisya Ayuna - **PA to General Manager** | Assignee: Nisya Ayuna  If you need more details, feel free to ask!
 - **Kaspars:** @262221326233608 update list to include deadline of each task, do not show assignee
 - **Bot:** Here's the updated list of open tasks in the Recruitment project, including deadlines:  - **Marketing Coordinator** | Due: 2026-02-16 **(OVERDUE)** - **Head of Bar** | Due: 2026-02-27 - **Sous Chef** | Due: 2026-02-27 - **Chef De Partie** | Due: 2026-02-27 - **Front Office** | Due: 2026-02-28 - **Security** | Due: 2026-05-30 - **IT Supervisor** | No date - **Purchasing** | No date - **Bookkeeper** | No date - **Housekeeping Staff** | No date - **Laundry Attendant** | No date - **PA to General Manager** | No date  Let me know if there’s anything else you need!
-### 2026-02-19
-
-**Asana:**
-- Completed: ROOFTOP: Audio (CONSTRUCTION CHECKLIST)
-- Completed: Sound supplier selection (No Project)
-- Completed: Gym equipment for rooftop (CONSTRUCTION CHECKLIST)
-- Completed: Select final gym equipment for gym floor (CONSTRUCTION CHECKLIST)
-- Completed: RO filter supplier (No Project)
-- Completed: Investigate body scanners (No Project)
-- Completed: Send latest layout to Daikin (No Project)
-- Completed: Dumbwaiter (quote attached) (No Project)
-
-### 2026-02-20
-
-**Asana:**
-- Completed: ROOFTOP: Audio (CONSTRUCTION CHECKLIST)
-- Completed: Sound supplier selection (No Project)
-- Completed: Gym equipment for rooftop (CONSTRUCTION CHECKLIST)
-- Completed: Select final gym equipment for gym floor (CONSTRUCTION CHECKLIST)
-- Completed: RO filter supplier (No Project)
-- Completed: Investigate body scanners (No Project)
-- Completed: Send latest layout to Daikin (No Project)
-- Completed: Dumbwaiter (quote attached) (No Project)
-
 
 ### 2026-02-20
 
 **WhatsApp:**
 - (none)
 
+**Email:**
+- No results
+
+### 2026-02-21
+
 **Asana:**
+- Completed: ROOFTOP: Audio (CONSTRUCTION CHECKLIST)
 - Completed: Sound supplier selection (No Project)
 - Completed: Gym equipment for rooftop (CONSTRUCTION CHECKLIST)
 - Completed: Select final gym equipment for gym floor (CONSTRUCTION CHECKLIST)
@@ -144,7 +82,4 @@ _Last updated: 2026-02-20_
 - Completed: Investigate body scanners (No Project)
 - Completed: Send latest layout to Daikin (No Project)
 - Completed: Dumbwaiter (quote attached) (No Project)
-- Due soon: (none)
-
-**Email:**
-- No results
+- Due soon: ROOFTOP: Audio due (no due date) (CONSTRUCTION CHECKLIST)

@@ -2,11 +2,6 @@
 
 This file is for curated, long-term memories: decisions, preferences, recurring facts, and things that should persist across sessions.
 
-Notes:
-- Operational tooling and command references live in TOOLS.md. See /root/.openclaw/workspace/TOOLS.md for script usage and workspace-specific commands.
-- If you want any of the team script guidance moved back into MEMORY.md later, tell me.
-
-
 ## House of Kairos Launch Timeline (2026)
 
 1. **3 March** — Waitlist First Access + Construction Tours

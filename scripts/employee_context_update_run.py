@@ -16,8 +16,6 @@ now_utc = datetime.now(timezone.utc)
 now_wita = now_utc.astimezone(WITA)
 date_wita = now_wita.date().isoformat()  # YYYY-MM-DD
 
-yesterday_iso = (now_utc - timedelta(days=1)).replace(microsecond=0).isoformat().replace("+00:00", "Z")
-next_week_date = (now_wita.date() + timedelta(days=7)).isoformat()  # YYYY-MM-DD
 
 def load_aliases():
     with open(ALIASES_PATH, "r", encoding="utf-8") as f:
@@ -174,20 +172,10 @@ def main():
         asana = {
             "matched": bool(asana_user),
             "user": asana_user,
-            "completed": [],
-            "due_soon": [],
             "open_all": [],
         }
         if asana_user:
             gid = asana_user["gid"]
-            asana["completed"] = search_tasks(gid, {
-                "completed_since": yesterday_iso,
-                "completed": "true",
-            })
-            asana["due_soon"] = search_tasks(gid, {
-                "due_on.before": next_week_date,
-                "completed": "false",
-            })
             asana["open_all"] = search_tasks(gid, {
                 "completed": "false",
             })
@@ -234,28 +222,16 @@ def main():
         outstanding_md = "\n".join(lines).rstrip() + "\n"
         replace_outstanding_section(profile_path, outstanding_md)
 
-    # Append activity log entries only if any activity found in sources (Asana/Gmail/WhatsApp)
+    # Append activity log entries only for WhatsApp and Email (Asana status lives in Outstanding section)
     for slug, r in results.items():
         act_whatsapp = []  # none (skipped)
-        act_asana_completed = []
-        act_asana_due = []
         act_email = []
 
-        if r["asana"]["matched"]:
-            for t in r["asana"]["completed"]:
-                proj = ", ".join(normalize_projects(t))
-                act_asana_completed.append(f"- Completed: {t.get('name','(untitled)')} ({proj})")
-            for t in r["asana"]["due_soon"]:
-                proj = ", ".join(normalize_projects(t))
-                due = t.get("due_on") or "(no due date)"
-                act_asana_due.append(f"- Due soon: {t.get('name','(untitled)')} due {due} ({proj})")
-
         if r["gmail"]["queried"] and r["gmail"]["items"]:
-            # include up to first 10 lines, one-line summaries (best effort)
             for ln in r["gmail"]["items"][:10]:
                 act_email.append(f"- {ln}")
 
-        if not (act_whatsapp or act_asana_completed or act_asana_due or act_email):
+        if not (act_whatsapp or act_email):
             continue
 
         entry = [
@@ -267,16 +243,6 @@ def main():
             entry.extend(act_whatsapp)
         else:
             entry.append("- (none)")
-        entry.append("")
-        entry.append("**Asana:**")
-        if act_asana_completed:
-            entry.extend(act_asana_completed)
-        else:
-            entry.append("- Completed: (none)")
-        if act_asana_due:
-            entry.extend(act_asana_due)
-        else:
-            entry.append("- Due soon: (none)")
         entry.append("")
         entry.append("**Email:**")
         if act_email:
@@ -290,13 +256,9 @@ def main():
     print(json.dumps({
         "date_wita": date_wita,
         "whatsapp_memory_exists": whatsapp_available,
-        "yesterday_iso": yesterday_iso,
-        "next_week_date": next_week_date,
         "employees": {
             slug: {
                 "asana_matched": results[slug]["asana"]["matched"],
-                "asana_completed": len(results[slug]["asana"]["completed"]),
-                "asana_due_soon": len(results[slug]["asana"]["due_soon"]),
                 "asana_open": len(results[slug]["asana"]["open_all"]),
                 "gmail_items": len(results[slug]["gmail"]["items"]),
             } for slug in results

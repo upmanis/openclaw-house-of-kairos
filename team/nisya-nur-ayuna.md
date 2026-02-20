@@ -12,17 +12,17 @@
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-20_
+_Last updated: 2026-02-21_
 
 **General  Timeline**
 - [ ] Create job descriptions - all positions — **overdue** 2025-10-01
 
 **HR**
 - [ ] Employee Administration Forms — **overdue** 2025-08-30
-- [ ] Employee Handbook  — **overdue** 2025-09-30
-- [ ] On Boarding Pack  — **overdue** 2025-09-30
+- [ ] Employee Handbook — **overdue** 2025-09-30
+- [ ] On Boarding Pack — **overdue** 2025-09-30
 - [ ] Onboarding new hires completed in their first 3 days — **overdue** 2025-09-30
-- [ ] Recruitment-Hire 20 qualified staff members  — **overdue** 2025-09-30
+- [ ] Recruitment-Hire 20 qualified staff members — **overdue** 2025-09-30
 - [ ] Create job descriptions - all positions — **overdue** 2025-10-01
 - [ ] Live Attendance — **overdue** 2025-10-31
 - [ ] Mandatory pre-opening training — **overdue** 2025-10-31
@@ -36,8 +36,8 @@ _Last updated: 2026-02-20_
 - [ ] Launch employee engagement activity with 75% achievement rate — **overdue** 2025-12-31
 - [ ] Performance Appraisal — **overdue** 2025-12-31
 - [ ] Performance Improvement Plan — **overdue** 2025-12-31
-- [ ] Service Excellence Training for Front-liner Staff — **overdue** 2025-12-31
 - [ ] SMART Goals Setting — **overdue** 2025-12-31
+- [ ] Service Excellence Training for Front-liner Staff — **overdue** 2025-12-31
 - [ ] Training & Development — **overdue** 2025-12-31
 - [ ] Manage WLKP — no due date
 - [ ] Manpower Regulation — no due date
@@ -45,244 +45,24 @@ _Last updated: 2026-02-20_
 - [ ] Team Bonding & Culture Building — no due date
 
 **Recruitment**
-- [ ] Marketing Coordinator — **overdue** 2026-02-16
-- [ ] Chef De Partie — due 2026-02-27
 - [ ] Head of Bar — due 2026-02-27
 - [ ] Sous Chef — due 2026-02-27
-- [ ] Front Office — due 2026-02-28
+- [ ] Marketing Coordinator — due 2026-03-02
+- [ ] Housekeeping Staff — due 2026-03-06
+- [ ] Purchasing Supervisor — due 2026-03-06
+- [ ] Fashion Merchandiser — due 2026-03-20
 - [ ] Security — due 2026-05-30
 - [ ] Bookkeeper — no due date
-- [ ] Housekeeping Staff — no due date
 - [ ] IT Supervisor — no due date
 - [ ] Laundry Attendant — no due date
 - [ ] PA to General Manager — no due date
-- [ ] Purchasing — no due date
 
 ## Activity Log
-
-### 2026-02-18
-
-**Asana:**
-- Completed: Marketing Coordinator (Recruitment)
-- Completed: PA to General Manager (Recruitment)
-- Completed: Front Office (Recruitment)
-- Completed: Laundry Attendant (Recruitment)
-- Completed: Sous Chef (Recruitment)
-- Completed: Bartender (Recruitment)
-- Completed: Head Chef (Recruitment)
-- Completed: Gym Attendant (Recruitment)
-- Completed: Bookkeeper (Recruitment)
-- Completed: Purchasing (Recruitment)
-- Completed: Housekeeping Staff (Recruitment)
-- Completed: Chef De Partie (Recruitment)
-- Completed: Head of Bar (Recruitment)
-- Completed: Senior Front Office  (Recruitment)
-- Completed: Security (Recruitment)
-- Completed: IT Supervisor (Recruitment)
-- Completed: Launch employee engagement activity with 75% achievement rate (HR)
-- Completed: Communication & Feedback (HR)
-- Completed: Training & Development (HR)
-- Completed: SMART Goals Setting (HR)
-- Completed: KPI Setting based on SMART (HR)
-- Completed: Performance Appraisal (HR)
-- Completed: Performance Improvement Plan (HR)
-- Completed: Service Excellence Training for Front-liner Staff (HR)
-- Completed: HR SOP (HR)
-- Completed: Define channels for Recruitment (HR)
-- Completed: Code of Conduct (HR)
-- Completed: Uniforms (HR)
-- Completed: Running Payroll (HR)
-- Completed: Live Attendance (HR)
-- Completed: Mandatory pre-opening training (HR)
-- Completed: Manage WLKP (HR)
-- Completed: Create job descriptions - all positions (General  Timeline)
-- Completed: Employee Handbook  (HR)
-- Completed: On Boarding Pack  (HR)
-- Completed: Recruitment-Hire 20 qualified staff members  (HR)
-- Completed: Onboarding new hires completed in their first 3 days (HR)
-- Completed: Input Employee Basic Information (HR)
-- Completed: Apply Day Off (HR)
-- Completed: Fitness Manager (Recruitment)
-- Completed: Organization Chart (HR)
-- Completed: Employee Administration Forms (HR)
-- Completed: Working Permit (KITAS) (HR)
-- Completed: Recruitment & Hiring Documents (General  Timeline)
-- Completed: Create Job Salary Range (HR)
-- Completed: Create candidates rank - all positions (HR)
-- Completed: Housekeeping (Recruitment)
-- Completed: Facility Technician (Recruitment)
-- Completed: F&B manager (Recruitment)
-- Completed: Marketing Coordinator (Recruitment)
-- Completed: Create Employee Benefits (HR)
-- Completed: Recruitment Pipeline (HR)
-- Completed: Employment Contract (HR)
-- Completed: Develop a hiring plan & budget (General  Timeline)
-- Completed: Define the Recruitment & Hiring Process Flow (HR)
-- Completed: Manpower Regulation (HR)
-- Completed: Team Bonding & Culture Building (HR)
-- Due soon: Marketing Coordinator due 2026-02-16 (Recruitment)
-- Due soon: Launch employee engagement activity with 75% achievement rate due 2025-12-31 (HR)
-- Due soon: Communication & Feedback due 2025-12-31 (HR)
-- Due soon: Training & Development due 2025-12-31 (HR)
-- Due soon: SMART Goals Setting due 2025-12-31 (HR)
-- Due soon: KPI Setting based on SMART due 2025-12-31 (HR)
-- Due soon: Performance Appraisal due 2025-12-31 (HR)
-- Due soon: Performance Improvement Plan due 2025-12-31 (HR)
-- Due soon: Service Excellence Training for Front-liner Staff due 2025-12-31 (HR)
-- Due soon: HR SOP due 2025-12-31 (HR)
-- Due soon: Define channels for Recruitment due 2025-12-31 (HR)
-- Due soon: Code of Conduct due 2025-11-30 (HR)
-- Due soon: Uniforms due 2025-10-31 (HR)
-- Due soon: Running Payroll due 2025-10-31 (HR)
-- Due soon: Live Attendance due 2025-10-31 (HR)
-- Due soon: Mandatory pre-opening training due 2025-10-31 (HR)
-- Due soon: Create job descriptions - all positions due 2025-10-01 (General  Timeline)
-- Due soon: Employee Handbook  due 2025-09-30 (HR)
-- Due soon: On Boarding Pack  due 2025-09-30 (HR)
-- Due soon: Recruitment-Hire 20 qualified staff members  due 2025-09-30 (HR)
-- Due soon: Onboarding new hires completed in their first 3 days due 2025-09-30 (HR)
-- Due soon: Employee Administration Forms due 2025-08-30 (HR)
-
-
-### 2026-02-18
-
-**WhatsApp:**
-- (none)
-
-**Asana:**
-- Completed: Develop a hiring plan & budget (General  Timeline)
-- Completed: Define the Recruitment & Hiring Process Flow (HR)
-- Completed: Employment Contract (HR)
-- Completed: Create Employee Benefits (HR)
-- Completed: F&B manager (Recruitment)
-- Completed: Marketing Coordinator (Recruitment)
-- Completed: Facility Technician (Recruitment)
-- Completed: Housekeeping (Recruitment)
-- Completed: Create candidates rank - all positions (HR)
-- Completed: Create Job Salary Range (HR)
-- Completed: Recruitment & Hiring Documents (General  Timeline)
-- Completed: Working Permit (KITAS) (HR)
-- Completed: Organization Chart (HR)
-- Completed: Fitness Manager (Recruitment)
-- Completed: Apply Day Off (HR)
-- Completed: Input Employee Basic Information (HR)
-- Completed: Head Chef (Recruitment)
-- Completed: Senior Front Office  (Recruitment)
-- Completed: Gym Attendant (Recruitment)
-- Completed: Bartender (Recruitment)
-- Due soon: Employee Administration Forms due 2025-08-30 (HR)
-- Due soon: Employee Handbook  due 2025-09-30 (HR)
-- Due soon: On Boarding Pack  due 2025-09-30 (HR)
-- Due soon: Onboarding new hires completed in their first 3 days due 2025-09-30 (HR)
-- Due soon: Recruitment-Hire 20 qualified staff members  due 2025-09-30 (HR)
-- Due soon: Create job descriptions - all positions due 2025-10-01 (General  Timeline)
-- Due soon: Live Attendance due 2025-10-31 (HR)
-- Due soon: Mandatory pre-opening training due 2025-10-31 (HR)
-- Due soon: Running Payroll due 2025-10-31 (HR)
-- Due soon: Uniforms due 2025-10-31 (HR)
-- Due soon: Code of Conduct due 2025-11-30 (HR)
-- Due soon: Communication & Feedback due 2025-12-31 (HR)
-- Due soon: Define channels for Recruitment due 2025-12-31 (HR)
-- Due soon: HR SOP due 2025-12-31 (HR)
-- Due soon: KPI Setting based on SMART due 2025-12-31 (HR)
-- Due soon: Launch employee engagement activity with 75% achievement rate due 2025-12-31 (HR)
-- Due soon: Performance Appraisal due 2025-12-31 (HR)
-- Due soon: Performance Improvement Plan due 2025-12-31 (HR)
-- Due soon: SMART Goals Setting due 2025-12-31 (HR)
-- Due soon: Service Excellence Training for Front-liner Staff due 2025-12-31 (HR)
-- Due soon: Training & Development due 2025-12-31 (HR)
-- Due soon: Marketing Coordinator due 2026-02-16 (Recruitment)
-
-**Email:**
-- (none)
 ### 2026-02-19
-
-**Asana:**
-- Completed: Marketing Coordinator (Recruitment)
-- Completed: PA to General Manager (Recruitment)
-- Completed: Front Office (Recruitment)
-- Completed: Laundry Attendant (Recruitment)
-- Completed: Sous Chef (Recruitment)
-- Completed: Bartender (Recruitment)
-- Completed: Head Chef (Recruitment)
-- Completed: Gym Attendant (Recruitment)
-- Completed: Bookkeeper (Recruitment)
-- Completed: Purchasing (Recruitment)
-- Completed: Housekeeping Staff (Recruitment)
-- Completed: Chef De Partie (Recruitment)
-- Completed: Head of Bar (Recruitment)
-- Completed: Senior Front Office (Recruitment)
-- Completed: Security (Recruitment)
-- Completed: IT Supervisor (Recruitment)
-- Completed: Launch employee engagement activity with 75% achievement rate (HR)
-- Completed: Communication & Feedback (HR)
-- Completed: Training & Development (HR)
-- Completed: SMART Goals Setting (HR)
-- Completed: KPI Setting based on SMART (HR)
-- Completed: Performance Appraisal (HR)
-- Completed: Performance Improvement Plan (HR)
-- Completed: Service Excellence Training for Front-liner Staff (HR)
-- Completed: HR SOP (HR)
-- Completed: Define channels for Recruitment (HR)
-- Completed: Code of Conduct (HR)
-- Completed: Uniforms (HR)
-- Completed: Running Payroll (HR)
-- Completed: Live Attendance (HR)
-- Completed: Mandatory pre-opening training (HR)
-- Completed: Manage WLKP (HR)
-- Completed: Create job descriptions - all positions (General  Timeline)
-- Completed: Employee Handbook (HR)
-- Completed: On Boarding Pack (HR)
-- Completed: Recruitment-Hire 20 qualified staff members (HR)
-- Completed: Onboarding new hires completed in their first 3 days (HR)
-- Completed: Input Employee Basic Information (HR)
-- Completed: Apply Day Off (HR)
-- Completed: Fitness Manager (Recruitment)
-- Completed: Organization Chart (HR)
-- Completed: Employee Administration Forms (HR)
-- Completed: Working Permit (KITAS) (HR)
-- Completed: Recruitment & Hiring Documents (General  Timeline)
-- Completed: Create Job Salary Range (HR)
-- Completed: Create candidates rank - all positions (HR)
-- Completed: Housekeeping (Recruitment)
-- Completed: Facility Technician (Recruitment)
-- Completed: F&B manager (Recruitment)
-- Completed: Marketing Coordinator (Recruitment)
-- Completed: Create Employee Benefits (HR)
-- Completed: Recruitment Pipeline (HR)
-- Completed: Employment Contract (HR)
-- Completed: Develop a hiring plan & budget (General  Timeline)
-- Completed: Define the Recruitment & Hiring Process Flow (HR)
-- Completed: Manpower Regulation (HR)
-- Completed: Team Bonding & Culture Building (HR)
-- Due soon: Marketing Coordinator due 2026-02-16 (Recruitment)
-- Due soon: Launch employee engagement activity with 75% achievement rate due 2025-12-31 (HR)
-- Due soon: Communication & Feedback due 2025-12-31 (HR)
-- Due soon: Training & Development due 2025-12-31 (HR)
-- Due soon: SMART Goals Setting due 2025-12-31 (HR)
-- Due soon: KPI Setting based on SMART due 2025-12-31 (HR)
-- Due soon: Performance Appraisal due 2025-12-31 (HR)
-- Due soon: Performance Improvement Plan due 2025-12-31 (HR)
-- Due soon: Service Excellence Training for Front-liner Staff due 2025-12-31 (HR)
-- Due soon: HR SOP due 2025-12-31 (HR)
-- Due soon: Define channels for Recruitment due 2025-12-31 (HR)
-- Due soon: Code of Conduct due 2025-11-30 (HR)
-- Due soon: Uniforms due 2025-10-31 (HR)
-- Due soon: Running Payroll due 2025-10-31 (HR)
-- Due soon: Live Attendance due 2025-10-31 (HR)
-- Due soon: Mandatory pre-opening training due 2025-10-31 (HR)
-- Due soon: Create job descriptions - all positions due 2025-10-01 (General  Timeline)
-- Due soon: Employee Handbook due 2025-09-30 (HR)
-- Due soon: On Boarding Pack due 2025-09-30 (HR)
-- Due soon: Recruitment-Hire 20 qualified staff members due 2025-09-30 (HR)
-- Due soon: Onboarding new hires completed in their first 3 days due 2025-09-30 (HR)
-- Due soon: Employee Administration Forms due 2025-08-30 (HR)
 
 **Email:**
 - ID                DATE              FROM                                         SUBJECT                             LABELS                          THREAD
 - 19c6fb4194c26c67  2026-02-18 07:43  Kaspars Upmanis <kaspars.upmanis@gmail.com>  Fwd: Pemberitahuan Pelaporan EPLKK  UNREAD,CATEGORY_PERSONAL,INBOX  -
-
-
 
 ### 2026-02-18 — WhatsApp
 
@@ -328,88 +108,8 @@ _Last updated: 2026-02-20_
 - **Bot:** Here are the open tasks in the Recruitment project, ordered by date:  - **IT Supervisor** | Assignee: Nisya Ayuna - **Purchasing** | Assignee: Nisya Ayuna - **Bookkeeper** | Assignee: Nisya Ayuna - **Housekeeping Staff** | Assignee: Nisya Ayuna - **Laundry Attendant** | Assignee: Nisya Ayuna - **PA to General Manager** | Assignee: Nisya Ayuna  If you need more details, feel free to ask!
 - **Kaspars:** @262221326233608 update list to include deadline of each task, do not show assignee
 - **Bot:** Here's the updated list of open tasks in the Recruitment project, including deadlines:  - **Marketing Coordinator** | Due: 2026-02-16 **(OVERDUE)** - **Head of Bar** | Due: 2026-02-27 - **Sous Chef** | Due: 2026-02-27 - **Chef De Partie** | Due: 2026-02-27 - **Front Office** | Due: 2026-02-28 - **Security** | Due: 2026-05-30 - **IT Supervisor** | No date - **Purchasing** | No date - **Bookkeeper** | No date - **Housekeeping Staff** | No date - **Laundry Attendant** | No date - **PA to General Manager** | No date  Let me know if there’s anything else you need!
-### 2026-02-19
 
-**Asana:**
-- Completed: Marketing Coordinator (Recruitment)
-- Completed: PA to General Manager (Recruitment)
-- Completed: Front Office (Recruitment)
-- Completed: Laundry Attendant (Recruitment)
-- Completed: Sous Chef (Recruitment)
-- Completed: Bartender (Recruitment)
-- Completed: Head Chef (Recruitment)
-- Completed: Gym Attendant (Recruitment)
-- Completed: Bookkeeper (Recruitment)
-- Completed: Purchasing (Recruitment)
-- Completed: Housekeeping Staff (Recruitment)
-- Completed: Chef De Partie (Recruitment)
-- Completed: Head of Bar (Recruitment)
-- Completed: Senior Front Office (Recruitment)
-- Completed: Security (Recruitment)
-- Completed: IT Supervisor (Recruitment)
-- Completed: Launch employee engagement activity with 75% achievement rate (HR)
-- Completed: Communication & Feedback (HR)
-- Completed: Training & Development (HR)
-- Completed: SMART Goals Setting (HR)
-- Completed: KPI Setting based on SMART (HR)
-- Completed: Performance Appraisal (HR)
-- Completed: Performance Improvement Plan (HR)
-- Completed: Service Excellence Training for Front-liner Staff (HR)
-- Completed: HR SOP (HR)
-- Completed: Define channels for Recruitment (HR)
-- Completed: Code of Conduct (HR)
-- Completed: Uniforms (HR)
-- Completed: Running Payroll (HR)
-- Completed: Live Attendance (HR)
-- Completed: Mandatory pre-opening training (HR)
-- Completed: Manage WLKP (HR)
-- Completed: Create job descriptions - all positions (General  Timeline)
-- Completed: Employee Handbook (HR)
-- Completed: On Boarding Pack (HR)
-- Completed: Recruitment-Hire 20 qualified staff members (HR)
-- Completed: Onboarding new hires completed in their first 3 days (HR)
-- Completed: Input Employee Basic Information (HR)
-- Completed: Apply Day Off (HR)
-- Completed: Fitness Manager (Recruitment)
-- Completed: Organization Chart (HR)
-- Completed: Employee Administration Forms (HR)
-- Completed: Working Permit (KITAS) (HR)
-- Completed: Recruitment & Hiring Documents (General  Timeline)
-- Completed: Create Job Salary Range (HR)
-- Completed: Create candidates rank - all positions (HR)
-- Completed: Housekeeping (Recruitment)
-- Completed: Facility Technician (Recruitment)
-- Completed: F&B manager (Recruitment)
-- Completed: Marketing Coordinator (Recruitment)
-- Completed: Create Employee Benefits (HR)
-- Completed: Recruitment Pipeline (HR)
-- Completed: Employment Contract (HR)
-- Completed: Develop a hiring plan & budget (General  Timeline)
-- Completed: Define the Recruitment & Hiring Process Flow (HR)
-- Completed: Manpower Regulation (HR)
-- Completed: Team Bonding & Culture Building (HR)
-- Due soon: Marketing Coordinator due 2026-02-16 (Recruitment)
-- Due soon: Launch employee engagement activity with 75% achievement rate due 2025-12-31 (HR)
-- Due soon: Communication & Feedback due 2025-12-31 (HR)
-- Due soon: Training & Development due 2025-12-31 (HR)
-- Due soon: SMART Goals Setting due 2025-12-31 (HR)
-- Due soon: KPI Setting based on SMART due 2025-12-31 (HR)
-- Due soon: Performance Appraisal due 2025-12-31 (HR)
-- Due soon: Performance Improvement Plan due 2025-12-31 (HR)
-- Due soon: Service Excellence Training for Front-liner Staff due 2025-12-31 (HR)
-- Due soon: HR SOP due 2025-12-31 (HR)
-- Due soon: Define channels for Recruitment due 2025-12-31 (HR)
-- Due soon: Code of Conduct due 2025-11-30 (HR)
-- Due soon: Uniforms due 2025-10-31 (HR)
-- Due soon: Running Payroll due 2025-10-31 (HR)
-- Due soon: Live Attendance due 2025-10-31 (HR)
-- Due soon: Mandatory pre-opening training due 2025-10-31 (HR)
-- Due soon: Create job descriptions - all positions due 2025-10-01 (General  Timeline)
-- Due soon: Employee Handbook due 2025-09-30 (HR)
-- Due soon: On Boarding Pack due 2025-09-30 (HR)
-- Due soon: Recruitment-Hire 20 qualified staff members due 2025-09-30 (HR)
-- Due soon: Onboarding new hires completed in their first 3 days due 2025-09-30 (HR)
-- Due soon: Employee Administration Forms due 2025-08-30 (HR)
+### 2026-02-19
 
 **Email:**
 - ID                DATE              FROM                                         SUBJECT                             LABELS                          THREAD
@@ -417,20 +117,29 @@ _Last updated: 2026-02-20_
 
 ### 2026-02-20
 
+**WhatsApp:**
+- (none)
+
+**Email:**
+- No results
+
+### 2026-02-21
+
 **Asana:**
+- Completed: Head of Bar (Recruitment)
 - Completed: Marketing Coordinator (Recruitment)
-- Completed: PA to General Manager (Recruitment)
-- Completed: Front Office (Recruitment)
-- Completed: Laundry Attendant (Recruitment)
 - Completed: Sous Chef (Recruitment)
+- Completed: Purchasing Supervisor (Recruitment)
+- Completed: Housekeeping Staff (Recruitment)
+- Completed: Fashion Merchandiser (Recruitment)
+- Completed: Front Office (Recruitment)
+- Completed: Chef De Partie (Recruitment)
+- Completed: PA to General Manager (Recruitment)
+- Completed: Laundry Attendant (Recruitment)
 - Completed: Bartender (Recruitment)
 - Completed: Head Chef (Recruitment)
 - Completed: Gym Attendant (Recruitment)
 - Completed: Bookkeeper (Recruitment)
-- Completed: Purchasing (Recruitment)
-- Completed: Housekeeping Staff (Recruitment)
-- Completed: Chef De Partie (Recruitment)
-- Completed: Head of Bar (Recruitment)
 - Completed: Senior Front Office (Recruitment)
 - Completed: Security (Recruitment)
 - Completed: IT Supervisor (Recruitment)
@@ -475,7 +184,17 @@ _Last updated: 2026-02-20_
 - Completed: Define the Recruitment & Hiring Process Flow (HR)
 - Completed: Manpower Regulation (HR)
 - Completed: Team Bonding & Culture Building (HR)
-- Due soon: Marketing Coordinator due 2026-02-16 (Recruitment)
+- Due soon: Head of Bar due 2026-02-27 (Recruitment)
+- Due soon: Marketing Coordinator due 2026-03-02 (Recruitment)
+- Due soon: Sous Chef due 2026-02-27 (Recruitment)
+- Due soon: Purchasing Supervisor due 2026-03-06 (Recruitment)
+- Due soon: Housekeeping Staff due 2026-03-06 (Recruitment)
+- Due soon: Fashion Merchandiser due 2026-03-20 (Recruitment)
+- Due soon: PA to General Manager due (no due date) (Recruitment)
+- Due soon: Laundry Attendant due (no due date) (Recruitment)
+- Due soon: Bookkeeper due (no due date) (Recruitment)
+- Due soon: Security due 2026-05-30 (Recruitment)
+- Due soon: IT Supervisor due (no due date) (Recruitment)
 - Due soon: Launch employee engagement activity with 75% achievement rate due 2025-12-31 (HR)
 - Due soon: Communication & Feedback due 2025-12-31 (HR)
 - Due soon: Training & Development due 2025-12-31 (HR)
@@ -491,65 +210,13 @@ _Last updated: 2026-02-20_
 - Due soon: Running Payroll due 2025-10-31 (HR)
 - Due soon: Live Attendance due 2025-10-31 (HR)
 - Due soon: Mandatory pre-opening training due 2025-10-31 (HR)
+- Due soon: Manage WLKP due (no due date) (HR)
 - Due soon: Create job descriptions - all positions due 2025-10-01 (General  Timeline)
 - Due soon: Employee Handbook due 2025-09-30 (HR)
 - Due soon: On Boarding Pack due 2025-09-30 (HR)
 - Due soon: Recruitment-Hire 20 qualified staff members due 2025-09-30 (HR)
 - Due soon: Onboarding new hires completed in their first 3 days due 2025-09-30 (HR)
 - Due soon: Employee Administration Forms due 2025-08-30 (HR)
-
-
-### 2026-02-20
-
-**WhatsApp:**
-- (none)
-
-**Asana:**
-- Completed: Bartender (Recruitment)
-- Completed: Head Chef (Recruitment)
-- Completed: Gym Attendant (Recruitment)
-- Completed: Senior Front Office  (Recruitment)
-- Completed: Input Employee Basic Information (HR)
-- Completed: Apply Day Off (HR)
-- Completed: Fitness Manager (Recruitment)
-- Completed: Organization Chart (HR)
-- Completed: Working Permit (KITAS) (HR)
-- Completed: Recruitment & Hiring Documents (General  Timeline, HR)
-- Completed: Create Job Salary Range (HR)
-- Completed: Create candidates rank - all positions (HR)
-- Completed: Housekeeping (Recruitment)
-- Completed: Facility Technician (Recruitment)
-- Completed: F&B manager (Recruitment)
-- Completed: Marketing Coordinator (Recruitment)
-- Completed: Create Employee Benefits (HR)
-- Completed: Employment Contract (HR)
-- Completed: Develop a hiring plan & budget (General  Timeline, HR)
-- Completed: Define the Recruitment & Hiring Process Flow (HR)
-- Due soon: Marketing Coordinator due 2026-02-16 (Recruitment)
-- Due soon: Sous Chef due 2026-02-27 (Recruitment)
-- Due soon: Chef De Partie due 2026-02-27 (Recruitment)
-- Due soon: Head of Bar due 2026-02-27 (Recruitment)
-- Due soon: Launch employee engagement activity with 75% achievement rate due 2025-12-31 (HR)
-- Due soon: Communication & Feedback due 2025-12-31 (HR)
-- Due soon: Training & Development due 2025-12-31 (HR)
-- Due soon: SMART Goals Setting due 2025-12-31 (HR)
-- Due soon: KPI Setting based on SMART due 2025-12-31 (HR)
-- Due soon: Performance Appraisal due 2025-12-31 (HR)
-- Due soon: Performance Improvement Plan due 2025-12-31 (HR)
-- Due soon: Service Excellence Training for Front-liner Staff due 2025-12-31 (HR)
-- Due soon: HR SOP due 2025-12-31 (HR)
-- Due soon: Define channels for Recruitment due 2025-12-31 (HR)
-- Due soon: Code of Conduct due 2025-11-30 (HR)
-- Due soon: Uniforms due 2025-10-31 (HR)
-- Due soon: Running Payroll due 2025-10-31 (HR)
-- Due soon: Live Attendance due 2025-10-31 (HR)
-- Due soon: Mandatory pre-opening training due 2025-10-31 (HR)
-- Due soon: Create job descriptions - all positions due 2025-10-01 (General  Timeline, HR)
-- Due soon: Employee Handbook  due 2025-09-30 (HR)
-- Due soon: On Boarding Pack  due 2025-09-30 (HR)
-- Due soon: Recruitment-Hire 20 qualified staff members  due 2025-09-30 (HR)
-- Due soon: Onboarding new hires completed in their first 3 days due 2025-09-30 (HR)
-- Due soon: Employee Administration Forms due 2025-08-30 (HR)
-
-**Email:**
-- No results
+- Due soon: Recruitment Pipeline due (no due date) (HR)
+- Due soon: Manpower Regulation due (no due date) (HR)
+- Due soon: Team Bonding & Culture Building due (no due date) (HR)
