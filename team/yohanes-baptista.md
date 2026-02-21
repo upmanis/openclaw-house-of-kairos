@@ -12,7 +12,7 @@
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-21_
+_Last updated: 2026-02-22_
 
 **CONSTRUCTION CHECKLIST**
 - [ ] GF: CCTV — no due date
@@ -36,12 +36,13 @@ _Last updated: 2026-02-21_
 
 **PA tasks**
 - [ ] Kairos - CCTV & WIFI — no due date
-- [ ] Kairos - Karcher quote & equipment understanding — no due date
+- [ ] Kairos - Karcher quote & equipment understanding  — no due date
 - [ ] Kairos - dumb waiter installation — no due date
 - [ ] Kairos - shower glass door order — no due date
 - [ ] Rock - Ujung padang tile delivery — no due date
 - [ ] Rock - marble slabs for bathrooms — no due date
 - [ ] iMac for reception — no due date
+
 
 ## Activity Log
 ### 2026-02-19
@@ -142,3 +143,95 @@ _Last updated: 2026-02-21_
 - Due soon: Kairos - shower glass door order due (no due date) (PA tasks)
 - Due soon: Wifi due (no due date) (No Project)
 - Due soon: CCTV due (no due date) (No Project)
+
+### 2026-02-22
+
+**WhatsApp:**
+- (none)
+
+**Asana:**
+- Completed: iMac for reception (PA tasks)
+- Completed: Kairos - Karcher quote & equipment understanding  (PA tasks)
+- Completed: Rock - Ujung padang tile delivery (PA tasks)
+- Completed: LGF: Kitchen - Dumb waiter (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Staff changing rooms > mirrors with LED (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Wifi (CONSTRUCTION CHECKLIST)
+- Completed: GF: Wifi (CONSTRUCTION CHECKLIST)
+- Completed: GF: CCTV (CONSTRUCTION CHECKLIST)
+- Completed: GYM: CCTV (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: CCTV (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Wifi (CONSTRUCTION CHECKLIST)
+- Completed: Dumb waiter - intercom installation (No Project)
+- Completed: CCTV & wifi (No Project)
+- Completed: Dumb waiter (No Project)
+- Completed: Dumb waiter (F&B)
+- Completed: Rock - marble slabs for bathrooms (PA tasks)
+- Completed: Kairos - CCTV & WIFI (PA tasks)
+- Completed: Kairos - dumb waiter installation (PA tasks)
+- Completed: Kairos - shower glass door order (PA tasks)
+- Completed: Wifi (CONSTRUCTION CHECKLIST)
+- Completed: CCTV (CONSTRUCTION CHECKLIST)
+- Completed: Towels > Reach out to Indolinen, need custom color + logo (PA tasks)
+- Completed: Order ujung padang tile from Brescia Stone (PA tasks)
+- Completed: Entrance door for Kairos (Morash + carver) (PA tasks)
+- Completed: ON HOLD Order paper samples from print shop (PA tasks)
+- Completed: Wifi (No Project)
+- Completed: CCTV (No Project)
+- Completed: Mens wall hung toilet (CONSTRUCTION CHECKLIST)
+- Completed: ON HOLD Find trademark registration lawyer/company (PA tasks)
+- Completed: Find sock supplier (PA tasks)
+- Completed: Source RFID locker locks (PA tasks)
+- Completed: Measure front gate dimensions (PA tasks)
+- Completed: Find mirror cutter (PA tasks)
+- Completed: Get Bramble Furniture chair delivered (PA tasks)
+- Completed: Metal staircase - compare prices (PA tasks)
+- Completed: Buy 5 transparent plastic storage boxes, drawer size (PA tasks)
+- Completed: Order 2 TOTO toilets (PA tasks)
+- Completed: ON HOLD - Order two Barcelona chairs (PA tasks)
+- Completed: ON HOLD Find the brick installation company that's building Seseh temple (PA tasks)
+- Completed: Arrange picture painting (PA tasks)
+- Completed: Chair furniture delivery from Java (PA tasks)
+- Completed: Source glass brick (PA tasks)
+- Completed: Find roof structure engineer in Bali (PA tasks)
+- Completed: Decorative glass samples (PA tasks)
+- Completed: Find book in Indonesia (PA tasks)
+- Completed: find book (PA tasks)
+- Completed: Get correct "brown" color for wood furniture (PA tasks)
+- Completed: Triumph Bonneville T120 tyres (PA tasks)
+- Completed: Find saliva cortisol test kit (PA tasks)
+- Completed: Organise wood carving for Janis Berdigans (PA tasks)
+- Completed: Order Jet Injector (PA tasks)
+- Completed: Manage poster printing for Kairos gate (PA tasks)
+- Completed: Source 5 lamps for Kairos front gate (PA tasks)
+- Completed: Find powder-coated black door handle (PA tasks)
+- Completed: Brass A3 frame (PA tasks)
+- Completed: Film time-lapse of gate poster installation (PA tasks)
+- Completed: Find book "The Technological Republic" (PA tasks)
+- Completed: Measure GF distance between window and staircase (PA tasks)
+- Completed: Update gym equipment spreadsheet with photos (PA tasks)
+- Completed: Get brick tile samples delivered to Isola (PA tasks)
+- Completed: Find where to buy Jet injector (PA tasks)
+- Due soon: iMac for reception due no due date (PA tasks)
+- Due soon: Kairos - Karcher quote & equipment understanding  due no due date (PA tasks)
+- Due soon: Rock - Ujung padang tile delivery due no due date (PA tasks)
+- Due soon: LGF: Kitchen - Dumb waiter due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Staff changing rooms > mirrors with LED due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Wifi due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Wifi due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: GF: CCTV due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: CCTV due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: CCTV due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Wifi due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: Dumb waiter - intercom installation due no due date (No Project)
+- Due soon: CCTV & wifi due no due date (No Project)
+- Due soon: Dumb waiter due no due date (No Project)
+- Due soon: Dumb waiter due no due date (F&B)
+- Due soon: Rock - marble slabs for bathrooms due no due date (PA tasks)
+- Due soon: Kairos - CCTV & WIFI due no due date (PA tasks)
+- Due soon: Kairos - dumb waiter installation due no due date (PA tasks)
+- Due soon: Kairos - shower glass door order due no due date (PA tasks)
+- Due soon: Wifi due no due date (No Project)
+- Due soon: CCTV due no due date (No Project)
+
+**Email:**
+- (none)
