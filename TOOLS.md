@@ -196,6 +196,20 @@ Example: `python3 /root/.openclaw/workspace/scripts/team.py birthdays 3`
 For employee emails and details, see `employees.md` in workspace.
 
 - Tip: Always check both inbox and spam for recent emails related to HR or contracts.
+- **Org chart / reporting lines:** See inline org chart below. Full version also in `team/org-chart.md`.
+
+### Org Chart — House of Kairos
+
+Kaspars Upmanis — Founder / Owner
+├── Nicolas Castrillon — General Manager
+│   ├── Gints Valdmanis — Fitness Manager
+│   ├── I Putu Dimas — F&B Manager
+│   ├── Andy S — Head Chef
+│   ├── Sakinah Dava Erawan — Marketing Manager
+│   └── Nisya Nur Ayuna — HR Manager
+└── Yohanes Baptista — IT/PA (dual report: Kaspars + Nicolas)
+
+**Unassigned:** Laila Karimah (Finance), Kelvin De Araujo (Housekeeper), Bintang Cahya (Gym Attendant), Alpin Brahmana (Housekeeper)
 
 ### Employee Context Profiles
 

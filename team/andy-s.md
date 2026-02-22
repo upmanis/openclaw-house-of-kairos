@@ -8,11 +8,12 @@
 | **Join Date** | 2025-11-24 |
 | **End Date** | 2026-11-23 |
 | **Birthday** | 1995-07-04 |
+| **Reports to** | [Nicolas Castrillon](nicolas-castrillon.md) |
 
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-22_
+_Last updated: 2026-02-23_
 
 (none)
 
@@ -45,3 +46,10 @@ _Last updated: 2026-02-22_
 
 **Email:**
 - (none)
+
+### 2026-02-23
+
+**Asana:**
+- Completed: Air exhaust 45 meters in quote. Will need to measure final length (CKM kitchen & Bar)
+- Completed: Exhaust layout, length plan (CKM kitchen & Bar)
+- Completed: Gas piping layout and location of gas tanks (CKM kitchen & Bar)

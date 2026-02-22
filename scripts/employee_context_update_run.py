@@ -1,269 +1,346 @@
 #!/usr/bin/env python3
-import os, json, re, subprocess, sys
-from datetime import datetime, timedelta, timezone
+import json, os, re, subprocess, sys
 from collections import defaultdict
-import urllib.parse
-import requests
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
 
 WORKSPACE_GID = "1208695572000101"
-BASE = "/root/.openclaw/workspace"
-ALIASES_PATH = os.path.join(BASE, "team/_aliases.json")
-TEAM_DIR = os.path.join(BASE, "team")
-MEMORY_DIR = os.path.join(BASE, "memory")
+ALIASES_PATH = Path("team/_aliases.json")
+TEAM_DIR = Path("team")
+MEMORY_DIR = Path("memory")
 
+# Time: run is invoked with current UTC timestamp from environment if provided; otherwise use now.
+# Cron message states: Sunday, Feb 22 2026 16:00 UTC.
+# We'll compute WITA date from actual current time to be safe.
 WITA = timezone(timedelta(hours=8))
 now_utc = datetime.now(timezone.utc)
 now_wita = now_utc.astimezone(WITA)
-date_wita = now_wita.date().isoformat()  # YYYY-MM-DD
+TODAY_WITA = now_wita.date()
+TODAY_STR = TODAY_WITA.isoformat()
+
+YESTERDAY_ISO = (now_utc - timedelta(days=1)).replace(microsecond=0).isoformat().replace('+00:00','Z')
+NEXT_WEEK_DATE = (TODAY_WITA + timedelta(days=7)).isoformat()  # YYYY-MM-DD
+
+ASANA_TOKEN = os.environ.get("ASANA_TOKEN")
+if not ASANA_TOKEN:
+    print("ERROR: ASANA_TOKEN not set", file=sys.stderr)
+    sys.exit(2)
+
+
+def run(cmd, env=None):
+    """Run command, return stdout string."""
+    p = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, env=env, text=True)
+    if p.returncode != 0:
+        raise RuntimeError(f"Command failed ({p.returncode}): {' '.join(cmd)}\nSTDERR: {p.stderr.strip()}\nSTDOUT: {p.stdout.strip()}")
+    return p.stdout
+
+
+def curl_json(url):
+    out = run([
+        "curl", "-s",
+        "-H", f"Authorization: Bearer {ASANA_TOKEN}",
+        url
+    ])
+    return json.loads(out)
 
 
 def load_aliases():
-    with open(ALIASES_PATH, "r", encoding="utf-8") as f:
-        return json.load(f)
+    return json.loads(ALIASES_PATH.read_text())
 
-def asana_headers():
-    tok = os.environ.get("ASANA_TOKEN")
-    if not tok:
-        raise SystemExit("ASANA_TOKEN not set")
-    return {"Authorization": f"Bearer {tok}"}
 
-def asana_get(url, params=None):
-    r = requests.get(url, headers=asana_headers(), params=params, timeout=60)
-    if r.status_code >= 400:
-        raise RuntimeError(f"Asana GET {url} failed: {r.status_code} {r.text[:300]}")
-    return r.json()
-
-def get_asana_users_map():
-    url = "https://app.asana.com/api/1.0/users"
-    data = asana_get(url, params={"workspace": WORKSPACE_GID, "opt_fields": "name,email,gid", "limit": 100})
-    users = data.get("data", [])
-    # paginate
-    while data.get("next_page") and data["next_page"].get("uri"):
-        data = asana_get(data["next_page"]["uri"])
-        users.extend(data.get("data", []))
-    by_email = {}
-    by_name = {}
-    for u in users:
+def asana_users_map():
+    url = f"https://app.asana.com/api/1.0/users?workspace={WORKSPACE_GID}&opt_fields=name,email,gid"
+    j = curl_json(url)
+    email_to_gid = {}
+    name_to_gid = {}
+    for u in j.get("data", []):
         if u.get("email"):
-            by_email[u["email"].strip().lower()] = u
+            email_to_gid[u["email"].strip().lower()] = u.get("gid")
         if u.get("name"):
-            by_name[u["name"].strip().lower()] = u
-    return by_email, by_name
+            name_to_gid[u["name"].strip().lower()] = u.get("gid")
+    return email_to_gid, name_to_gid
 
-def search_tasks(assignee_gid, extra_params):
-    url = f"https://app.asana.com/api/1.0/workspaces/{WORKSPACE_GID}/tasks/search"
-    params = {
-        "assignee.any": assignee_gid,
-        "opt_fields": "name,completed_at,due_on,projects.name",
-        "is_subtask": "false",
-    }
-    params.update(extra_params)
-    data = asana_get(url, params=params)
-    tasks = data.get("data", [])
-    # paginate using offset if present
-    while data.get("next_page") and data["next_page"].get("offset"):
-        params["offset"] = data["next_page"]["offset"]
-        data = asana_get(url, params=params)
-        tasks.extend(data.get("data", []))
-    return tasks
+
+def asana_search_tasks(assignee_gid, params):
+    # params: dict of query params; returns list of tasks
+    from urllib.parse import urlencode
+    base = f"https://app.asana.com/api/1.0/workspaces/{WORKSPACE_GID}/tasks/search"
+    q = urlencode(params, doseq=True)
+    url = base + "?" + q
+    j = curl_json(url)
+    return j.get("data", [])
+
 
 def normalize_projects(task):
-    projs = task.get("projects") or []
-    if not projs:
-        return ["No Project"]
-    names = [p.get("name") for p in projs if p.get("name")]
+    ps = task.get("projects") or []
+    names = [p.get("name") for p in ps if p.get("name")]
     return names or ["No Project"]
 
-def fmt_due(due_on, today):
-    if not due_on:
-        return "no due date", False
-    try:
-        overdue = due_on < today
-    except Exception:
-        overdue = False
-    if overdue:
-        return f"**overdue** {due_on}", True
-    return f"due {due_on}", False
 
 def group_open_tasks(open_tasks):
     grouped = defaultdict(list)
     for t in open_tasks:
+        name = t.get("name", "(unnamed)").strip()
         due = t.get("due_on")
         for proj in normalize_projects(t):
-            grouped[proj].append((t.get("name") or "(untitled)", due))
-    # sort by due date then name
-    for proj, items in grouped.items():
-        items.sort(key=lambda x: (x[1] is None, x[1] or "9999-12-31", x[0].lower()))
+            grouped[proj].append((name, due))
+
+    # sort projects alpha; tasks: overdue first, then due, then no due; then date/name.
+    today = TODAY_WITA
+
+    def task_sort(item):
+        name, due = item
+        if due:
+            d = datetime.fromisoformat(due).date()
+            overdue = d < today
+            return (0 if overdue else 1, d, name.lower())
+        return (2, datetime.max.date(), name.lower())
+
+    for proj in grouped:
+        grouped[proj].sort(key=task_sort)
+
     return dict(sorted(grouped.items(), key=lambda kv: kv[0].lower()))
 
-def replace_outstanding_section(profile_path, outstanding_md):
-    with open(profile_path, "r", encoding="utf-8") as f:
-        text = f.read()
 
-    if "## Activity Log" not in text:
-        raise RuntimeError(f"Profile missing '## Activity Log': {profile_path}")
-
-    if "## Outstanding Asana Tasks" in text:
-        pattern = re.compile(r"## Outstanding Asana Tasks\n.*?\n(?=## Activity Log)", re.S)
-        if not pattern.search(text):
-            # fallback: find header and slice
-            idx = text.find("## Outstanding Asana Tasks")
-            act = text.find("## Activity Log")
-            new_text = text[:idx] + outstanding_md + "\n" + text[act:]
-        else:
-            new_text = pattern.sub(outstanding_md + "\n", text)
-    else:
-        # insert before Activity Log
-        act = text.find("## Activity Log")
-        new_text = text[:act] + outstanding_md + "\n\n" + text[act:]
-
-    if new_text != text:
-        with open(profile_path, "w", encoding="utf-8") as f:
-            f.write(new_text)
-
-def append_activity(profile_path, entry_md):
-    with open(profile_path, "r", encoding="utf-8") as f:
-        text = f.read()
-    idx = text.find("## Activity Log")
-    if idx == -1:
-        raise RuntimeError(f"Profile missing '## Activity Log': {profile_path}")
-    # append at end
-    if not text.endswith("\n"):
-        text += "\n"
-    text += "\n" + entry_md.strip() + "\n"
-    with open(profile_path, "w", encoding="utf-8") as f:
-        f.write(text)
-
-def gmail_search(email):
-    cmd = [
-        "bash", "-lc",
-        f'GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail search "newer_than:1d in:anywhere (from:{email} OR to:{email})" -a ops@houseofkairos.com'
+def format_outstanding_section(grouped):
+    lines = [
+        "## Outstanding Asana Tasks",
+        f"_Last updated: {TODAY_STR}_",
+        ""
     ]
-    p = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)
-    return p.returncode, p.stdout
+    if not grouped:
+        lines.append("(none)")
+        lines.append("")
+        return "\n".join(lines)
 
-def parse_gog_search(output):
-    """Parse gog gmail search output.
+    today = TODAY_WITA
+    for proj, tasks in grouped.items():
+        lines.append(f"**{proj}**")
+        for name, due in tasks:
+            if due:
+                d = datetime.fromisoformat(due).date()
+                if d < today:
+                    lines.append(f"- [ ] {name} — **overdue** {due}")
+                else:
+                    lines.append(f"- [ ] {name} — due {due}")
+            else:
+                lines.append(f"- [ ] {name} — no due date")
+        lines.append("")
 
-    Treat 'No results' as empty (no activity), per the job rules.
-    """
-    lines = [ln.strip() for ln in output.splitlines() if ln.strip()]
-    cleaned = [ln for ln in lines if not ln.lower().startswith("warning")]
-    if len(cleaned) == 1 and cleaned[0].lower() == "no results":
-        return []
-    return [ln for ln in cleaned if ln.lower() != "no results"]
+    return "\n".join(lines)
+
+
+def replace_outstanding_section(md_text, new_section):
+    # Ensure section placed between metadata and Activity Log.
+    if "## Activity Log" not in md_text:
+        # If malformed, append Activity Log header.
+        md_text = md_text.rstrip() + "\n\n## Activity Log\n"
+
+    if "## Outstanding Asana Tasks" in md_text:
+        # replace from Outstanding header up to Activity Log
+        pattern = re.compile(r"## Outstanding Asana Tasks[\s\S]*?(?=\n## Activity Log)")
+        md_text2, n = pattern.subn(new_section.rstrip() + "\n\n", md_text)
+        if n == 0:
+            # fallback insert
+            md_text2 = md_text.replace("## Activity Log", new_section.rstrip() + "\n\n## Activity Log")
+        return md_text2
+    else:
+        return md_text.replace("## Activity Log", new_section.rstrip() + "\n\n## Activity Log")
+
+
+def append_activity(md_text, block):
+    # Append block at end under Activity Log. Never overwrite.
+    if "## Activity Log" not in md_text:
+        md_text = md_text.rstrip() + "\n\n## Activity Log\n"
+    return md_text.rstrip() + "\n\n" + block.rstrip() + "\n"
+
+
+def gmail_activity(email):
+    # returns list of (other_party, subject, snippet)
+    env = os.environ.copy()
+    env["GOG_KEYRING_PASSWORD"] = "openclaw-hok-2026"
+    query = f"newer_than:1d in:anywhere (from:{email} OR to:{email})"
+    cmd = ["gog", "gmail", "search", query, "-a", "ops@houseofkairos.com"]
+    out = run(cmd, env=env)
+    # Parse: gog output format can vary; we'll extract messageId lines and basic fields if present.
+    # We'll keep one-line summaries by reading each message id and pulling subject/from/to.
+    ids = []
+    for line in out.splitlines():
+        m = re.search(r"\b([a-f0-9]{16,})\b", line)
+        if m:
+            ids.append(m.group(1))
+    ids = list(dict.fromkeys(ids))
+
+    items = []
+    for mid in ids[:20]:
+        g = run(["gog", "gmail", "get", mid, "-a", "ops@houseofkairos.com"], env=env)
+        # very light parse
+        subj = re.search(r"^Subject:\s*(.*)$", g, re.M)
+        frm = re.search(r"^From:\s*(.*)$", g, re.M)
+        to = re.search(r"^To:\s*(.*)$", g, re.M)
+        snippet = re.search(r"^Snippet:\s*(.*)$", g, re.M)
+        subject = (subj.group(1).strip() if subj else "(no subject)")
+        from_s = (frm.group(1).strip() if frm else "")
+        to_s = (to.group(1).strip() if to else "")
+        sn = (snippet.group(1).strip() if snippet else "")
+        # determine other party
+        other = from_s if email.lower() not in from_s.lower() else to_s
+        items.append((other, subject, sn))
+
+    return items
+
 
 def main():
     aliases = load_aliases()
 
-    # WhatsApp parsing: skip if today's memory file doesn't exist (per instructions)
-    memory_path = os.path.join(MEMORY_DIR, f"{date_wita}.md")
-    whatsapp_available = os.path.exists(memory_path)
+    # WhatsApp parsing: skip if today's memory file does not exist.
+    memory_path = MEMORY_DIR / f"{TODAY_STR}.md"
+    whatsapp_activity = {}  # slug -> list of (group, summary)
+    if memory_path.exists():
+        mem = memory_path.read_text(errors='ignore')
+        for slug, info in aliases.items():
+            hits = []
+            # match strategies
+            patterns = []
+            for a in info.get('aliases') or []:
+                if a:
+                    patterns.append(re.escape(a))
+            if info.get('phone'):
+                patterns.append(re.escape(info['phone']))
+            if info.get('whatsapp_name'):
+                patterns.append(re.escape(info['whatsapp_name']))
+            if not patterns:
+                continue
+            rx = re.compile(r"(" + "|".join(patterns) + r")", re.I)
+            if rx.search(mem):
+                # crude: gather surrounding WhatsApp blocks
+                for m in rx.finditer(mem):
+                    start = mem.rfind("### WhatsApp", 0, m.start())
+                    if start == -1:
+                        start = max(0, m.start()-200)
+                    end = mem.find("### WhatsApp", m.end())
+                    if end == -1:
+                        end = min(len(mem), m.end()+400)
+                    snippet = mem[start:end].strip()
+                    # group name line
+                    gname = "WhatsApp"
+                    firstline = snippet.splitlines()[0] if snippet.splitlines() else "WhatsApp"
+                    m2 = re.match(r"###\s*WhatsApp\s*—\s*([^—]+?)\s*—", firstline)
+                    if m2:
+                        gname = m2.group(1).strip()
+                    # one-line summary
+                    s1 = " ".join([ln.strip('- ').strip() for ln in snippet.splitlines()[1:4] if ln.strip()])
+                    s1 = re.sub(r"\s+", " ", s1)[:200]
+                    hits.append((gname, s1 or "Mentioned in log"))
+                whatsapp_activity[slug] = hits
 
-    by_email, by_name = get_asana_users_map()
+    email_to_gid, _ = asana_users_map()
 
-    results = {}
+    asana_completed = {}
+    asana_due_soon = {}
+    asana_open_all = {}
 
     for slug, info in aliases.items():
-        email = (info.get("email") or "").strip()
-        asana_user = by_email.get(email.lower()) if email else None
-
-        # Asana
-        asana = {
-            "matched": bool(asana_user),
-            "user": asana_user,
-            "open_all": [],
-        }
-        if asana_user:
-            gid = asana_user["gid"]
-            asana["open_all"] = search_tasks(gid, {
-                "completed": "false",
-            })
-
-        # Gmail
-        gmail = {"queried": False, "items": []}
-        if email.endswith("@houseofkairos.com"):
-            gmail["queried"] = True
-            rc, out = gmail_search(email)
-            gmail["items"] = parse_gog_search(out)
-
-        # WhatsApp
-        whatsapp = {"available": whatsapp_available, "items": []}
-        # (Skipped entirely per rules if file missing)
-
-        results[slug] = {"info": info, "asana": asana, "gmail": gmail, "whatsapp": whatsapp}
-
-    # Update Outstanding Asana Tasks section for those with Asana match
-    today_wita = date_wita
-    for slug, r in results.items():
-        if not r["asana"]["matched"]:
-            continue
-        profile_path = os.path.join(TEAM_DIR, f"{slug}.md")
-        open_tasks = r["asana"]["open_all"]
-        grouped = group_open_tasks(open_tasks)
-
-        lines = [
-            "## Outstanding Asana Tasks",
-            f"_Last updated: {today_wita}_",
-            ""
-        ]
-        if not open_tasks:
-            lines.append("(none)")
-        else:
-            today = today_wita
-            for proj, items in grouped.items():
-                lines.append(f"**{proj}**")
-                for name, due in items:
-                    due_str, _ = fmt_due(due, today)
-                    lines.append(f"- [ ] {name} — {due_str}")
-                lines.append("")
-            if lines and lines[-1] == "":
-                pass
-        outstanding_md = "\n".join(lines).rstrip() + "\n"
-        replace_outstanding_section(profile_path, outstanding_md)
-
-    # Append activity log entries only for WhatsApp and Email (Asana status lives in Outstanding section)
-    for slug, r in results.items():
-        act_whatsapp = []  # none (skipped)
-        act_email = []
-
-        if r["gmail"]["queried"] and r["gmail"]["items"]:
-            for ln in r["gmail"]["items"][:10]:
-                act_email.append(f"- {ln}")
-
-        if not (act_whatsapp or act_email):
+        email = (info.get('email') or '').strip().lower()
+        gid = email_to_gid.get(email)
+        if not gid:
             continue
 
-        entry = [
-            f"### {date_wita}",
-            "",
-            "**WhatsApp:**",
-        ]
-        if act_whatsapp:
-            entry.extend(act_whatsapp)
-        else:
-            entry.append("- (none)")
-        entry.append("")
-        entry.append("**Email:**")
-        if act_email:
-            entry.extend(act_email)
-        else:
-            entry.append("- (none)")
+        # Completed last 24h
+        completed = asana_search_tasks(gid, {
+            "assignee.any": gid,
+            "completed_since": YESTERDAY_ISO,
+            "opt_fields": "name,completed_at,projects.name",
+            "is_subtask": "false",
+        })
+        asana_completed[slug] = completed
 
-        profile_path = os.path.join(TEAM_DIR, f"{slug}.md")
-        append_activity(profile_path, "\n".join(entry))
+        # Due within 7 days
+        due_soon = asana_search_tasks(gid, {
+            "assignee.any": gid,
+            "due_on.before": NEXT_WEEK_DATE,
+            "completed": "false",
+            "opt_fields": "name,due_on,projects.name",
+            "is_subtask": "false",
+        })
+        asana_due_soon[slug] = due_soon
 
-    print(json.dumps({
-        "date_wita": date_wita,
-        "whatsapp_memory_exists": whatsapp_available,
-        "employees": {
-            slug: {
-                "asana_matched": results[slug]["asana"]["matched"],
-                "asana_open": len(results[slug]["asana"]["open_all"]),
-                "gmail_items": len(results[slug]["gmail"]["items"]),
-            } for slug in results
-        }
-    }, indent=2))
+        # All open
+        open_all = asana_search_tasks(gid, {
+            "assignee.any": gid,
+            "completed": "false",
+            "opt_fields": "name,due_on,projects.name",
+            "is_subtask": "false",
+        })
+        asana_open_all[slug] = open_all
 
-if __name__ == "__main__":
+    gmail_items = {}
+    for slug, info in aliases.items():
+        email = (info.get('email') or '').strip().lower()
+        if email.endswith('@houseofkairos.com'):
+            try:
+                gmail_items[slug] = gmail_activity(email)
+            except Exception as e:
+                gmail_items[slug] = [("(error)", f"Gmail query failed", str(e)[:120])]
+
+    # Update profile files
+    for slug, info in aliases.items():
+        profile_path = TEAM_DIR / f"{slug}.md"
+        if not profile_path.exists():
+            continue
+        md = profile_path.read_text(errors='ignore')
+
+        # Step 5: Replace outstanding tasks section if Asana user exists.
+        if slug in asana_open_all:
+            grouped = group_open_tasks(asana_open_all.get(slug) or [])
+            section = format_outstanding_section(grouped)
+            md = replace_outstanding_section(md, section)
+
+        # Step 6: Append activity if any across sources.
+        wa = whatsapp_activity.get(slug) or []
+        comp = asana_completed.get(slug) or []
+        due = asana_due_soon.get(slug) or []
+        ems = gmail_items.get(slug) or []
+
+        has_activity = bool(wa or comp or due or ems)
+        if has_activity:
+            block_lines = [f"### {TODAY_STR}", ""]
+
+            if wa:
+                block_lines.append("**WhatsApp:**")
+                for g, s in wa[:10]:
+                    block_lines.append(f"- [{g}]: {s}")
+                block_lines.append("")
+
+            if comp or due:
+                block_lines.append("**Asana:**")
+                if comp:
+                    for t in comp[:15]:
+                        name = t.get('name','(unnamed)').strip()
+                        proj = normalize_projects(t)[0]
+                        block_lines.append(f"- Completed: {name} ({proj})")
+                if due:
+                    for t in due[:15]:
+                        name = t.get('name','(unnamed)').strip()
+                        due_on = t.get('due_on') or 'no due date'
+                        proj = normalize_projects(t)[0]
+                        block_lines.append(f"- Due soon: {name} due {due_on} ({proj})")
+                block_lines.append("")
+
+            if ems:
+                block_lines.append("**Email:**")
+                for other, subject, snip in ems[:10]:
+                    other2 = other or "(unknown)"
+                    sn = (snip or '').strip()
+                    tail = (f" -- {sn}" if sn else "")
+                    block_lines.append(f"- From/To {other2}: {subject}{tail}")
+                block_lines.append("")
+
+            md = append_activity(md, "\n".join(block_lines).rstrip())
+
+        profile_path.write_text(md)
+
+
+if __name__ == '__main__':
     main()
+    print(f"OK employee-context-update {TODAY_STR} (WITA)")

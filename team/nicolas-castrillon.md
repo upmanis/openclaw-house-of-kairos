@@ -8,11 +8,12 @@
 | **Join Date** | 2024-08-01 |
 | **End Date** | --- |
 | **Birthday** | 1989-11-28 |
+| **Reports to** | [Kaspars Upmanis](kaspars-upmanis.md) |
 
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-22_
+_Last updated: 2026-02-23_
 
 **CONSTRUCTION CHECKLIST**
 - [ ] ROOFTOP: Audio — no due date
@@ -103,3 +104,16 @@ _Last updated: 2026-02-22_
 
 **Email:**
 - (none)
+
+### 2026-02-23
+
+**Asana:**
+- Completed: ROOFTOP: Audio (CONSTRUCTION CHECKLIST)
+- Completed: Sound supplier selection (No Project)
+- Completed: Gym equipment for rooftop (CONSTRUCTION CHECKLIST)
+- Completed: Select final gym equipment for gym floor (CONSTRUCTION CHECKLIST)
+- Completed: RO filter supplier (No Project)
+- Completed: Investigate body scanners (No Project)
+- Completed: Send latest layout to Daikin (No Project)
+- Completed: Dumbwaiter (quote attached) (No Project)
+- Due soon: ROOFTOP: Audio due no due date (CONSTRUCTION CHECKLIST)

@@ -1,4 +1,6 @@
-# Gints Valdmanis
+# Gints Valdmanis — Character Profile
+
+## The Basics
 
 | Field | Value |
 |---|---|
@@ -8,11 +10,43 @@
 | **Join Date** | 2025-09-01 |
 | **End Date** | 2026-08-31 |
 | **Birthday** | 1983-12-14 |
+| **Reports to** | [Nicolas Castrillon](nicolas-castrillon.md) |
+| **Full name** | Gints Valdmanis |
+| **Born** | December 14, 1983 (age 42) |
+| **From** | Riga, Latvia |
+| **Lives** | Bali, Indonesia (Seseh/Canggu area) |
+| **Family** | Wife Jekaterina Sidorova (fitness trainer & nutrition specialist), daughter |
+| **Height** | 189 cm / 6'2" |
+| **Weight** | ~110 kg / 243 lbs |
+| **Build** | Muscular — bodybuilder physique |
+| **Instagram** | @gintsvaldmanis — 62K+ followers, 785 posts |
+
+## Professional Background
+
+- **Personal Fitness Trainer** — self-described as "Fitness and Wellbeing Expert, Elite Personal Trainer, Nutrition and Supplement Specialist"
+- **Previous employers:** Global Fitness, Sporta klubs Centrs (both in Latvia)
+- **Competitive bodybuilder** and fitness model — Latvian-born, active in the IFBB scene
+- **Social media influencer** — significant following in Latvia's fitness community; part of a well-known Latvian "fitness couple" with Jekaterina
+- **Traveled ~55 countries** before settling in Bali
+
+## Personal Philosophy
+
+Values simplicity and peace over material wealth. Described Bali as a lifelong dream destination. Quoted saying life "offers no practice version" — appreciates living fully. Critical of Latvia's current direction, calling it "at a very low point" with a fractured, negative society. Said he doesn't recognize his homeland anymore and has no immediate plans to return.
+
+## Bali Connection
+
+Relocated to Bali with his family, initially for winter season, now living there more permanently. Based in Seseh near Canggu. Experienced the severe flooding firsthand — his wife got trapped at a gym during monsoon rains. Noted Bali's infrastructure challenges with drainage and sanitation. Despite the conditions, continues daily routines and taking his daughter to activities.
+
+## At House of Kairos
+
+- **Role:** Fitness Manager (since Sep 2025, contract through Aug 2026)
+- **Digital footprint:** Minimal — one WhatsApp exchange logged, zero Asana tasks
+- **Profile:** Brings serious credibility — competitive bodybuilder, 62K Instagram following, years of elite personal training experience. The kind of hire that anchors a gym's reputation. His low activity in project management tools likely reflects a floor-first, people-first management style rather than disengagement. With the gym still under construction, his scope will expand significantly as the fitness operation goes live.
 
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-22_
+_Last updated: 2026-02-23_
 
 (none)
 
@@ -27,3 +61,19 @@ _Last updated: 2026-02-22_
 - **Bot:** Got it, there's a site meeting today with the team on-site. Is there anything specific you need help with regarding the meeting?
 - **Kaspars:** the rest I think online
 - **Bot:** Alright, so the site meeting is in-person, while the rest will be online. If you need details or links for the online meetings, let me know!
+
+
+### 2026-02-22 — WhatsApp
+
+#### Hok | Gym — 10:30
+- **Gints:** [image]
+- **Bot:** NO_REPLY
+
+#### Hok | Gym — 11:00
+- **Gints:** Finally
+- **Bot:** NO_REPLY
+- **Gints:** [image]
+- **Kaspars:** that looks good! finally ..
+- **Kaspars:** is this wall also ok?
+- **Bot:** Yes—that wall looks good from the photos. If you want, I can log a quick note about the status and next steps, or pull together a short punchlist for the build.
+- **Gints:** Yeah, looks ok. Pics is one thing but in real life is ok

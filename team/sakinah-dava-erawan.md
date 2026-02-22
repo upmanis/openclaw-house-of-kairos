@@ -8,14 +8,15 @@
 | **Join Date** | 2025-04-07 |
 | **End Date** | 2026-04-06 |
 | **Birthday** | 2000-10-30 |
+| **Reports to** | [Nicolas Castrillon](nicolas-castrillon.md) |
 
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-22_
+_Last updated: 2026-02-23_
 
 **Marketing**
-- [ ] Creative Direction Draft by Hendra  — **overdue** 2025-05-13
+- [ ] Creative Direction Draft by Hendra — **overdue** 2025-05-13
 - [ ] Researching PR BOX supplier — **overdue** 2025-06-27
 - [ ] Website Planning — **overdue** 2025-07-12
 - [ ] Media Outreach — **overdue** 2025-07-19
@@ -35,17 +36,17 @@ _Last updated: 2026-02-22_
 - [ ] Socks — no due date
 
 **Marketing - Pre-sales campaign**
-- [ ] Design waitlist email  — **overdue** 2026-02-11
-- [ ] Prepare presale is now open artwork — **overdue** 2026-02-12
-- [ ] Prepare tour invitation artwork — **overdue** 2026-02-12
+- [ ] Design waitlist email — **overdue** 2026-02-11
 - [ ] prepare facilities artwork — **overdue** 2026-02-12
 - [ ] prepare membership benefit artwork — **overdue** 2026-02-12
+- [ ] Prepare presale is now open artwork — **overdue** 2026-02-12
+- [ ] Prepare tour invitation artwork — **overdue** 2026-02-12
 - [ ] Gym rules — **overdue** 2026-02-19
 - [ ] Locker rules — **overdue** 2026-02-19
 - [ ] Menu — **overdue** 2026-02-20
 - [ ] Launch 14 days count down reel — due 2026-03-01
-- [ ] WEBSITE LIVE — due 2026-03-01
 - [ ] send 1st wave email — due 2026-03-01
+- [ ] WEBSITE LIVE — due 2026-03-01
 - [ ] send 2nd wave email — due 2026-03-06
 - [ ] Launch 7 days count down reel — due 2026-03-07
 - [ ] send 3rd wave email — due 2026-03-10
@@ -311,3 +312,47 @@ _Last updated: 2026-02-22_
 
 **Email:**
 - (none)
+
+
+### 2026-02-22 — WhatsApp
+
+#### HoK | Marketing — 17:30
+- **Kaspars:** [video]
+- **Bot:** NO_REPLY
+- **Kaspars:** our team sponsorship tees
+- **Sakinah:** Woohoo 😍😍
+- **Kaspars:** this are the latest update from them, they will be back tomorrow night to adjust the stainless part and install the led if it possible to work all of it by tomorrow
+
+### 2026-02-23
+
+**Asana:**
+- Completed: Menu (Marketing - Pre-sales campaign)
+- Completed: Gym rules (Marketing - Pre-sales campaign)
+- Completed: Locker rules (Marketing - Pre-sales campaign)
+- Completed: Launch has opened  reel (Marketing - Pre-sales campaign)
+- Completed: Shooting pre-sales has opened (Marketing - Pre-sales campaign)
+- Completed: Shooting count down reel (Marketing - Pre-sales campaign)
+- Completed: Socks (Marketing - Merch)
+- Completed: prepare facilities artwork (Marketing - Pre-sales campaign)
+- Completed: Prepare tour invitation artwork (Marketing - Pre-sales campaign)
+- Completed: prepare membership benefit artwork (Marketing - Pre-sales campaign)
+- Completed: Prepare presale is now open artwork (Marketing - Pre-sales campaign)
+- Completed: Design waitlist email (Marketing - Pre-sales campaign)
+- Completed: Develop campaign planning (Marketing - Pre-sales campaign)
+- Completed: Coach  Artwork (Marketing - Pre-sales campaign)
+- Completed: WEBSITE LIVE (Marketing - Pre-sales campaign)
+- Due soon: Menu due 2026-02-20 (Marketing - Pre-sales campaign)
+- Due soon: Gym rules due 2026-02-19 (Marketing - Pre-sales campaign)
+- Due soon: Locker rules due 2026-02-19 (Marketing - Pre-sales campaign)
+- Due soon: Launch has opened  reel due 2026-03-15 (Marketing - Pre-sales campaign)
+- Due soon: Socks due no due date (Marketing - Merch)
+- Due soon: prepare facilities artwork due 2026-02-12 (Marketing - Pre-sales campaign)
+- Due soon: Prepare tour invitation artwork due 2026-02-12 (Marketing - Pre-sales campaign)
+- Due soon: prepare membership benefit artwork due 2026-02-12 (Marketing - Pre-sales campaign)
+- Due soon: Prepare presale is now open artwork due 2026-02-12 (Marketing - Pre-sales campaign)
+- Due soon: Design waitlist email due 2026-02-11 (Marketing - Pre-sales campaign)
+- Due soon: Coach  Artwork due no due date (Marketing - Pre-sales campaign)
+- Due soon: WEBSITE LIVE due 2026-03-01 (Marketing - Pre-sales campaign)
+- Due soon: Shooting pre-sales has sold out due 2026-03-18 (Marketing - Pre-sales campaign)
+- Due soon: Class Schedule artwork due no due date (Marketing - Pre-sales campaign)
+- Due soon: Pricing due no due date (Marketing - Pre-sales campaign)

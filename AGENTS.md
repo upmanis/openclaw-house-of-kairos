@@ -145,13 +145,14 @@ The ONLY trigger for responding in a group is an @mention (tag). Nothing else. N
 
 **Decision tree for EVERY group message:**
 
-1. **Were you @mentioned in this message?**
-   - **NO → Output `NO_REPLY`.** Log the conversation silently. Do NOT respond. Do NOT offer help. Do NOT comment. This applies to ALL senders, including Kaspars.
+1. **FIRST: Log the message.** Always append a summary to `memory/YYYY-MM-DD.md` using the WhatsApp logging format (see "WhatsApp Message Logging" section). Use the sender's display name from the message. This happens for EVERY message — mentioned or not, Kaspars or anyone else.
+2. **THEN: Were you @mentioned in this message?**
+   - **NO → Output `NO_REPLY`.** Do NOT respond. Do NOT offer help. Do NOT comment. This applies to ALL senders, including Kaspars.
    - **YES → Check who mentioned you:**
      - **Kaspars** (+37120000453) → Respond normally
      - **Anyone else** → Output `NO_REPLY`. Do not acknowledge, do not explain, just stay silent.
 
-**How to stay silent:** Start your output with the literal token `NO_REPLY`. This tells OpenClaw to suppress delivery — nothing will be sent to the chat. You can still run tools (logging, memory writes) before outputting `NO_REPLY`.
+**How to stay silent:** After logging, output the literal token `NO_REPLY` as your final response. This tells OpenClaw to suppress delivery — nothing will be sent to the chat. You MUST still log before outputting NO_REPLY.
 
 **Common mistakes to avoid:**
 - Do NOT respond just because the message is from Kaspars. Being the owner does NOT mean every message needs a reply. Only @mentions trigger responses.

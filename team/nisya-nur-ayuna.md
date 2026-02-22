@@ -8,21 +8,22 @@
 | **Join Date** | 2025-05-01 |
 | **End Date** | 2026-05-24 |
 | **Birthday** | 1986-04-02 |
+| **Reports to** | [Nicolas Castrillon](nicolas-castrillon.md) |
 
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-22_
+_Last updated: 2026-02-23_
 
 **General  Timeline**
 - [ ] Create job descriptions - all positions — **overdue** 2025-10-01
 
 **HR**
 - [ ] Employee Administration Forms — **overdue** 2025-08-30
-- [ ] Employee Handbook  — **overdue** 2025-09-30
-- [ ] On Boarding Pack  — **overdue** 2025-09-30
+- [ ] Employee Handbook — **overdue** 2025-09-30
+- [ ] On Boarding Pack — **overdue** 2025-09-30
 - [ ] Onboarding new hires completed in their first 3 days — **overdue** 2025-09-30
-- [ ] Recruitment-Hire 20 qualified staff members  — **overdue** 2025-09-30
+- [ ] Recruitment-Hire 20 qualified staff members — **overdue** 2025-09-30
 - [ ] Create job descriptions - all positions — **overdue** 2025-10-01
 - [ ] Live Attendance — **overdue** 2025-10-31
 - [ ] Mandatory pre-opening training — **overdue** 2025-10-31
@@ -36,8 +37,8 @@ _Last updated: 2026-02-22_
 - [ ] Launch employee engagement activity with 75% achievement rate — **overdue** 2025-12-31
 - [ ] Performance Appraisal — **overdue** 2025-12-31
 - [ ] Performance Improvement Plan — **overdue** 2025-12-31
-- [ ] SMART Goals Setting — **overdue** 2025-12-31
 - [ ] Service Excellence Training for Front-liner Staff — **overdue** 2025-12-31
+- [ ] SMART Goals Setting — **overdue** 2025-12-31
 - [ ] Training & Development — **overdue** 2025-12-31
 - [ ] Manage WLKP — no due date
 - [ ] Manpower Regulation — no due date
@@ -55,6 +56,7 @@ _Last updated: 2026-02-22_
 - [ ] Bookkeeper — no due date
 - [ ] IT Supervisor — no due date
 - [ ] Laundry Attendant — no due date
+- [ ] Operations Manager — no due date
 - [ ] PA to General Manager — no due date
 
 
@@ -325,3 +327,37 @@ _Last updated: 2026-02-22_
 
 **Email:**
 - (none)
+
+### 2026-02-23
+
+**Asana:**
+- Completed: Operations Manager (Recruitment)
+- Completed: Head of Bar (Recruitment)
+- Completed: Marketing Coordinator (Recruitment)
+- Completed: Sous Chef (Recruitment)
+- Completed: Purchasing Supervisor (Recruitment)
+- Completed: Housekeeping Staff (Recruitment)
+- Completed: Fashion Merchandiser (Recruitment)
+- Completed: Front Office (Recruitment)
+- Completed: Chef De Partie (Recruitment)
+- Completed: PA to General Manager (Recruitment)
+- Completed: Laundry Attendant (Recruitment)
+- Completed: Bartender (Recruitment)
+- Completed: Head Chef (Recruitment)
+- Completed: Gym Attendant (Recruitment)
+- Completed: Bookkeeper (Recruitment)
+- Due soon: Operations Manager due no due date (Recruitment)
+- Due soon: Head of Bar due 2026-02-27 (Recruitment)
+- Due soon: Marketing Coordinator due 2026-03-02 (Recruitment)
+- Due soon: Sous Chef due 2026-02-27 (Recruitment)
+- Due soon: Purchasing Supervisor due 2026-03-06 (Recruitment)
+- Due soon: Housekeeping Staff due 2026-03-06 (Recruitment)
+- Due soon: Fashion Merchandiser due 2026-03-20 (Recruitment)
+- Due soon: PA to General Manager due no due date (Recruitment)
+- Due soon: Laundry Attendant due no due date (Recruitment)
+- Due soon: Bookkeeper due no due date (Recruitment)
+- Due soon: Security due 2026-05-30 (Recruitment)
+- Due soon: IT Supervisor due no due date (Recruitment)
+- Due soon: Launch employee engagement activity with 75% achievement rate due 2025-12-31 (HR)
+- Due soon: Communication & Feedback due 2025-12-31 (HR)
+- Due soon: Training & Development due 2025-12-31 (HR)
