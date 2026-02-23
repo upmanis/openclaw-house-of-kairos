@@ -13,14 +13,13 @@
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-23_
+_Last updated: 2026-02-24_
 
 **CONSTRUCTION CHECKLIST**
 - [ ] GF: CCTV — no due date
 - [ ] GF: Wifi — no due date
 - [ ] GYM: CCTV — no due date
 - [ ] GYM: Wifi — no due date
-- [ ] LGF: Kitchen - Dumb waiter — no due date
 - [ ] LGF: Staff changing rooms > mirrors with LED — no due date
 - [ ] LGF: Wifi — no due date
 - [ ] ROOFTOP: CCTV — no due date
@@ -44,6 +43,7 @@ _Last updated: 2026-02-23_
 - [ ] Kairos - dumb waiter installation — no due date
 - [ ] Kairos - Karcher quote & equipment understanding — no due date
 - [ ] Kairos - shower glass door order — no due date
+- [ ] Laundry washing machines, dryers & iron — no due date
 - [ ] Rock - marble slabs for bathrooms — no due date
 
 
@@ -263,6 +263,40 @@ _Last updated: 2026-02-23_
 - Due soon: number pad locks for gym floor lockers due 2026-03-09 (PA tasks)
 - Due soon: Kairos - Karcher quote & equipment understanding due no due date (PA tasks)
 - Due soon: LGF: Kitchen - Dumb waiter due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Staff changing rooms > mirrors with LED due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Wifi due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Wifi due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: GF: CCTV due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: CCTV due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: CCTV due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Wifi due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: Dumb waiter - intercom installation due no due date (No Project)
+- Due soon: CCTV & wifi due no due date (No Project)
+
+### 2026-02-24
+
+**Asana:**
+- Completed: Laundry washing machines, dryers & iron (PA tasks)
+- Completed: LGF: Kitchen - Dumb waiter (CONSTRUCTION CHECKLIST)
+- Completed: iMac for reception (PA tasks)
+- Completed: number pad locks for gym floor lockers (PA tasks)
+- Completed: Bar red glass "windows" (PA tasks)
+- Completed: Big mirror wall in cardio area (PA tasks)
+- Completed: Rock - Ujung padang tile delivery (PA tasks)
+- Completed: Kairos - Karcher quote & equipment understanding (PA tasks)
+- Completed: LGF: Staff changing rooms > mirrors with LED (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Wifi (CONSTRUCTION CHECKLIST)
+- Completed: GF: Wifi (CONSTRUCTION CHECKLIST)
+- Completed: GF: CCTV (CONSTRUCTION CHECKLIST)
+- Completed: GYM: CCTV (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: CCTV (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Wifi (CONSTRUCTION CHECKLIST)
+- Due soon: Laundry washing machines, dryers & iron due no due date (PA tasks)
+- Due soon: iMac for reception due 2026-03-03 (PA tasks)
+- Due soon: number pad locks for gym floor lockers due 2026-03-09 (PA tasks)
+- Due soon: Bar red glass "windows" due no due date (PA tasks)
+- Due soon: Big mirror wall in cardio area due no due date (PA tasks)
+- Due soon: Kairos - Karcher quote & equipment understanding due no due date (PA tasks)
 - Due soon: LGF: Staff changing rooms > mirrors with LED due no due date (CONSTRUCTION CHECKLIST)
 - Due soon: LGF: Wifi due no due date (CONSTRUCTION CHECKLIST)
 - Due soon: GF: Wifi due no due date (CONSTRUCTION CHECKLIST)

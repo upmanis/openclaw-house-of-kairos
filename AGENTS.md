@@ -60,11 +60,11 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 
 **For ALL WhatsApp messages (DMs and groups), automatically log to daily memory files.**
 
-After every WhatsApp interaction (whether you respond or stay silent), append a brief summary to `memory/YYYY-MM-DD.md`:
+After every WhatsApp interaction (whether you respond or stay silent), append the full verbatim conversation to `memory/YYYY-MM-DD.md`:
 
 ```
 ### WhatsApp — [Group Name or Contact Name] — HH:MM
-- **Who said what:** Brief summary of messages (not verbatim, just key points)
+- **Who said what:** Full verbatim messages from each sender (log exact words, not summaries)
 - **Topics discussed:** Main subjects
 - **Decisions/action items:** If any
 - **Your response:** What you said (or "stayed silent")
@@ -72,7 +72,7 @@ After every WhatsApp interaction (whether you respond or stay silent), append a 
 
 **Rules:**
 - Log **every** conversation, not just ones where you respond
-- Keep summaries concise — 2-5 bullet points per interaction, not full transcripts
+- Log the FULL conversation verbatim — every message from every sender, word for word
 - Group rapid-fire messages into one log entry (batch within ~5 min window)
 - **Use canonical names:** When logging sender names, look up the sender's phone number in `team/_aliases.json` (the `phone` field) and use the employee's `short` name. If the phone number isn't in `_aliases.json`, use the WhatsApp display name as-is.
 - If files/images were shared, note what they contained
@@ -137,7 +137,7 @@ You have access to your human's stuff. That doesn't mean you _share_ their stuff
 
 ### 💬 WhatsApp Groups — Silent by Default!
 
-Log all group chat conversations automatically, tracking key points, actions, and decisions.
+Log all group chat conversations automatically — full verbatim messages, word for word.
 
 **CRITICAL RULE: In group chats, NEVER send a visible reply unless you are explicitly @mentioned.**
 
@@ -145,7 +145,7 @@ The ONLY trigger for responding in a group is an @mention (tag). Nothing else. N
 
 **Decision tree for EVERY group message:**
 
-1. **FIRST: Log the message.** Always append a summary to `memory/YYYY-MM-DD.md` using the WhatsApp logging format (see "WhatsApp Message Logging" section). Use the sender's display name from the message. This happens for EVERY message — mentioned or not, Kaspars or anyone else.
+1. **FIRST: Log the full message verbatim.** Always append the complete, word-for-word message to `memory/YYYY-MM-DD.md` using the WhatsApp logging format (see "WhatsApp Message Logging" section). Log the exact text from every sender — no summarizing, no paraphrasing. This happens for EVERY message — mentioned or not, Kaspars or anyone else.
 2. **THEN: Were you @mentioned in this message?**
    - **NO → Output `NO_REPLY`.** Do NOT respond. Do NOT offer help. Do NOT comment. This applies to ALL senders, including Kaspars.
    - **YES → Check who mentioned you:**
@@ -325,7 +325,7 @@ The daily summary must include these three sections:
 **Rules:**
 - This is automatic — generate it without being asked
 - If the daily file already has WhatsApp logs from real-time logging, keep those and add the Emails + Asana sections
-- Keep it concise — this is a reference document, not a transcript
+- WhatsApp section should contain full verbatim conversation logs, not summaries
 - If nothing happened in a section, write "(none)" instead of omitting it
 
 ## Make It Yours

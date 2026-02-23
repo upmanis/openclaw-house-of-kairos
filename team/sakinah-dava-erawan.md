@@ -13,7 +13,7 @@
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-23_
+_Last updated: 2026-02-24_
 
 **Marketing**
 - [ ] Creative Direction Draft by Hendra — **overdue** 2025-05-13
@@ -46,12 +46,12 @@ _Last updated: 2026-02-23_
 - [ ] Menu — **overdue** 2026-02-20
 - [ ] Launch 14 days count down reel — due 2026-03-01
 - [ ] send 1st wave email — due 2026-03-01
-- [ ] WEBSITE LIVE — due 2026-03-01
 - [ ] send 2nd wave email — due 2026-03-06
 - [ ] Launch 7 days count down reel — due 2026-03-07
 - [ ] send 3rd wave email — due 2026-03-10
 - [ ] Launch tomorrow count down reel — due 2026-03-14
 - [ ] Launch has opened  reel — due 2026-03-15
+- [ ] WEBSITE LIVE — due 2026-03-15
 - [ ] Shooting facilities walk through reel — due 2026-03-18
 - [ ] Shooting pre-sales has sold out — due 2026-03-18
 - [ ] Class Schedule artwork — no due date
@@ -353,6 +353,40 @@ _Last updated: 2026-02-23_
 - Due soon: Design waitlist email due 2026-02-11 (Marketing - Pre-sales campaign)
 - Due soon: Coach  Artwork due no due date (Marketing - Pre-sales campaign)
 - Due soon: WEBSITE LIVE due 2026-03-01 (Marketing - Pre-sales campaign)
+- Due soon: Shooting pre-sales has sold out due 2026-03-18 (Marketing - Pre-sales campaign)
+- Due soon: Class Schedule artwork due no due date (Marketing - Pre-sales campaign)
+- Due soon: Pricing due no due date (Marketing - Pre-sales campaign)
+
+### 2026-02-24
+
+**Asana:**
+- Completed: WEBSITE LIVE (Marketing - Pre-sales campaign)
+- Completed: Menu (Marketing - Pre-sales campaign)
+- Completed: Gym rules (Marketing - Pre-sales campaign)
+- Completed: Locker rules (Marketing - Pre-sales campaign)
+- Completed: Launch has opened  reel (Marketing - Pre-sales campaign)
+- Completed: Shooting pre-sales has opened (Marketing - Pre-sales campaign)
+- Completed: Shooting count down reel (Marketing - Pre-sales campaign)
+- Completed: Socks (Marketing - Merch)
+- Completed: prepare facilities artwork (Marketing - Pre-sales campaign)
+- Completed: Prepare tour invitation artwork (Marketing - Pre-sales campaign)
+- Completed: prepare membership benefit artwork (Marketing - Pre-sales campaign)
+- Completed: Prepare presale is now open artwork (Marketing - Pre-sales campaign)
+- Completed: Design waitlist email (Marketing - Pre-sales campaign)
+- Completed: Develop campaign planning (Marketing - Pre-sales campaign)
+- Completed: Coach  Artwork (Marketing - Pre-sales campaign)
+- Due soon: WEBSITE LIVE due 2026-03-15 (Marketing - Pre-sales campaign)
+- Due soon: Menu due 2026-02-20 (Marketing - Pre-sales campaign)
+- Due soon: Gym rules due 2026-02-19 (Marketing - Pre-sales campaign)
+- Due soon: Locker rules due 2026-02-19 (Marketing - Pre-sales campaign)
+- Due soon: Launch has opened  reel due 2026-03-15 (Marketing - Pre-sales campaign)
+- Due soon: Socks due no due date (Marketing - Merch)
+- Due soon: prepare facilities artwork due 2026-02-12 (Marketing - Pre-sales campaign)
+- Due soon: Prepare tour invitation artwork due 2026-02-12 (Marketing - Pre-sales campaign)
+- Due soon: prepare membership benefit artwork due 2026-02-12 (Marketing - Pre-sales campaign)
+- Due soon: Prepare presale is now open artwork due 2026-02-12 (Marketing - Pre-sales campaign)
+- Due soon: Design waitlist email due 2026-02-11 (Marketing - Pre-sales campaign)
+- Due soon: Coach  Artwork due no due date (Marketing - Pre-sales campaign)
 - Due soon: Shooting pre-sales has sold out due 2026-03-18 (Marketing - Pre-sales campaign)
 - Due soon: Class Schedule artwork due no due date (Marketing - Pre-sales campaign)
 - Due soon: Pricing due no due date (Marketing - Pre-sales campaign)

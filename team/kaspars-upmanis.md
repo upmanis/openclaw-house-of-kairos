@@ -12,7 +12,7 @@
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-23_
+_Last updated: 2026-02-24_
 
 **Architecture**
 - [ ] GF - Co-working - built-in furniture — due 2026-02-25
@@ -32,19 +32,18 @@ _Last updated: 2026-02-23_
 - [ ] GF: Ceiling Finish (Gypsum+Paint) — **overdue** 2026-02-15
 - [ ] GF: Ceiling Finish (Gypsum+Paint) — **overdue** 2026-02-15
 - [ ] GYM: Wall Finish (Texture+Paint) — **overdue** 2026-02-17
-- [ ] GF: Kitchen - add stainless steel on top of wood cover — **overdue** 2026-02-19
 - [ ] GF: Library - adjust sloping for drain pipe — **overdue** 2026-02-19
 - [ ] ROOFTOP: Cleaner station - drain — **overdue** 2026-02-19
-- [ ] LGF: Steam room - steamer seat build — due 2026-02-23
+- [ ] LGF: Steam room - steamer seat build — **overdue** 2026-02-23
 - [ ] LGF: Pool bar - build structure — due 2026-02-24
 - [ ] GYM: Rubber floor — due 2026-02-25
 - [ ] GYM: Storage wood cladding — due 2026-02-25
 - [ ] GYM: Wood base for squat racks — due 2026-02-25
 - [ ] LGF: MEP ventilation — due 2026-02-25
 - [ ] GYM: Reception shelving furniture — due 2026-02-26
-- [ ] LGF: Sauna (Floor + Wood + MEP) — due 2026-02-26
 - [ ] ROOFTOP: Floor Leveling — due 2026-02-26
 - [ ] GF: Entrance door installation 🚪 — due 2026-02-27
+- [ ] GF: Kitchen - add stainless steel on top of wood cover — due 2026-02-27
 - [ ] GYM: Cleaner's room painting — due 2026-02-27
 - [ ] GYM: Install big ceiling lamps — due 2026-02-27
 - [ ] GYM: Mirrors — due 2026-02-27
@@ -75,41 +74,42 @@ _Last updated: 2026-02-23_
 - [ ] LGF: Icebath (Structure + MEP + Finishing) — due 2026-03-07
 - [ ] LGF: Pool - testing comissioning — due 2026-03-08
 - [ ] ROOFTOP: Floor Outdoor Finishing (grass) — due 2026-03-08
+- [ ] LGF: Sauna - install seating and heaters — due 2026-03-10
 - [ ] ROOFTOP: Ceiling Finish (Install+Paint) — due 2026-03-10
 - [ ] ROOFTOP: Skirting on boundary wall — due 2026-03-10
 - [ ] GYM: Reception shelving marble (drinking station) — due 2026-03-11
 - [ ] ROOFTOP: 5cm floor gap for windows, 16cm wide — due 2026-03-11
 - [ ] GF: Cardio planter/storage — due 2026-03-12
 - [ ] GYM: facade waterproofing — due 2026-03-12
+- [ ] LGF: Changing rooms - vanity — due 2026-03-12
 - [ ] LGF: Pool area ujung padang marble — due 2026-03-13
 - [ ] LGF: Jacuzzi (Structure + MEP + Finishing) — due 2026-03-14
 - [ ] LGF: MEP Pool + Pooldeck (Accessories) — due 2026-03-14
 - [ ] GF: OUTDOOR: Parking (Structure + Finishing) — due 2026-03-15
+- [ ] LGF: MDP & SDP panels — due 2026-03-16
+- [ ] LGF: Waterproof shaft opening (all floors) — due 2026-03-17
 - [ ] LGF: Wall Finish (Marble) — due 2026-03-21
 - [ ] GF: Library doors / windows — due 2026-04-01
 - [ ] LGF: Umbrellas for pool area — due 2026-04-01
 - [ ] GF: Staff stair railing — due 2026-04-15
 - [ ] DESIGN STAGE - GF: Toilets - doors — no due date
 - [ ] GF: Cardio area storage — no due date
-- [ ] GF: Kitchen - dish shelf — no due date
+- [ ] GF: Kitchen - desk next to dumb waiter — no due date
 - [ ] GF: Kitchen - dumb waiter cladding — no due date
 - [ ] GF: Restaurant seating — no due date
 - [ ] GYM - Adjust LED cable wall finish (gap still visible) — no due date
 - [ ] GYM: Curtains for gym floor — no due date
 - [ ] GYM: LED lights in stairs — no due date
-- [ ] LGF Sauna - install floor tiles — no due date
 - [ ] LGF: Changing rooms - custom metal lamps — no due date
+- [ ] LGF: Changing rooms - install sanitary — no due date
 - [ ] LGF: Changing rooms - lockers — no due date
 - [ ] LGF: Changing rooms - loose chairs — no due date
 - [ ] LGF: Changing rooms - middle seating console — no due date
 - [ ] LGF: Changing rooms - showers — no due date
 - [ ] LGF: Changing rooms - toilet doors — no due date
-- [ ] LGF: Changing rooms - vanity — no due date
 - [ ] LGF: Laundry - exhaust to outside — no due date
 - [ ] LGF: Laundry - iron & ironing board — no due date
 - [ ] LGF: Laundry - washing machine — no due date
-- [ ] LGF: Sauna - install glass — no due date
-- [ ] LGF: Sauna - install seating and heaters — no due date
 - [ ] LGF: Staff female changing room > water faucet, LED cable — no due date
 - [ ] LGF: Steam room - install speaker — no due date
 - [ ] LGF: Steam room - install tiles — no due date
@@ -833,3 +833,44 @@ _Last updated: 2026-02-23_
 - Due soon: ROOFTOP: Cleaner station - water due 2026-02-27 (CONSTRUCTION CHECKLIST)
 - Due soon: ROOFTOP: Cleaner station - drain due 2026-02-19 (CONSTRUCTION CHECKLIST)
 - Due soon: GYM: Storage room painting due 2026-02-27 (CONSTRUCTION CHECKLIST)
+
+
+### 2026-02-23 — WhatsApp
+
+#### DM — Kaspars — 08:30
+- **Kaspars:** why no daily summary this morning?
+- **Bot:** [[reply_to_current]] Because the **“daily-summary” cron isn’t scheduled for the morning**.  Right now you have: - **daily-summary:** runs **15:00 WITA** (so it writes the daily file in the afternoon, not morning). It last ran **~18h ago** and is scheduled to run again later today. - A separate job **“Daily 7am WITA …”** runs at **07:00 WITA** (that one is *not* the same as the daily-summary).  Also: the daily summary is primarily **written into `memory/YYYY-MM-DD.md`**; it won’t necessarily “message you” unless we explicitly make it send a WhatsApp DM.  If you want, tell me what you prefer and I’ll align it: 1) **Send you a WhatsApp DM daily summary at 07:00 WITA**, or   2) Keep writing to the memory file only, or   3) Both.
+
+### 2026-02-24
+
+**Asana:**
+- Completed: GF: Kitchen - desk next to dumb waiter (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Kitchen - SikaBoom gap filling (CONSTRUCTION CHECKLIST)
+- Completed: GF: Kitchen - add stainless steel on top of wood cover (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Ceiling Finish (Install+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool - install pool tiles (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Cleaner station - drain (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Storage wood cladding (CONSTRUCTION CHECKLIST)
+- Completed: DESIGN STAGE - GF: Toilets - doors (CONSTRUCTION CHECKLIST)
+- Completed: Post HR manager job ad (Recruitment)
+- Completed: LGF: Changing rooms - lockers (CONSTRUCTION CHECKLIST)
+- Completed: GF: Wall Finish (wood cladding) (CONSTRUCTION CHECKLIST)
+- Completed: GF: Ceiling Finish (Expose Paint) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Jacuzzi (Structure + MEP + Finishing) (CONSTRUCTION CHECKLIST)
+- Completed: GF: Cardio planter/storage (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Skirting on boundary wall (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Kitchen - desk next to dumb waiter due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - SikaBoom gap filling due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Kitchen - add stainless steel on top of wood cover due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Ceiling Finish (Install+Paint) due 2026-03-10 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Pool - install pool tiles due 2026-03-06 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Cleaner station - drain due 2026-02-19 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Storage wood cladding due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: DESIGN STAGE - GF: Toilets - doors due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Changing rooms - lockers due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Wall Finish (wood cladding) due 2026-03-02 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Ceiling Finish (Expose Paint) due 2026-02-15 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Jacuzzi (Structure + MEP + Finishing) due 2026-03-14 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Cardio planter/storage due 2026-03-12 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Skirting on boundary wall due 2026-03-10 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Kitchen - dumb waiter cladding due no due date (CONSTRUCTION CHECKLIST)
