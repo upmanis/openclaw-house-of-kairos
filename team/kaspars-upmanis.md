@@ -12,7 +12,7 @@
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-24_
+_Last updated: 2026-02-25_
 
 **Architecture**
 - [ ] GF - Co-working - built-in furniture — due 2026-02-25
@@ -31,11 +31,10 @@ _Last updated: 2026-02-24_
 - [ ] GF: Ceiling Finish (Expose Paint) — **overdue** 2026-02-15
 - [ ] GF: Ceiling Finish (Gypsum+Paint) — **overdue** 2026-02-15
 - [ ] GF: Ceiling Finish (Gypsum+Paint) — **overdue** 2026-02-15
-- [ ] GYM: Wall Finish (Texture+Paint) — **overdue** 2026-02-17
 - [ ] GF: Library - adjust sloping for drain pipe — **overdue** 2026-02-19
 - [ ] ROOFTOP: Cleaner station - drain — **overdue** 2026-02-19
 - [ ] LGF: Steam room - steamer seat build — **overdue** 2026-02-23
-- [ ] LGF: Pool bar - build structure — due 2026-02-24
+- [ ] LGF: Pool bar - build structure — **overdue** 2026-02-24
 - [ ] GYM: Rubber floor — due 2026-02-25
 - [ ] GYM: Storage wood cladding — due 2026-02-25
 - [ ] GYM: Wood base for squat racks — due 2026-02-25
@@ -54,6 +53,7 @@ _Last updated: 2026-02-24_
 - [ ] ROOFTOP: Cleaner station - water — due 2026-02-27
 - [ ] ROOFTOP: Floor waterproofing — due 2026-02-27
 - [ ] ROOFTOP: staircase curve ceiling structure — due 2026-02-27
+- [ ] LGF: kitchen gutter — due 2026-02-28
 - [ ] LGF: Steam (Ceiling + Body + Floor + MEP) — due 2026-02-28
 - [ ] ROOFTOP: Drinking station drains — due 2026-02-28
 - [ ] ROOFTOP: Studio Wall Finish (Texture+Paint) — due 2026-02-28
@@ -874,3 +874,43 @@ _Last updated: 2026-02-24_
 - Due soon: GF: Cardio planter/storage due 2026-03-12 (CONSTRUCTION CHECKLIST)
 - Due soon: ROOFTOP: Skirting on boundary wall due 2026-03-10 (CONSTRUCTION CHECKLIST)
 - Due soon: GF: Kitchen - dumb waiter cladding due no due date (CONSTRUCTION CHECKLIST)
+
+
+### 2026-02-24 — WhatsApp
+
+#### HoK | HR — 06:30
+- **Kaspars:** do the boys know official sickday request process?
+
+### 2026-02-25
+
+**Asana:**
+- Completed: LGF: Hot water installation (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library doors / windows (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Storage wood cladding (CONSTRUCTION CHECKLIST)
+- Completed: LGF: kitchen gutter (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Mirrors (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Wall Finish (Texture+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Cleaner station - drain (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Ceiling Finish (Install+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool - install pool tiles (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool bar - build structure (CONSTRUCTION CHECKLIST)
+- Completed: LGF: MDP & SDP panels (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Studio Wall Finish (Texture+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Storage room painting (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Waterproof shaft opening (all floors) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Steam room - steamer seat build (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Hot water installation due 2026-03-05 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library doors / windows due 2026-04-01 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Storage wood cladding due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: kitchen gutter due 2026-02-28 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Mirrors due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Cleaner station - drain due 2026-02-19 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Ceiling Finish (Install+Paint) due 2026-03-10 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Pool - install pool tiles due 2026-03-06 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Pool bar - build structure due 2026-02-24 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: MDP & SDP panels due 2026-03-16 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Studio Wall Finish (Texture+Paint) due 2026-02-28 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Storage room painting due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Waterproof shaft opening (all floors) due 2026-03-17 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Steam room - steamer seat build due 2026-02-23 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Kitchen - desk next to dumb waiter due no due date (CONSTRUCTION CHECKLIST)

@@ -13,7 +13,7 @@
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-24_
+_Last updated: 2026-02-25_
 
 **CONSTRUCTION CHECKLIST**
 - [ ] ROOFTOP: Audio — no due date
@@ -119,6 +119,25 @@ _Last updated: 2026-02-24_
 - Due soon: ROOFTOP: Audio due no due date (CONSTRUCTION CHECKLIST)
 
 ### 2026-02-24
+
+**Asana:**
+- Completed: ROOFTOP: Audio (CONSTRUCTION CHECKLIST)
+- Completed: Sound supplier selection (No Project)
+- Completed: Gym equipment for rooftop (CONSTRUCTION CHECKLIST)
+- Completed: Select final gym equipment for gym floor (CONSTRUCTION CHECKLIST)
+- Completed: RO filter supplier (No Project)
+- Completed: Investigate body scanners (No Project)
+- Completed: Send latest layout to Daikin (No Project)
+- Completed: Dumbwaiter (quote attached) (No Project)
+- Due soon: ROOFTOP: Audio due no due date (CONSTRUCTION CHECKLIST)
+
+
+### 2026-02-24 — WhatsApp
+
+#### HoK | Architecture — 15:30
+- **Nicolas:** [WhatsApp 120363319906111585@g.us +28h Tue 2026-02-24 07:38 UTC] Nicolas C. (+6281238198668): [openclaw]   <file name="Binder---0a359f58-7248-46ec-8427-8c2199a36d89.pdf" mime="application/pdf"> Steam Room Sauna Showers Showers Pool Bar Dry Vanity Showers WC   Towels V/P Showers Male Locker Room Hot Tub Equipment WC Shower WC LOWER GROUND FLOOR DJ/Mic 16 amp Spk Cable Sub Cable Signal Cable Rack 32amp 3Phase Frog-iS CS6” Wet iP67 Ceiling Frog-iS 4D Amp Frog-iS FS12 Array Frog-iS Sub12” Frog-iS Sub10” BSB b5” Frog-iS FS15 Array Frog-iS FS4 Array Frog-iS iP12” Sub 16 amp 16 amp VGB Custom 12” RCK RCK  2700 1150   1300 3200 1000 2725 POS Station & Storage 500 Shop / Merch 1300 3775 600 500 GROUND FLOOR House Of Kairos ZONE 1 Cardio Sterching ZONE 4 Co-Working ZONE 6 Reception ZONE 7 ZONE 2 BAR ZONE 3 Lounge ZONE 5 Private Spk Cable Sub Cable Signal Cable Frog-iS SMS6” Pro Frog-iS CS6” Frog-iS FB 6 Frog-iS FS12 Aarray VGB Custom 12” Frog-iS Sub6 Frog-iS Sub12” Frog-iS CSub6C Frog-iS Sub10” BSB b5” Frog-iS FS4 Aarray   DJ/Mic 16 amp System Rack 32 amp RCK RCK RCK 16 amp  4000   1700 2975 2525 House Of Kairos FIRST FLOOR ZONE 1 Lounge ZONE 3 Lounge ZONE 2 Lounge DJ/Mic Spk Cable Sub Cable Signal Cable Frog-iS CS6” Frog-iS 4D Amp Frog-iS FS12 Aarray Frog-iS Sub6 Frog-iS Sub12” Frog-iS CSub6C Frog-iS iP12” Sub   Frog-iS Sub10” Frog-iS CS4” Frog-iS FS15 Aarray Frog-iS FS4 Aarray System Rack 16amp RCK RCK  Storage Studio 1 Studio 2 Mirror Wall Mirror Wall 6700 House Of Kairos ROOF TOP DJ/Mic Spk Cable Sub Cable Signal Cable Frog-iS SMS6” Pro Frog-iS SMS6” Frog-iS CS6” Frog-iS 4D Amp Frog-iS FS12 Array Frog-iS Sub12” Frog-iS CSub 6C Frog-iS Sub10” Extra cable Frog-iS CS4” Frog-iS FS15 Array Frog-iS FS4 Array   X ZONE 1 Terrace Gym ZONE 2 Outside Gym ZONE 4 Studio 2 ZONE 3 Studio 1 X O O   X X RCK System Rack 16amp RCK </file>
+
+### 2026-02-25
 
 **Asana:**
 - Completed: ROOFTOP: Audio (CONSTRUCTION CHECKLIST)
