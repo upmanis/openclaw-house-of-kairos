@@ -13,7 +13,7 @@
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-25_
+_Last updated: 2026-02-26_
 
 (none)
 
@@ -62,6 +62,13 @@ _Last updated: 2026-02-25_
 - Completed: Gas piping layout and location of gas tanks (CKM kitchen & Bar)
 
 ### 2026-02-25
+
+**Asana:**
+- Completed: Air exhaust 45 meters in quote. Will need to measure final length (CKM kitchen & Bar)
+- Completed: Exhaust layout, length plan (CKM kitchen & Bar)
+- Completed: Gas piping layout and location of gas tanks (CKM kitchen & Bar)
+
+### 2026-02-26
 
 **Asana:**
 - Completed: Air exhaust 45 meters in quote. Will need to measure final length (CKM kitchen & Bar)

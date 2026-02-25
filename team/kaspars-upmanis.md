@@ -12,12 +12,12 @@
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-25_
+_Last updated: 2026-02-26_
 
 **Architecture**
-- [ ] GF - Co-working - built-in furniture — due 2026-02-25
-- [ ] GF - Reception - merch area — due 2026-02-25
-- [ ] GF - toilets — due 2026-02-25
+- [ ] GF - Co-working - built-in furniture — **overdue** 2026-02-25
+- [ ] GF - Reception - merch area — **overdue** 2026-02-25
+- [ ] GF - toilets — **overdue** 2026-02-25
 - [ ] GF - Restaurant DJ station — due 2026-03-04
 - [ ] Rooftop - landing area tiles — due 2026-03-04
 - [ ] Rooftop - drinking station — due 2026-03-11
@@ -28,20 +28,17 @@ _Last updated: 2026-02-25_
 **CONSTRUCTION CHECKLIST**
 - [ ] LGF: Hot tub - choose tiles — **overdue** 2026-02-13
 - [ ] LGF: Ice bath - choose tiles — **overdue** 2026-02-13
-- [ ] GF: Ceiling Finish (Expose Paint) — **overdue** 2026-02-15
 - [ ] GF: Ceiling Finish (Gypsum+Paint) — **overdue** 2026-02-15
 - [ ] GF: Ceiling Finish (Gypsum+Paint) — **overdue** 2026-02-15
 - [ ] GF: Library - adjust sloping for drain pipe — **overdue** 2026-02-19
 - [ ] ROOFTOP: Cleaner station - drain — **overdue** 2026-02-19
 - [ ] LGF: Steam room - steamer seat build — **overdue** 2026-02-23
-- [ ] LGF: Pool bar - build structure — **overdue** 2026-02-24
-- [ ] GYM: Rubber floor — due 2026-02-25
-- [ ] GYM: Storage wood cladding — due 2026-02-25
-- [ ] GYM: Wood base for squat racks — due 2026-02-25
-- [ ] LGF: MEP ventilation — due 2026-02-25
+- [ ] GYM: Storage wood cladding — **overdue** 2026-02-25
+- [ ] GYM: Wood base for squat racks — **overdue** 2026-02-25
+- [ ] LGF: MEP ventilation  — **overdue** 2026-02-25
 - [ ] GYM: Reception shelving furniture — due 2026-02-26
 - [ ] ROOFTOP: Floor Leveling — due 2026-02-26
-- [ ] GF: Entrance door installation 🚪 — due 2026-02-27
+- [ ] GF: Entrance door installation 🚪  — due 2026-02-27
 - [ ] GF: Kitchen - add stainless steel on top of wood cover — due 2026-02-27
 - [ ] GYM: Cleaner's room painting — due 2026-02-27
 - [ ] GYM: Install big ceiling lamps — due 2026-02-27
@@ -52,7 +49,7 @@ _Last updated: 2026-02-25_
 - [ ] LGF: Pool - Water test & defect repair — due 2026-02-27
 - [ ] ROOFTOP: Cleaner station - water — due 2026-02-27
 - [ ] ROOFTOP: Floor waterproofing — due 2026-02-27
-- [ ] ROOFTOP: staircase curve ceiling structure — due 2026-02-27
+- [ ] ROOFTOP: staircase curve ceiling structure  — due 2026-02-27
 - [ ] LGF: kitchen gutter — due 2026-02-28
 - [ ] LGF: Steam (Ceiling + Body + Floor + MEP) — due 2026-02-28
 - [ ] ROOFTOP: Drinking station drains — due 2026-02-28
@@ -70,6 +67,7 @@ _Last updated: 2026-02-25_
 - [ ] ROOFTOP: Boundary Wall Finish (Paint) — due 2026-03-05
 - [ ] ROOFTOP: Floor Inside Finish (parquet) — due 2026-03-05
 - [ ] LGF: Pool - install pool tiles — due 2026-03-06
+- [ ] LGF: Pool bar - build structure — due 2026-03-06
 - [ ] ROOFTOP: Black grass install — due 2026-03-06
 - [ ] LGF: Icebath (Structure + MEP + Finishing) — due 2026-03-07
 - [ ] LGF: Pool - testing comissioning — due 2026-03-08
@@ -105,8 +103,10 @@ _Last updated: 2026-02-25_
 - [ ] LGF: Changing rooms - lockers — no due date
 - [ ] LGF: Changing rooms - loose chairs — no due date
 - [ ] LGF: Changing rooms - middle seating console — no due date
+- [ ] LGF: Changing rooms - mirrors — no due date
 - [ ] LGF: Changing rooms - showers — no due date
 - [ ] LGF: Changing rooms - toilet doors — no due date
+- [ ] LGF: Laundry - dryer — no due date
 - [ ] LGF: Laundry - exhaust to outside — no due date
 - [ ] LGF: Laundry - iron & ironing board — no due date
 - [ ] LGF: Laundry - washing machine — no due date
@@ -914,3 +914,43 @@ _Last updated: 2026-02-25_
 - Due soon: LGF: Waterproof shaft opening (all floors) due 2026-03-17 (CONSTRUCTION CHECKLIST)
 - Due soon: LGF: Steam room - steamer seat build due 2026-02-23 (CONSTRUCTION CHECKLIST)
 - Due soon: GF: Kitchen - desk next to dumb waiter due no due date (CONSTRUCTION CHECKLIST)
+
+
+### 2026-02-25 — WhatsApp
+
+#### HoK | Architecture — 08:30
+- **Kaspars:** Pagi!  Today’s architecture call moved to Saturday but not obligatory. I will meet with Arturs on smaller items and focusing on GF toilets.
+
+### 2026-02-26
+
+**Asana:**
+- Completed: GYM: Rubber floor (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Windows (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: 5cm floor gap for windows, 16cm wide (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool bar - build structure (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Storage wood cladding (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Drinking station drains (CONSTRUCTION CHECKLIST)
+- Completed: GF: Ceiling Finish (Expose Paint) (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Studio Wall Finish (Texture+Paint) (CONSTRUCTION CHECKLIST)
+- Completed: GF - Co-working - built-in furniture (Architecture)
+- Completed: GF - toilets (Architecture)
+- Completed: GF - Reception - merch area (Architecture)
+- Completed: LGF: MEP ventilation (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Wood base for squat racks (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Hot water installation (CONSTRUCTION CHECKLIST)
+- Completed: GF: Library doors / windows (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Windows due 2026-03-02 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: 5cm floor gap for windows, 16cm wide due 2026-03-11 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Pool bar - build structure due 2026-03-06 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Storage wood cladding due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Drinking station drains due 2026-02-28 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Studio Wall Finish (Texture+Paint) due 2026-02-28 (CONSTRUCTION CHECKLIST)
+- Due soon: GF - Co-working - built-in furniture due 2026-02-25 (Architecture)
+- Due soon: GF - toilets due 2026-02-25 (Architecture)
+- Due soon: GF - Reception - merch area due 2026-02-25 (Architecture)
+- Due soon: LGF: MEP ventilation due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Wood base for squat racks due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Hot water installation due 2026-03-05 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library doors / windows due 2026-04-01 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: kitchen gutter due 2026-02-28 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Mirrors due 2026-02-27 (CONSTRUCTION CHECKLIST)

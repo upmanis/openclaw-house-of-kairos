@@ -13,7 +13,7 @@
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-25_
+_Last updated: 2026-02-26_
 
 **CKM kitchen & Bar**
 - [ ] Bar equipment - deposit paid but no agreement on the final equipment — no due date
@@ -169,6 +169,34 @@ _Last updated: 2026-02-25_
 - Due soon: Glasses due no due date (F&B)
 
 ### 2026-02-25
+
+**Asana:**
+- Completed: Straws (No Project)
+- Completed: Cutlery (No Project)
+- Completed: Protein bars - Bumi / Kygo (No Project)
+- Completed: Glasses (No Project)
+- Completed: Plates (No Project)
+- Completed: Takeaway coffee cups (No Project)
+- Completed: Napkins (No Project)
+- Completed: Protein / supplement supplier (F&B)
+- Completed: SUPPLEMENT PARNERTSHIP (F&B)
+- Completed: Coffee beans (F&B)
+- Completed: Engraving on wine glasses (F&B)
+- Completed: Protein shake menu (F&B)
+- Completed: Cold storage supplier (F&B)
+- Completed: Bar equipment - deposit paid but no agreement on the final equipment (CKM kitchen & Bar)
+- Completed: Circle bar - never approved, will need to change equipment (CKM kitchen & Bar)
+- Due soon: Straws due no due date (No Project)
+- Due soon: Cutlery due no due date (No Project)
+- Due soon: Protein bars - Bumi / Kygo due no due date (No Project)
+- Due soon: Glasses due no due date (No Project)
+- Due soon: Plates due no due date (No Project)
+- Due soon: Takeaway coffee cups due no due date (No Project)
+- Due soon: Napkins due no due date (No Project)
+- Due soon: Bar equipment - deposit paid but no agreement on the final equipment due no due date (CKM kitchen & Bar)
+- Due soon: Circle bar - never approved, will need to change equipment due no due date (CKM kitchen & Bar)
+
+### 2026-02-26
 
 **Asana:**
 - Completed: Straws (No Project)

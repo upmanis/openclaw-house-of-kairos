@@ -13,18 +13,17 @@
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-25_
+_Last updated: 2026-02-26_
 
 **General  Timeline**
 - [ ] Create job descriptions - all positions — **overdue** 2025-10-01
 
 **HR**
 - [ ] Employee Administration Forms — **overdue** 2025-08-30
-- [ ] Employee Handbook — **overdue** 2025-09-30
-- [ ] On Boarding Pack — **overdue** 2025-09-30
+- [ ] Employee Handbook  — **overdue** 2025-09-30
+- [ ] On Boarding Pack  — **overdue** 2025-09-30
 - [ ] Onboarding new hires completed in their first 3 days — **overdue** 2025-09-30
-- [ ] Recruitment-Hire 20 qualified staff members — **overdue** 2025-09-30
-- [ ] Create job descriptions - all positions — **overdue** 2025-10-01
+- [ ] Recruitment-Hire 20 qualified staff members  — **overdue** 2025-09-30
 - [ ] Live Attendance — **overdue** 2025-10-31
 - [ ] Mandatory pre-opening training — **overdue** 2025-10-31
 - [ ] Running Payroll — **overdue** 2025-10-31
@@ -431,6 +430,40 @@ _Last updated: 2026-02-25_
 - Due soon: Sous Chef due 2026-02-27 (Recruitment)
 - Due soon: Front Office due 2026-03-31 (Recruitment)
 - Due soon: Operations Manager due 2026-03-31 (Recruitment)
+- Due soon: Head of Bar due 2026-02-27 (Recruitment)
+- Due soon: Marketing Coordinator due 2026-03-02 (Recruitment)
+- Due soon: Purchasing Supervisor due 2026-03-06 (Recruitment)
+- Due soon: Housekeeping Staff due 2026-03-06 (Recruitment)
+- Due soon: Fashion Merchandiser due 2026-03-20 (Recruitment)
+- Due soon: PA to General Manager due no due date (Recruitment)
+- Due soon: Laundry Attendant due no due date (Recruitment)
+- Due soon: Bookkeeper due no due date (Recruitment)
+- Due soon: Security due 2026-05-30 (Recruitment)
+- Due soon: IT Supervisor due no due date (Recruitment)
+- Due soon: Launch employee engagement activity with 75% achievement rate due 2025-12-31 (HR)
+- Due soon: Communication & Feedback due 2025-12-31 (HR)
+
+### 2026-02-26
+
+**Asana:**
+- Completed: Operations Manager (Recruitment)
+- Completed: Sous Chef (Recruitment)
+- Completed: Front Office (Recruitment)
+- Completed: Head of Bar (Recruitment)
+- Completed: Marketing Coordinator (Recruitment)
+- Completed: Purchasing Supervisor (Recruitment)
+- Completed: Housekeeping Staff (Recruitment)
+- Completed: Fashion Merchandiser (Recruitment)
+- Completed: Chef De Partie (Recruitment)
+- Completed: PA to General Manager (Recruitment)
+- Completed: Laundry Attendant (Recruitment)
+- Completed: Bartender (Recruitment)
+- Completed: Head Chef (Recruitment)
+- Completed: Gym Attendant (Recruitment)
+- Completed: Bookkeeper (Recruitment)
+- Due soon: Operations Manager due 2026-03-31 (Recruitment)
+- Due soon: Sous Chef due 2026-02-27 (Recruitment)
+- Due soon: Front Office due 2026-03-31 (Recruitment)
 - Due soon: Head of Bar due 2026-02-27 (Recruitment)
 - Due soon: Marketing Coordinator due 2026-03-02 (Recruitment)
 - Due soon: Purchasing Supervisor due 2026-03-06 (Recruitment)
