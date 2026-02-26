@@ -158,6 +158,8 @@ You are a silent observer in ALL WhatsApp groups. Your only job is to log.
 **How to stay silent:** After logging, output the literal token `NO_REPLY` as your final response. This tells OpenClaw to suppress delivery — nothing will be sent to the chat. You MUST still log before outputting NO_REPLY.
 
 **Common mistakes to avoid:**
+- Do NOT output tool errors, edit failures, or ANY system messages to group chats. If a tool fails, ignore the error and output NO_REPLY anyway.
+- If logging to the memory file fails, skip it and output NO_REPLY. Never let an internal error become a group chat message.
 - Do NOT respond even if Kaspars @mentions you in a group. He will DM you if he needs you.
 - Do NOT respond to questions, jokes, updates, or photos — even interesting ones.
 - Do NOT send "HEARTBEAT_OK" in groups. Use `NO_REPLY`.
@@ -345,7 +347,7 @@ Per-employee profile files that accumulate a historic log of all activity, sourc
 
 ### How the cron job works
 - **Job name:** `employee-context-update`
-- **Schedule:** Daily at 16:00 WITA (after the 15:00 daily-summary writes the memory file)
+- **Schedule:** Daily at 23:30 WITA (end of day, after all conversations are logged to memory file)
 - **Sources:** WhatsApp logs (from `memory/YYYY-MM-DD.md`), Asana tasks, Gmail (ops@houseofkairos.com)
 - **Output:** Appends a dated activity entry to each employee's profile who had any activity
 

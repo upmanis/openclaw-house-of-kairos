@@ -190,55 +190,6 @@ def gmail_activity(email):
     return items
 
 
-def fetch_workspace_comments():
-    """Fetch all comments from tasks modified in last 24h, grouped by author email."""
-    from urllib.parse import urlencode
-    base = f"https://app.asana.com/api/1.0/workspaces/{WORKSPACE_GID}/tasks/search"
-    params = {
-        "modified_since": YESTERDAY_ISO,
-        "opt_fields": "name,projects.name",
-        "is_subtask": "false",
-        "limit": "100",
-    }
-    url = base + "?" + urlencode(params, doseq=True)
-    tasks = curl_json(url).get("data", [])
-
-    comments_by_email = defaultdict(list)  # email -> [(task_name, project, text, created_at)]
-    yesterday_dt = now_utc - timedelta(days=1)
-
-    for task in tasks:
-        task_gid = task.get("gid")
-        task_name = task.get("name", "(unnamed)").strip()
-        projects = normalize_projects(task)
-        proj_name = projects[0]
-
-        stories_url = f"https://app.asana.com/api/1.0/tasks/{task_gid}/stories?opt_fields=created_by.name,created_by.email,text,created_at,type,resource_subtype"
-        try:
-            stories = curl_json(stories_url).get("data", [])
-        except Exception:
-            continue
-
-        for s in stories:
-            if s.get("type") != "comment":
-                continue
-            created_at_str = s.get("created_at", "")
-            if not created_at_str:
-                continue
-            try:
-                created_dt = datetime.fromisoformat(created_at_str.replace("Z", "+00:00"))
-            except ValueError:
-                continue
-            if created_dt < yesterday_dt:
-                continue
-
-            email = (s.get("created_by", {}).get("email") or "").strip().lower()
-            text = (s.get("text") or "").strip()
-            if email and text:
-                comments_by_email[email].append((task_name, proj_name, text[:300], created_at_str))
-
-    return comments_by_email
-
-
 def main():
     aliases = load_aliases()
 
@@ -332,22 +283,6 @@ def main():
             except Exception as e:
                 gmail_items[slug] = [("(error)", f"Gmail query failed", str(e)[:120])]
 
-    # Fetch Asana comments from recently modified tasks
-    workspace_comments = fetch_workspace_comments()
-
-    # Map email -> slug for comment lookup
-    email_to_slug = {}
-    for slug, info in aliases.items():
-        email = (info.get('email') or '').strip().lower()
-        if email:
-            email_to_slug[email] = slug
-
-    asana_comments = {}  # slug -> list of (task_name, project, text, created_at)
-    for email, comments in workspace_comments.items():
-        s = email_to_slug.get(email)
-        if s:
-            asana_comments[s] = comments
-
     # Update profile files
     for slug, info in aliases.items():
         profile_path = TEAM_DIR / f"{slug}.md"
@@ -367,8 +302,7 @@ def main():
         due = asana_due_soon.get(slug) or []
         ems = gmail_items.get(slug) or []
 
-        coms = asana_comments.get(slug) or []
-        has_activity = bool(wa or comp or due or coms or ems)
+        has_activity = bool(wa or comp or due or ems)
         if has_activity:
             block_lines = [f"### {TODAY_STR}", ""]
 
@@ -391,15 +325,6 @@ def main():
                         due_on = t.get('due_on') or 'no due date'
                         proj = normalize_projects(t)[0]
                         block_lines.append(f"- Due soon: {name} due {due_on} ({proj})")
-                block_lines.append("")
-
-            if coms:
-                block_lines.append("**Asana Comments:**")
-                for task_name, proj, text, ts in coms[:15]:
-                    short = text.replace("\n", " ").strip()
-                    if len(short) > 200:
-                        short = short[:197] + "..."
-                    block_lines.append(f'- On "{task_name}" ({proj}): {short}')
                 block_lines.append("")
 
             if ems:

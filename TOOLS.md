@@ -37,6 +37,10 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ---
 
+## OpenClaw config (protected)
+
+- In `openclaw.json`, keep `requireMention: false` so the agent receives *all* group messages and can log them verbatim. Do not change this to `true`.
+
 ## Asana — House of Kairos
 
 You have full API access to the House of Kairos Asana workspace via `ASANA_TOKEN` (already in your environment).

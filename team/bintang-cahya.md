@@ -12,3 +12,10 @@
 ---
 
 ## Activity Log
+
+### 2026-02-26
+
+**WhatsApp:**
+- [Hok | Gym]: - **Gints:** What about electricity and sockets?; - **Kaspars:** comission after we have final electricity
+- [HoK | HR]: - **Nicolas Castrillon:** Let’s do it
+- [HoK | Operations]: - **Nicolas Castrillon:** Ok, if we want to launch on Tuesday we need that 😬; - **Nicolas Castrillon:** Also, I need to test the printers somehow today, any other LAN cables that we can use for that?
