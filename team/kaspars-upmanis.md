@@ -13,7 +13,7 @@
 
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-27_
+_Last updated: 2026-02-28_
 
 **Architecture**
 - [ ] GF - Co-working - built-in furniture — **overdue** 2026-02-25
@@ -25,27 +25,24 @@ _Last updated: 2026-02-27_
 - [ ] Rooftop - studio mirrors & walls — due 2026-03-11
 - [ ] Rooftop - outdoor gym mirrors/wall — due 2026-03-18
 - [ ] GF - Co-working - call booths — due 2026-04-08
+- [ ] GF - Ceiling finish — no due date
 
 **CONSTRUCTION CHECKLIST**
 - [ ] GF: Ceiling Finish (Gypsum+Paint) — **overdue** 2026-02-15
 - [ ] GF: Ceiling Finish (Gypsum+Paint) — **overdue** 2026-02-15
-- [ ] GF: Library - adjust sloping for drain pipe — **overdue** 2026-02-19
 - [ ] LGF: Steam room - steamer seat build — **overdue** 2026-02-23
 - [ ] GYM: Wood base for squat racks — **overdue** 2026-02-25
 - [ ] LGF: MEP ventilation — **overdue** 2026-02-25
 - [ ] ROOFTOP: Floor Leveling — **overdue** 2026-02-26
-- [ ] GF: Entrance door installation 🚪 — due 2026-02-27
-- [ ] GF: Kitchen - add stainless steel on top of wood cover — due 2026-02-27
-- [ ] GYM: Cleaner's room painting — due 2026-02-27
-- [ ] GYM: Install big ceiling lamps — due 2026-02-27
-- [ ] GYM: Mirrors — due 2026-02-27
-- [ ] LGF: Kitchen - SikaBoom gap filling — due 2026-02-27
-- [ ] LGF: Kitchen - window fixing — due 2026-02-27
-- [ ] LGF: Pool - Water test & defect repair — due 2026-02-27
-- [ ] ROOFTOP: Cleaner station - drain — due 2026-02-27
-- [ ] ROOFTOP: Cleaner station - water — due 2026-02-27
-- [ ] ROOFTOP: Floor waterproofing — due 2026-02-27
-- [ ] ROOFTOP: staircase curve ceiling structure — due 2026-02-27
+- [ ] GF: Entrance door installation 🚪 — **overdue** 2026-02-27
+- [ ] GF: Kitchen - add stainless steel on top of wood cover — **overdue** 2026-02-27
+- [ ] GYM: Mirrors — **overdue** 2026-02-27
+- [ ] LGF: Kitchen - SikaBoom gap filling — **overdue** 2026-02-27
+- [ ] LGF: Kitchen - window fixing — **overdue** 2026-02-27
+- [ ] LGF: Pool - Water test & defect repair — **overdue** 2026-02-27
+- [ ] ROOFTOP: Cleaner station - drain — **overdue** 2026-02-27
+- [ ] ROOFTOP: Cleaner station - water — **overdue** 2026-02-27
+- [ ] ROOFTOP: staircase curve ceiling structure — **overdue** 2026-02-27
 - [ ] GF: Choose ceiling finish — due 2026-02-28
 - [ ] LGF: Kitchen gutter — due 2026-02-28
 - [ ] LGF: Steam (Ceiling + Body + Floor + MEP) — due 2026-02-28
@@ -70,6 +67,7 @@ _Last updated: 2026-02-27_
 - [ ] LGF: Pool - testing comissioning — due 2026-03-08
 - [ ] ROOFTOP: Floor Outdoor Finishing (grass) — due 2026-03-08
 - [ ] GF: PLN second cable — due 2026-03-09
+- [ ] GYM: Install big ceiling lamps — due 2026-03-10
 - [ ] LGF: Sauna - install seating and heaters — due 2026-03-10
 - [ ] ROOFTOP: Ceiling Finish (Install+Paint) — due 2026-03-10
 - [ ] ROOFTOP: Skirting on boundary wall — due 2026-03-10
@@ -96,8 +94,10 @@ _Last updated: 2026-02-27_
 - [ ] GF: Cardio area storage — no due date
 - [ ] GF: Co-working desks & chairs design — no due date
 - [ ] GF: Curtains — no due date
+- [ ] GF: Office - lights — no due date
+- [ ] GF: Reception - iMac — no due date
+- [ ] GF: Reception desk steel cladding — no due date
 - [ ] GF: Restaurant seating — no due date
-- [ ] GYM - Adjust LED cable wall finish (gap still visible) — no due date
 - [ ] GYM: Curtains for gym floor — no due date
 - [ ] GYM: LED lights in stairs — no due date
 - [ ] LGF: Changing rooms - custom metal lamps — no due date
@@ -924,128 +924,6 @@ _Last updated: 2026-02-27_
 
 ### 2026-02-26
 
-**Asana:**
-- Completed: GYM: Rubber floor (CONSTRUCTION CHECKLIST)
-- Completed: ROOFTOP: Windows (CONSTRUCTION CHECKLIST)
-- Completed: ROOFTOP: 5cm floor gap for windows, 16cm wide (CONSTRUCTION CHECKLIST)
-- Completed: LGF: Pool bar - build structure (CONSTRUCTION CHECKLIST)
-- Completed: GYM: Storage wood cladding (CONSTRUCTION CHECKLIST)
-- Completed: ROOFTOP: Drinking station drains (CONSTRUCTION CHECKLIST)
-- Completed: GF: Ceiling Finish (Expose Paint) (CONSTRUCTION CHECKLIST)
-- Completed: ROOFTOP: Studio Wall Finish (Texture+Paint) (CONSTRUCTION CHECKLIST)
-- Completed: GF - Co-working - built-in furniture (Architecture)
-- Completed: GF - toilets (Architecture)
-- Completed: GF - Reception - merch area (Architecture)
-- Completed: LGF: MEP ventilation (CONSTRUCTION CHECKLIST)
-- Completed: GYM: Wood base for squat racks (CONSTRUCTION CHECKLIST)
-- Completed: LGF: Hot water installation (CONSTRUCTION CHECKLIST)
-- Completed: GF: Library doors / windows (CONSTRUCTION CHECKLIST)
-- Due soon: ROOFTOP: Windows due 2026-03-02 (CONSTRUCTION CHECKLIST)
-- Due soon: ROOFTOP: 5cm floor gap for windows, 16cm wide due 2026-03-11 (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: Pool bar - build structure due 2026-03-06 (CONSTRUCTION CHECKLIST)
-- Due soon: GYM: Storage wood cladding due 2026-02-25 (CONSTRUCTION CHECKLIST)
-- Due soon: ROOFTOP: Drinking station drains due 2026-02-28 (CONSTRUCTION CHECKLIST)
-- Due soon: ROOFTOP: Studio Wall Finish (Texture+Paint) due 2026-02-28 (CONSTRUCTION CHECKLIST)
-- Due soon: GF - Co-working - built-in furniture due 2026-02-25 (Architecture)
-- Due soon: GF - toilets due 2026-02-25 (Architecture)
-- Due soon: GF - Reception - merch area due 2026-02-25 (Architecture)
-- Due soon: LGF: MEP ventilation due 2026-02-25 (CONSTRUCTION CHECKLIST)
-- Due soon: GYM: Wood base for squat racks due 2026-02-25 (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: Hot water installation due 2026-03-05 (CONSTRUCTION CHECKLIST)
-- Due soon: GF: Library doors / windows due 2026-04-01 (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: kitchen gutter due 2026-02-28 (CONSTRUCTION CHECKLIST)
-- Due soon: GYM: Mirrors due 2026-02-27 (CONSTRUCTION CHECKLIST)
-**WhatsApp:**
-- [DM]: **Kaspars:** which whatsapp groups do you have access to? **Topics discussed:** WhatsApp groups observed. **Decisions/action items:** Provide list of groups seen so far; note may be incomplete.
-- [DM]: **Kaspars:** which whatsapp groups do you have access to? **Topics discussed:** WhatsApp groups observed. **Decisions/action items:** Provide list of groups seen so far; note may be incomplete.
-- [Hok | Gym]: **Gints Valdmanis:** [image] (stairs photo) **Gints Valdmanis:** [image] (stairs photo, wider view) **Gints Valdmanis:** [image] Finally (wall/ceiling masked for paint)
-- [Hok | Gym]: **Gints Valdmanis:** [image] (stairs photo) **Gints Valdmanis:** [image] (stairs photo, wider view) **Gints Valdmanis:** [image] Finally (wall/ceiling masked for paint)
-- [Hok | Gym]: **Gints Valdmanis:** [image] (stairs photo) **Gints Valdmanis:** [image] (stairs photo, wider view) **Gints Valdmanis:** [image] Finally (wall/ceiling masked for paint)
-- [Hok | Gym]: **Gints Valdmanis:** [image] (stairs photo) **Gints Valdmanis:** [image] (stairs photo, wider view) **Gints Valdmanis:** [image] Finally (wall/ceiling masked for paint)
-- [Hok | Gym]: **Gints Valdmanis:** [image] (stairs photo) **Gints Valdmanis:** [image] (stairs photo, wider view) **Gints Valdmanis:** [image] Finally (wall/ceiling masked for paint)
-- [Hok | Gym]: **Gints Valdmanis:** [image] (stairs photo) **Gints Valdmanis:** [image] (stairs photo, wider view) **Gints Valdmanis:** [image] Finally (wall/ceiling masked for paint)
-- [Hok | Gym]: **Gints Valdmanis:** [image] (stairs photo) **Gints Valdmanis:** [image] (stairs photo, wider view) **Gints Valdmanis:** [image] Finally (wall/ceiling masked for paint)
-- [Hok | Gym]: **Gints Valdmanis:** [image] (stairs photo) **Gints Valdmanis:** [image] (stairs photo, wider view) **Gints Valdmanis:** [image] Finally (wall/ceiling masked for paint)
-
-**Asana:**
-- Completed: LGF: Pool area ujung padang marble (CONSTRUCTION CHECKLIST)
-- Completed: LGF: Pool - install pool tiles (CONSTRUCTION CHECKLIST)
-- Completed: LGF: Kitchen - SikaBoom gap filling (CONSTRUCTION CHECKLIST)
-- Completed: GF: OUTDOOR: Parking (Structure + Finishing) (CONSTRUCTION CHECKLIST)
-- Completed: GF: PLN second cable (CONSTRUCTION CHECKLIST)
-- Completed: GF: Ceiling Finish (Gypsum+Paint) (CONSTRUCTION CHECKLIST)
-- Completed: GF: Choose ceiling finish (CONSTRUCTION CHECKLIST)
-- Completed: LGF: Ice bath - choose tiles (CONSTRUCTION CHECKLIST)
-- Completed: LGF: Hot tub - choose tiles (CONSTRUCTION CHECKLIST)
-- Completed: ROOFTOP: 5cm floor gap for windows, 16cm wide (CONSTRUCTION CHECKLIST)
-- Completed: ROOFTOP: Floor Leveling (CONSTRUCTION CHECKLIST)
-- Completed: ROOFTOP: Floor waterproofing (CONSTRUCTION CHECKLIST)
-- Completed: ROOFTOP: staircase curve ceiling structure (CONSTRUCTION CHECKLIST)
-- Completed: ROOFTOP: Skirting on boundary wall (CONSTRUCTION CHECKLIST)
-- Completed: GF: Library doors / windows (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: Pool area ujung padang marble due 2026-03-13 (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: Pool - install pool tiles due 2026-03-12 (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: Kitchen - SikaBoom gap filling due 2026-02-27 (CONSTRUCTION CHECKLIST)
-- Due soon: GF: OUTDOOR: Parking (Structure + Finishing) due 2026-03-15 (CONSTRUCTION CHECKLIST)
-- Due soon: GF: PLN second cable due 2026-03-09 (CONSTRUCTION CHECKLIST)
-- Due soon: GF: Ceiling Finish (Gypsum+Paint) due 2026-02-15 (CONSTRUCTION CHECKLIST)
-- Due soon: GF: Choose ceiling finish due 2026-02-28 (CONSTRUCTION CHECKLIST)
-- Due soon: ROOFTOP: 5cm floor gap for windows, 16cm wide due 2026-03-11 (CONSTRUCTION CHECKLIST)
-- Due soon: ROOFTOP: Floor Leveling due 2026-02-26 (CONSTRUCTION CHECKLIST)
-- Due soon: ROOFTOP: Floor waterproofing due 2026-02-27 (CONSTRUCTION CHECKLIST)
-- Due soon: ROOFTOP: staircase curve ceiling structure due 2026-02-27 (CONSTRUCTION CHECKLIST)
-- Due soon: ROOFTOP: Skirting on boundary wall due 2026-03-10 (CONSTRUCTION CHECKLIST)
-- Due soon: GF: Library doors / windows due 2026-04-01 (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: Steam room - steamer seat build due 2026-02-23 (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: Kitchen gutter due 2026-02-28 (CONSTRUCTION CHECKLIST)
-
-**Asana Comments:**
-- On "LGF: Pool area ujung padang marble" (CONSTRUCTION CHECKLIST): Wasn't possible to start on 23rd.  https://app.asana.com/0/1213297799206115/1213297799206115 starting today? https://app.asana.com/0/1213298070305826/1213298070305826
-- On "LGF: Pool - install pool tiles" (CONSTRUCTION CHECKLIST): Thanks for the update.   Water test on Sunday,
-- On "LGF: Kitchen - SikaBoom gap filling" (CONSTRUCTION CHECKLIST): Extremely bad job with silicone (shared in WA).. Needs to be redone nicely..
-- On "GF: OUTDOOR: Parking (Structure + Finishing)" (CONSTRUCTION CHECKLIST): https://app.asana.com/0/1213297799206115/1213297799206115 https://app.asana.com/0/1213298070305826/1213298070305826 you started excavation. What is the next step?  Also - when should we remove the ...
-- On "GF: PLN second cable" (CONSTRUCTION CHECKLIST): Cable installed. Waiting for activation.
-- On "GF: Ceiling Finish (Gypsum+Paint)" (CONSTRUCTION CHECKLIST): https://app.asana.com/0/1213297799206115/1213297799206115https://app.asana.com/0/1213298070305826/1213298070305826 what is the status for ceiling? Need all lamp cables to be pulled in the correct l...
-- On "ROOFTOP: 5cm floor gap for windows, 16cm wide" (CONSTRUCTION CHECKLIST): Can you start adding the "base" concrete for window frames?
-- On "ROOFTOP: 5cm floor gap for windows, 16cm wide" (CONSTRUCTION CHECKLIST): https://app.asana.com/1/1208695572000101/profile/1213323132759547 rooftop window concrete base. Please coordinate with Skyfacade but the original plan was for it to be 5cm high, 16cm wide.   Might ...
-- On "ROOFTOP: Floor Leveling" (CONSTRUCTION CHECKLIST): One studio done, the other to be started today.
-- On "ROOFTOP: staircase curve ceiling structure" (CONSTRUCTION CHECKLIST): What is the status for this? When are you starting?
-- On "ROOFTOP: Skirting on boundary wall" (CONSTRUCTION CHECKLIST): Tiles paid 3 days ago, waiting for delivery.
-- On "GF: Library doors / windows" (CONSTRUCTION CHECKLIST): Waiting for proposal  https://app.asana.com/1/1208695572000101/profile/1213394790578923
-- On "LGF: Steam room - steamer seat build" (CONSTRUCTION CHECKLIST): What's the stage? Doing Sikalatex now?
-- On "LGF: Kitchen gutter" (CONSTRUCTION CHECKLIST): Gutter creation is dragging on. What's the status and planned finishing date?
-- On "LGF: Changing rooms - vanity" (CONSTRUCTION CHECKLIST): https://app.asana.com/1/1208695572000101/profile/1213394790578923 starting today.
-
-### 2026-02-26
-
-**Asana:**
-- Completed: LGF: Ice bath - choose tiles (CONSTRUCTION CHECKLIST)
-- Completed: LGF: Hot tub - choose tiles (CONSTRUCTION CHECKLIST)
-- Completed: GYM: Storage wood cladding (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: Pool area ujung padang marble due 2026-03-13 (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: Pool - install pool tiles due 2026-03-12 (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: Kitchen - SikaBoom gap filling due 2026-02-27 (CONSTRUCTION CHECKLIST)
-- Due soon: GF: OUTDOOR: Parking (Structure + Finishing) due 2026-03-15 (CONSTRUCTION CHECKLIST)
-- Due soon: GF: PLN second cable due 2026-03-09 (CONSTRUCTION CHECKLIST)
-- Due soon: GF: Ceiling Finish (Gypsum+Paint) due 2026-02-15 (CONSTRUCTION CHECKLIST)
-- Due soon: GF: Choose ceiling finish due 2026-02-28 (CONSTRUCTION CHECKLIST)
-- Due soon: ROOFTOP: 5cm floor gap for windows, 16cm wide due 2026-03-11 (CONSTRUCTION CHECKLIST)
-- Due soon: ROOFTOP: Floor Leveling due 2026-02-26 (CONSTRUCTION CHECKLIST)
-- Due soon: ROOFTOP: Floor waterproofing due 2026-02-27 (CONSTRUCTION CHECKLIST)
-- Due soon: ROOFTOP: staircase curve ceiling structure  due 2026-02-27 (CONSTRUCTION CHECKLIST)
-- Due soon: ROOFTOP: Skirting on boundary wall due 2026-03-10 (CONSTRUCTION CHECKLIST)
-- Due soon: GF: Library doors / windows due 2026-04-01 (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: Steam room - steamer seat build due 2026-02-23 (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: Kitchen gutter due 2026-02-28 (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: Changing rooms - toilet doors due 2026-03-25 (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: Changing rooms - vanity due 2026-03-12 (CONSTRUCTION CHECKLIST)
-- Due soon: GF: Cardio area storage due no date (CONSTRUCTION CHECKLIST)
-- Due soon: GF: Restaurant seating due no date (CONSTRUCTION CHECKLIST)
-- Due soon: GF: Kitchen - desk next to dumb waiter due 2026-03-15 (CONSTRUCTION CHECKLIST)
-
-
-### 2026-02-26 — WhatsApp
-
 #### CAKRAWALA | House of Kairos — 07:30
 - **Kaspars:** [image]
 - **Bot:** NO_REPLY
@@ -1144,15 +1022,6 @@ _Last updated: 2026-02-27_
 - **Bot:** NO_REPLY
 - **Gints:** No rubber floor guys 🤷‍♂️
 
-### 2026-02-26
-
-**WhatsApp:**
-- [CAKRAWALA | House of Kairos]: - **Kaspars:** [image]; - **Kaspars:** this meeds some serious waterproofing
-- [Daily Summary]: - **Kaspars Upmanis:** @141073099788467  - please order 1 more mirror 🙂
-- [DM]: ### WhatsApp — DM — Kaspars — 08:00; - **Kaspars:** which whatsapp groups do you have access to?
-- [Hok | Gym]: - **Kaspars:** yes, correct; - **Kaspars:** the “lounge” area
-- [HoK | HR]: - **Kaspars:** any time tomorrow; - **Kaspars:** let’s get the guy before OMNI 😀
-- [HoK | Operations]: - **Kaspars:** what's the mirror status?; - **Kaspars:** they will be able to use either library OR office rooms for that
 
 **Asana:**
 - Completed: LGF: Ice bath - choose tiles (CONSTRUCTION CHECKLIST)
@@ -1199,7 +1068,6 @@ _Last updated: 2026-02-27_
 
 **Email:**
 - No results
-
 ### 2026-02-27
 
 **Asana:**
@@ -1250,3 +1118,54 @@ _Last updated: 2026-02-27_
 - On "LGF: MEP ventilation" (CONSTRUCTION CHECKLIST): Build started today
 - On "GF: AC tray in office room" (CONSTRUCTION CHECKLIST): Work in progress? It was supposed to start on Monday, 23rd Feb.   https://app.asana.com/0/1213298070305826/1213298070305826
 - On "GF: AC tray in office room" (CONSTRUCTION CHECKLIST): Please update on the status
+
+### 2026-02-28
+
+**Asana:**
+- Completed: GF: OUTDOOR: Parking (Structure + Finishing) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Laundry - exhaust to outside (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool - install pool tiles (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Pool area ujung padang marble (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Wall Finish (Marble) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Steam (Ceiling + Body + Floor + MEP) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Jacuzzi (Structure + MEP + Finishing) (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Icebath (Structure + MEP + Finishing) (CONSTRUCTION CHECKLIST)
+- Completed: GF: Cardio planter/storage (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - middle seating console (CONSTRUCTION CHECKLIST)
+- Completed: LGF: Changing rooms - lockers (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Mirrors (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Install big ceiling lamps (CONSTRUCTION CHECKLIST)
+- Completed: GYM: Reception shelving furniture (CONSTRUCTION CHECKLIST)
+- Completed: ROOFTOP: Boundary wall overhang (CONSTRUCTION CHECKLIST)
+- Due soon: GF: OUTDOOR: Parking (Structure + Finishing) due 2026-03-15 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Laundry - exhaust to outside due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Pool - install pool tiles due 2026-03-12 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Pool area ujung padang marble due 2026-03-13 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Wall Finish (Marble) due 2026-03-21 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Steam (Ceiling + Body + Floor + MEP) due 2026-02-28 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Jacuzzi (Structure + MEP + Finishing) due 2026-03-14 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Icebath (Structure + MEP + Finishing) due 2026-03-07 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Cardio planter/storage due 2026-03-12 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Changing rooms - middle seating console due 2026-04-01 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Changing rooms - lockers due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Mirrors due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Install big ceiling lamps due 2026-03-10 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Reception shelving furniture due 2026-03-04 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Floor Leveling due 2026-02-26 (CONSTRUCTION CHECKLIST)
+
+**Asana Comments:**
+- On "LGF: Pool - install pool tiles" (CONSTRUCTION CHECKLIST): Water test on Sunday, 1st May.
+- On "LGF: Pool area ujung padang marble" (CONSTRUCTION CHECKLIST): Starting tomorrow, 28th Feb.   Deadline (as per last provided timeline by Cakrawala): 13th March for full pool deck completion.
+- On "LGF: Wall Finish (Marble)" (CONSTRUCTION CHECKLIST): Good progress on this.
+- On "LGF: Steam (Ceiling + Body + Floor + MEP)" (CONSTRUCTION CHECKLIST): No progress..... Is there any plan to finish this project?
+- On "LGF: Steam (Ceiling + Body + Floor + MEP)" (CONSTRUCTION CHECKLIST): No progress for the past 5 days.   Deadline tomorrow for Steam room to be finished. Will it be achieved?
+- On "LGF: Icebath (Structure + MEP + Finishing)" (CONSTRUCTION CHECKLIST): In 9 days you have deadline for ice bath, including finishing.  I haven't seen any progress on it in the past 3 days. ..
+- On "GF: Cardio planter/storage" (CONSTRUCTION CHECKLIST): Smooth plaster done tomorrow.
+- On "LGF: Changing rooms - middle seating console" (CONSTRUCTION CHECKLIST): Ready to install
+- On "LGF: Changing rooms - lockers" (CONSTRUCTION CHECKLIST): Ready to install them on site
+- On "GYM: Mirrors" (CONSTRUCTION CHECKLIST): Storage room ready 100%
+- On "GYM: Mirrors" (CONSTRUCTION CHECKLIST): Arranging mirror installation
+- On "GYM: Reception shelving furniture" (CONSTRUCTION CHECKLIST): Good progress so far
+- On "ROOFTOP: Floor waterproofing" (CONSTRUCTION CHECKLIST): Waterproofing done. Now adding screed.
+- On "ROOFTOP: 5cm floor gap for windows, 16cm wide" (CONSTRUCTION CHECKLIST): We really need windows.....  what is the status with this task?
+- On "ROOFTOP: Ceiling Finish (Install+Paint)" (CONSTRUCTION CHECKLIST): No work on site. What's the status?

@@ -14,7 +14,7 @@
 
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-27_
+_Last updated: 2026-02-28_
 
 **CONSTRUCTION CHECKLIST**
 - [ ] ROOFTOP: Audio — no due date
@@ -128,12 +128,6 @@ _Last updated: 2026-02-27_
 
 ### 2026-02-26
 
-**Asana:**
-- Due soon: ROOFTOP: Audio due no date (CONSTRUCTION CHECKLIST)
-
-
-### 2026-02-26 — WhatsApp
-
 #### HoK | Marketing — 09:30
 - **Nicolas:** Team - adding Arum here temporarily during these stage for visibility and more efficient comms (in representation of FO)
 - **Bot:** NO_REPLY
@@ -204,19 +198,23 @@ _Last updated: 2026-02-27_
 - **Nicolas:** Let’s do it
 - **Bot:** NO_REPLY
 
-### 2026-02-26
-
-**WhatsApp:**
-- [HoK | Front Office / Reception]: - **Nicolas:** Team - adding Gints here temporarily during these stage for visibility and more efficient comms, in preparation to start construction tours; - **Nicolas:** @256074590470155 please add Mila ASAP.   Once that's done, can you re-share the Tours Script Guideline, but please share in Google docs format (give everyone "commenting" rights), so we can review together and integrate and edit as needed.
-- [Hok | Gym]: - Ops: Nicolas needs LAN cables to test printers (Odoo) on site; asked for Karcher follow-up; asked about Destania/issue.
-- [HoK | HR]: - **Nicolas Castrillon:** Let’s do it; - **Nicolas:** Yes can!   @255812631027888 should we do 10.30? just case we have ours at 9, and we'll need to come back to a quiet space for the interview.
-- [HoK | Marketing]: - **Nicolas:** Team - adding Arum here temporarily during these stage for visibility and more efficient comms (in representation of FO)
-- [HoK | Operations]: - **Nicolas Castrillon:** Ok, if we want to launch on Tuesday we need that 😬; - **Nicolas Castrillon:** Also, I need to test the printers somehow today, any other LAN cables that we can use for that?
 
 **Email:**
 - No results
-
 ### 2026-02-27
+
+**Asana:**
+- Completed: ROOFTOP: Audio (CONSTRUCTION CHECKLIST)
+- Completed: Sound supplier selection (No Project)
+- Completed: Gym equipment for rooftop (CONSTRUCTION CHECKLIST)
+- Completed: Select final gym equipment for gym floor (CONSTRUCTION CHECKLIST)
+- Completed: RO filter supplier (No Project)
+- Completed: Investigate body scanners (No Project)
+- Completed: Send latest layout to Daikin (No Project)
+- Completed: Dumbwaiter (quote attached) (No Project)
+- Due soon: ROOFTOP: Audio due no due date (CONSTRUCTION CHECKLIST)
+
+### 2026-02-28
 
 **Asana:**
 - Completed: ROOFTOP: Audio (CONSTRUCTION CHECKLIST)

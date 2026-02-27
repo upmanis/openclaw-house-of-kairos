@@ -14,7 +14,7 @@
 
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-27_
+_Last updated: 2026-02-28_
 
 **Marketing**
 - [ ] Creative Direction Draft by Hendra — **overdue** 2025-05-13
@@ -429,6 +429,25 @@ _Last updated: 2026-02-27_
 
 ### 2026-02-26
 
+#### HoK | Marketing — 09:30
+- **Nicolas:** Team - adding Arum here temporarily during these stage for visibility and more efficient comms (in representation of FO)
+- **Bot:** NO_REPLY
+- **Sakinah:** Okiii!! :)
+
+#### HoK | Marketing — 12:00
+- **Sakinah:** Isola guyss
+- **Bot:** NO_REPLY
+- **Sakinah:** comeee
+
+
+**Asana:**
+- Due soon: Launch 14 days count down reel due 2026-03-01 (Marketing - Pre-sales campaign)
+- Due soon: send 1st wave email due 2026-03-01 (Marketing - Pre-sales campaign)
+
+**Email:**
+- No results
+### 2026-02-27
+
 **Asana:**
 - Completed: Build influencer list for soft opening (Marketing)
 - Completed: WEBSITE LIVE (Marketing - Pre-sales campaign)
@@ -461,57 +480,7 @@ _Last updated: 2026-02-27_
 - Due soon: Shooting pre-sales has sold out due 2026-03-18 (Marketing - Pre-sales campaign)
 - Due soon: Class Schedule artwork due no due date (Marketing - Pre-sales campaign)
 
-
-### 2026-02-26
-
-**Asana:**
-- Due soon: Build influencer list for soft opening  due no date (Marketing)
-- Due soon: WEBSITE LIVE due 2026-03-15 (Marketing - Pre-sales campaign)
-- Due soon: Menu due 2026-02-20 (Marketing - Pre-sales campaign)
-- Due soon: Gym rules due 2026-02-19 (Marketing - Pre-sales campaign)
-- Due soon: Locker rules due 2026-02-19 (Marketing - Pre-sales campaign)
-- Due soon: Launch has opened  reel due 2026-03-15 (Marketing - Pre-sales campaign)
-- Due soon: Socks due no date (Marketing - Merch)
-- Due soon: prepare facilities artwork due 2026-02-12 (Marketing - Pre-sales campaign)
-- Due soon: Prepare tour invitation artwork due 2026-02-12 (Marketing - Pre-sales campaign)
-- Due soon: prepare membership benefit artwork due 2026-02-12 (Marketing - Pre-sales campaign)
-- Due soon: Prepare presale is now open artwork due 2026-02-12 (Marketing - Pre-sales campaign)
-- Due soon: Design waitlist email  due 2026-02-11 (Marketing - Pre-sales campaign)
-- Due soon: Coach  Artwork due no date (Marketing - Pre-sales campaign)
-- Due soon: Shooting pre-sales has sold out due 2026-03-18 (Marketing - Pre-sales campaign)
-- Due soon: Class Schedule artwork due no date (Marketing - Pre-sales campaign)
-- Due soon: Pricing due no date (Marketing - Pre-sales campaign)
-- Due soon: Studio Rules due no date (Marketing - Pre-sales campaign)
-- Due soon: Hot Tub Rules due no date (Marketing - Pre-sales campaign)
-- Due soon: Ice bath rules due no date (Marketing - Pre-sales campaign)
-- Due soon: Steam room rules due no date (Marketing - Pre-sales campaign)
-
-
-### 2026-02-26 — WhatsApp
-
-#### HoK | Marketing — 09:30
-- **Nicolas:** Team - adding Arum here temporarily during these stage for visibility and more efficient comms (in representation of FO)
-- **Bot:** NO_REPLY
-- **Sakinah:** Okiii!! :)
-
-#### HoK | Marketing — 12:00
-- **Sakinah:** Isola guyss
-- **Bot:** NO_REPLY
-- **Sakinah:** comeee
-
-### 2026-02-26
-
-**WhatsApp:**
-- [HoK | Marketing]: - **Sakinah:** Okiii!! :); - **Sakinah:** Isola guyss
-
-**Asana:**
-- Due soon: Launch 14 days count down reel due 2026-03-01 (Marketing - Pre-sales campaign)
-- Due soon: send 1st wave email due 2026-03-01 (Marketing - Pre-sales campaign)
-
-**Email:**
-- No results
-
-### 2026-02-27
+### 2026-02-28
 
 **Asana:**
 - Completed: Build influencer list for soft opening (Marketing)

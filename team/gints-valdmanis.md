@@ -47,7 +47,7 @@ Relocated to Bali with his family, initially for winter season, now living there
 
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-27_
+_Last updated: 2026-02-28_
 
 (none)
 
@@ -80,12 +80,6 @@ _Last updated: 2026-02-27_
 - **Gints:** Yeah, looks ok. Pics is one thing but in real life is ok
 
 ### 2026-02-26
-
-**WhatsApp:**
-- [Hok | Gym]: **Gints Valdmanis:** [image] (stairs photo) **Gints Valdmanis:** [image] (stairs photo, wider view) **Gints Valdmanis:** [image] Finally (wall/ceiling masked for paint)
-
-
-### 2026-02-26 — WhatsApp
 
 #### Hok | Gym — 08:30
 - **Gints:** Hey! So this is the are where we will have sofas and we need to keep it clean of equipment?
@@ -128,11 +122,6 @@ _Last updated: 2026-02-27_
 - **Bot:** NO_REPLY
 - **Gints:** No rubber floor guys 🤷‍♂️
 
-### 2026-02-26
-
-**WhatsApp:**
-- [HoK | Front Office / Reception]: - **Nicolas:** Team - adding Gints here temporarily during these stage for visibility and more efficient comms, in preparation to start construction tours
-- [Hok | Gym]: - **Gints Valdmanis:** We have wifi 🎉; - **Gints Valdmanis:** No rubber floor guys 🤷‍♂️
 
 **Email:**
 - No results

@@ -14,7 +14,7 @@
 
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-02-27_
+_Last updated: 2026-02-28_
 
 **General  Timeline**
 - [ ] Create job descriptions - all positions — **overdue** 2025-10-01
@@ -47,9 +47,9 @@ _Last updated: 2026-02-27_
 - [ ] Team Bonding & Culture Building — no due date
 
 **Recruitment**
-- [ ] Head of Bar — due 2026-02-27
-- [ ] Sous Chef — due 2026-02-27
+- [ ] Sous Chef — **overdue** 2026-02-27
 - [ ] Marketing Coordinator — due 2026-03-02
+- [ ] Head of Bar — due 2026-03-06
 - [ ] Housekeeping Staff — due 2026-03-06
 - [ ] Purchasing Supervisor — due 2026-03-06
 - [ ] Fashion Merchandiser — due 2026-03-20
@@ -402,7 +402,7 @@ _Last updated: 2026-02-27_
 - **Nisya:** They usually inform me if cannot go to to work because of sick and I'm the one who have access to input in talenta. If they not inform me I will make it as unpaid leave
 
 #### HoK | HR — 08:30
-- **Nisya:** [WhatsApp 120363401976534186@g.us +49m Tue 2026-02-24 00:44 UTC] Nisya A. (+6281928883368): [openclaw] candidate for Sr Ops Manager  <file name="CV_HAFIDH_2025---777d1800-7617-42ba-87f4-4e591c194b40.pdf" mime="application/pdf"> ABOUT ME Good personality, good leadership, honest, hard worker and fast learning, Target-oriented, discipline, Responsible able to work under pressure and Over me. SKILLS LEADERSHIP HONESTY DISCIPLINE RESPONSIBLE WORK UNDER PRESSURE OVERTIME LANGUAGES INDONESIAN ENGLISH PERSONAL DETAILS Date of birth 19 Dec 1973 Na onality Indonesia Visa status Authorized to work in Indonesia Marital status Single DRIVING LICENSE Driving license category Yes, Moto bike WORK EXPERIENCE Jakarta Aug 2022 - Present Opening team project. Work with Finance team crea ng the budget. Prepare  meline for opening target. Create bussiness plan work with all departement Training all Dept head. Work with designer team for uniform all staff. Create all SOP, Job descrip on, House rule, and regula on Bali   Responsible on all facility in Potato Head Desa, support F&B in daily opera onal, Event and func on. Ensure all facility in good condi on, work together with restaurant manager handling guest and make sure they enjoy during stay in Potato Head Desa Create SOP related with opera onal. Work with GM maximize space for increasing revenue to meet the target and budget. Jakarta Apr 2014 - Apr 2015   Opening team for New outlet Burger joint in Jakarta Responsible in opera onal restaurant, Food and beverage cos ng and inventory, scheduling service staff, handling guest complaint, training new staff, monitoring daily opera onal restaurant, set up budget, create menu with chef, promo on and marke ng, etc Bali Feb 2010 - Mar 2014 Responsible in opera onal restaurant, Food and beverage cos ng and inventory, scheduling service staff, handling guest complaint, training new staff, monitoring daily opera onal restaurant, set up budget, create menu with chef, promo on and marke ng, etc Jakarta Apr 1997 - Feb 2009 Responsible in opera onal restaurant, Food and beverage cos ng and inventory, scheduling service staff, handling guest complaint, training new staff, monitoring daily opera onal restaurant, set up budget, create menu with chef, promo on and marke ng, etc EDUCATION Jakarta 1992 1995 Not Finish DREAMVILLE BEACH CLUB General Manager POTATO HEAD DESA   Facility Opera on Manager THREE BUNS   Opera on Manager POTATO HEAD BEACH CLUB Senior Restaurant TGI FRIDAY'S AND FRONT ROW SPORTS GRILL Restaurant Manager YAPENKA JAKARTA   SMA SAHID HOTEL TOURISM UNIVERSITY Hotel Tourism University HAFIDH ARDANI GENERAL MANAGER Jakarta, Indonesia, Jakarta, 13940, Indonesia +628998318578 hafidh.ardani@gmail.com Apr 201 5   - Jul 2021 </file>
+- **Nisya:** [WhatsApp 120363401976534186@g.us +49m Tue 2026-02-24 00:44 UTC] Nisya A. (+6281928883368): [openclaw] candidate for Sr Ops Manager  <file name="CV_HAFIDH_2025---777d1800-7617-42ba-87f4-4e591c194b40.pdf" mime="application/pdf"> ABOUT ME Good personality, good leadership, honest, hard worker and fast learning, Target-oriented, discipline, Responsible able to work under pressure and Overme. SKILLS LEADERSHIP HONESTY DISCIPLINE RESPONSIBLE WORK UNDER PRESSURE OVERTIME LANGUAGES INDONESIAN ENGLISH PERSONAL DETAILS Date of birth 19 Dec 1973 Naonality Indonesia Visa status Authorized to work in Indonesia Marital status Single DRIVING LICENSE Driving license category Yes, Moto bike WORK EXPERIENCE Jakarta Aug 2022 - Present Opening team project. Work with Finance team creang the budget. Prepare meline for opening target. Create bussiness plan work with all departement Training all Dept head. Work with designer team for uniform all staff. Create all SOP, Job descripon, House rule, and regulaon Bali   Responsible on all facility in Potato Head Desa, support F&B in daily operaonal, Event and funcon. Ensure all facility in good condion, work together with restaurant manager handling guest and make sure they enjoy during stay in Potato Head Desa Create SOP related with operaonal. Work with GM maximize space for increasing revenue to meet the target and budget. Jakarta Apr 2014 - Apr 2015   Opening team for New outlet Burger joint in Jakarta Responsible in operaonal restaurant, Food and beverage cosng and inventory, scheduling service staff, handling guest complaint, training new staff, monitoring daily operaonal restaurant, set up budget, create menu with chef, promoon and markeng, etc Bali Feb 2010 - Mar 2014 Responsible in operaonal restaurant, Food and beverage cosng and inventory, scheduling service staff, handling guest complaint, training new staff, monitoring daily operaonal restaurant, set up budget, create menu with chef, promoon and markeng, etc Jakarta Apr 1997 - Feb 2009 Responsible in operaonal restaurant, Food and beverage cosng and inventory, scheduling service staff, handling guest complaint, training new staff, monitoring daily operaonal restaurant, set up budget, create menu with chef, promoon and markeng, etc EDUCATION Jakarta 1992 1995 Not Finish DREAMVILLE BEACH CLUB General Manager POTATO HEAD DESA   Facility Operaon Manager THREE BUNS   Operaon Manager POTATO HEAD BEACH CLUB Senior Restaurant TGI FRIDAY'S AND FRONT ROW SPORTS GRILL Restaurant Manager YAPENKA JAKARTA   SMA SAHID HOTEL TOURISM UNIVERSITY Hotel Tourism University HAFIDH ARDANI GENERAL MANAGER Jakarta, Indonesia, Jakarta, 13940, Indonesia +628998318578 hafidh.ardani@gmail.com Apr 201 5   - Jul 2021 </file>
 - **Kaspars:** looks good. only he's in Jakarta
 
 ### 2026-02-25
@@ -441,66 +441,6 @@ _Last updated: 2026-02-27_
 
 ### 2026-02-26
 
-**Asana:**
-- Completed: Operations Manager (Recruitment)
-- Completed: Sous Chef (Recruitment)
-- Completed: Front Office (Recruitment)
-- Completed: Head of Bar (Recruitment)
-- Completed: Marketing Coordinator (Recruitment)
-- Completed: Purchasing Supervisor (Recruitment)
-- Completed: Housekeeping Staff (Recruitment)
-- Completed: Fashion Merchandiser (Recruitment)
-- Completed: Chef De Partie (Recruitment)
-- Completed: PA to General Manager (Recruitment)
-- Completed: Laundry Attendant (Recruitment)
-- Completed: Bartender (Recruitment)
-- Completed: Head Chef (Recruitment)
-- Completed: Gym Attendant (Recruitment)
-- Completed: Bookkeeper (Recruitment)
-- Due soon: Operations Manager due 2026-03-31 (Recruitment)
-- Due soon: Sous Chef due 2026-02-27 (Recruitment)
-- Due soon: Front Office due 2026-03-31 (Recruitment)
-- Due soon: Head of Bar due 2026-02-27 (Recruitment)
-- Due soon: Marketing Coordinator due 2026-03-02 (Recruitment)
-- Due soon: Purchasing Supervisor due 2026-03-06 (Recruitment)
-- Due soon: Housekeeping Staff due 2026-03-06 (Recruitment)
-- Due soon: Fashion Merchandiser due 2026-03-20 (Recruitment)
-- Due soon: PA to General Manager due no due date (Recruitment)
-- Due soon: Laundry Attendant due no due date (Recruitment)
-- Due soon: Bookkeeper due no due date (Recruitment)
-- Due soon: Security due 2026-05-30 (Recruitment)
-- Due soon: IT Supervisor due no due date (Recruitment)
-- Due soon: Launch employee engagement activity with 75% achievement rate due 2025-12-31 (HR)
-- Due soon: Communication & Feedback due 2025-12-31 (HR)
-
-
-### 2026-02-26
-
-**Asana:**
-- Due soon: Operations Manager due 2026-03-31 (Recruitment)
-- Due soon: Sous Chef due 2026-02-27 (Recruitment)
-- Due soon: Front Office due 2026-03-31 (Recruitment)
-- Due soon: Head of Bar due 2026-02-27 (Recruitment)
-- Due soon: Marketing Coordinator due 2026-03-02 (Recruitment)
-- Due soon: Purchasing Supervisor due 2026-03-06 (Recruitment)
-- Due soon: Housekeeping Staff due 2026-03-06 (Recruitment)
-- Due soon: Fashion Merchandiser due 2026-03-20 (Recruitment)
-- Due soon: PA to General Manager due no date (Recruitment)
-- Due soon: Laundry Attendant due no date (Recruitment)
-- Due soon: Bookkeeper due no date (Recruitment)
-- Due soon: Security due 2026-05-30 (Recruitment)
-- Due soon: IT Supervisor due no date (Recruitment)
-- Due soon: Launch employee engagement activity with 75% achievement rate due 2025-12-31 (HR)
-- Due soon: Communication & Feedback due 2025-12-31 (HR)
-- Due soon: Training & Development due 2025-12-31 (HR)
-- Due soon: SMART Goals Setting due 2025-12-31 (HR)
-- Due soon: KPI Setting based on SMART due 2025-12-31 (HR)
-- Due soon: Performance Appraisal due 2025-12-31 (HR)
-- Due soon: Performance Improvement Plan due 2025-12-31 (HR)
-
-
-### 2026-02-26 — WhatsApp
-
 #### HoK | HR — 10:30
 - **Nisya:** morning, additional information about Hafidh, he's now only waiting for final offer from Omni. and I will contact the HR from Potato Head for the reference that still working there.  Please let me know what time you guys will be available tomorrow
 - **Bot:** NO_REPLY
@@ -522,10 +462,6 @@ _Last updated: 2026-02-27_
 - **Nicolas:** Let’s do it
 - **Bot:** NO_REPLY
 
-### 2026-02-26
-
-**WhatsApp:**
-- [HoK | HR]: - **Nisya:** morning, additional information about Hafidh, he's now only waiting for final offer from Omni. and I will contact the HR from Potato Head for the reference that still working there.  Please let me know what time you guys will be available tomorrow; - **Nisya:** alright, I will arrange at 10am. @10522686705819 please let me know if the time is good for you ya
 
 **Asana:**
 - Due soon: Sous Chef due 2026-02-27 (Recruitment)
@@ -534,7 +470,6 @@ _Last updated: 2026-02-27_
 
 **Email:**
 - No results
-
 ### 2026-02-27
 
 **Asana:**
@@ -568,3 +503,41 @@ _Last updated: 2026-02-27_
 - Due soon: IT Supervisor due no due date (Recruitment)
 - Due soon: Launch employee engagement activity with 75% achievement rate due 2025-12-31 (HR)
 - Due soon: Communication & Feedback due 2025-12-31 (HR)
+
+### 2026-02-28
+
+**Asana:**
+- Completed: Head of Bar (Recruitment)
+- Completed: Housekeeping Staff (Recruitment)
+- Completed: Sous Chef (Recruitment)
+- Completed: Operations Manager (Recruitment)
+- Completed: Front Office (Recruitment)
+- Completed: Marketing Coordinator (Recruitment)
+- Completed: Purchasing Supervisor (Recruitment)
+- Completed: Fashion Merchandiser (Recruitment)
+- Completed: Chef De Partie (Recruitment)
+- Completed: PA to General Manager (Recruitment)
+- Completed: Laundry Attendant (Recruitment)
+- Completed: Bartender (Recruitment)
+- Completed: Head Chef (Recruitment)
+- Completed: Gym Attendant (Recruitment)
+- Completed: Bookkeeper (Recruitment)
+- Due soon: Head of Bar due 2026-03-06 (Recruitment)
+- Due soon: Housekeeping Staff due 2026-03-06 (Recruitment)
+- Due soon: Sous Chef due 2026-02-27 (Recruitment)
+- Due soon: Operations Manager due 2026-03-31 (Recruitment)
+- Due soon: Front Office due 2026-03-31 (Recruitment)
+- Due soon: Marketing Coordinator due 2026-03-02 (Recruitment)
+- Due soon: Purchasing Supervisor due 2026-03-06 (Recruitment)
+- Due soon: Fashion Merchandiser due 2026-03-20 (Recruitment)
+- Due soon: PA to General Manager due no due date (Recruitment)
+- Due soon: Laundry Attendant due no due date (Recruitment)
+- Due soon: Bookkeeper due no due date (Recruitment)
+- Due soon: Security due 2026-05-30 (Recruitment)
+- Due soon: IT Supervisor due no due date (Recruitment)
+- Due soon: Launch employee engagement activity with 75% achievement rate due 2025-12-31 (HR)
+- Due soon: Communication & Feedback due 2025-12-31 (HR)
+
+**Asana Comments:**
+- On "Housekeeping Staff" (Recruitment): Candidate 1   Name : Putu Agus Aditya Age : 23 Live : Tabanan Current Company : Not working Last Position : Supervisor HK Last Salary : 6.5 million Availability : ASAP Current Process : Job Offer S...
+- On "Housekeeping Staff" (Recruitment): Candidate 2  Name : Dewa Gede Agung Dewangga Age : 26 Live : Pandak, Kediri Tabanan Current Company : Alex Villa (N5) Canggu Current Position : Senior HK Availability : 1 month notice Current Proce...
