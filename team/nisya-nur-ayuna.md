@@ -12,54 +12,12 @@
 
 ---
 
-
 ## Outstanding Asana Tasks
 _Last updated: 2026-02-28_
 
-**General  Timeline**
-- [ ] Create job descriptions - all positions — **overdue** 2025-10-01
+(none)
 
-**HR**
-- [ ] Employee Administration Forms — **overdue** 2025-08-30
-- [ ] Employee Handbook — **overdue** 2025-09-30
-- [ ] On Boarding Pack — **overdue** 2025-09-30
-- [ ] Onboarding new hires completed in their first 3 days — **overdue** 2025-09-30
-- [ ] Recruitment-Hire 20 qualified staff members — **overdue** 2025-09-30
-- [ ] Create job descriptions - all positions — **overdue** 2025-10-01
-- [ ] Live Attendance — **overdue** 2025-10-31
-- [ ] Mandatory pre-opening training — **overdue** 2025-10-31
-- [ ] Running Payroll — **overdue** 2025-10-31
-- [ ] Uniforms — **overdue** 2025-10-31
-- [ ] Code of Conduct — **overdue** 2025-11-30
-- [ ] Communication & Feedback — **overdue** 2025-12-31
-- [ ] Define channels for Recruitment — **overdue** 2025-12-31
-- [ ] HR SOP — **overdue** 2025-12-31
-- [ ] KPI Setting based on SMART — **overdue** 2025-12-31
-- [ ] Launch employee engagement activity with 75% achievement rate — **overdue** 2025-12-31
-- [ ] Performance Appraisal — **overdue** 2025-12-31
-- [ ] Performance Improvement Plan — **overdue** 2025-12-31
-- [ ] Service Excellence Training for Front-liner Staff — **overdue** 2025-12-31
-- [ ] SMART Goals Setting — **overdue** 2025-12-31
-- [ ] Training & Development — **overdue** 2025-12-31
-- [ ] Manage WLKP — no due date
-- [ ] Manpower Regulation — no due date
-- [ ] Recruitment Pipeline — no due date
-- [ ] Team Bonding & Culture Building — no due date
 
-**Recruitment**
-- [ ] Sous Chef — **overdue** 2026-02-27
-- [ ] Marketing Coordinator — due 2026-03-02
-- [ ] Head of Bar — due 2026-03-06
-- [ ] Housekeeping Staff — due 2026-03-06
-- [ ] Purchasing Supervisor — due 2026-03-06
-- [ ] Fashion Merchandiser — due 2026-03-20
-- [ ] Front Office — due 2026-03-31
-- [ ] Operations Manager — due 2026-03-31
-- [ ] Security — due 2026-05-30
-- [ ] Bookkeeper — no due date
-- [ ] IT Supervisor — no due date
-- [ ] Laundry Attendant — no due date
-- [ ] PA to General Manager — no due date
 
 
 ## Activity Log
@@ -506,38 +464,74 @@ _Last updated: 2026-02-28_
 
 ### 2026-02-28
 
+**WhatsApp:**
+
+#### DM — Kaspars — 13:30
+- **Kaspars:** give me al ist of all employees
+- **Bot:** 1. Alpin Brahmana — age 22 (born 2003-12-11) — joined 2025-09-01 — contract ends 2026-08-31   2. Andy S (Head Chef) — age 30 (born 1995-07-04) — joined 2025-11-24 — contract ends 2026-11-23   3. Annisa Dwi Pramuningrum — age 30 (born 1995-04-19) — joined 2025-11-24 — contract ends 2026-11-23   4. Bintang Cahya — age 24 (born 2001-11-02) — joined 2026-01-20 — contract ends 2027-01-19   5. Gede Andre Danayasa — age 23 (born 2002-07-18) — joined 2026-01-21 — contract ends 2027-01-20   6. Gints Valdmanis (Fitness Manager) — age 42 (born 1983-12-14) — joined 2025-09-01 — contract ends 2026-08-31   7. I Kadek Oka Utama — age 28 (born 1997-10-14) — joined 2026-02-02 — contract ends 2027-02-01   8. I Komang Ariawan — age 23 (born 2003-02-02) — joined 2025-09-01 — contract ends 2026-08-31   9. I Putu Agus Sudarmawan — age 33 (born 1992-08-27) — joined 2026-01-19 — contract ends 2027-01-18   10. I Putu Dimas (F&B Manager) — age 33 (born 1992-12-17) — joined 2025-09-01 — contract ends 2026-08-31   11. I Putu Vinda Bramasta — age 24 (born 2001-11-05) — joined 2026-01-19 — contract ends 2027-01-18   12. Kaspars Upmanis (Founder/Owner) — age 41 (born 1984-12-20) — joined 2024-12-01 — contract ends —   13. Kelvin De Araujo — age 20 (born 2005-12-26) — joined 2025-11-10 — contract ends 2026-11-09   14. Laila Karimah — age 26 (born 2000-02-01) — joined 2025-07-22 — contract ends —   15. Nicolas Castrillon (General Manager) — age 36 (born 1989-11-28) — joined 2024-08-01 — contract ends —   16. Nisya Nur Ayuna (HR Manager) — age 39 (born 1986-04-02) — joined 2025-05-01 — contract ends 2026-05-24   17. Sakinah Dava Erawan (Marketing Manager) — age 25 (born 2000-10-30) — joined 2025-04-07 — contract ends 2026-04-06   18. Yohanes Baptista — age 27 (born 1999-02-08) — joined 2025-01-28 — contract ends 2026-01-27
+
+#### DM — Kaspars — 13:30
+- **Kaspars:** give me al ist of all employees
+- **Bot:** 1. Alpin Brahmana — age 22 (born 2003-12-11) — joined 2025-09-01 — contract ends 2026-08-31   2. Andy S (Head Chef) — age 30 (born 1995-07-04) — joined 2025-11-24 — contract ends 2026-11-23   3. Annisa Dwi Pramuningrum — age 30 (born 1995-04-19) — joined 2025-11-24 — contract ends 2026-11-23   4. Bintang Cahya — age 24 (born 2001-11-02) — joined 2026-01-20 — contract ends 2027-01-19   5. Gede Andre Danayasa — age 23 (born 2002-07-18) — joined 2026-01-21 — contract ends 2027-01-20   6. Gints Valdmanis (Fitness Manager) — age 42 (born 1983-12-14) — joined 2025-09-01 — contract ends 2026-08-31   7. I Kadek Oka Utama — age 28 (born 1997-10-14) — joined 2026-02-02 — contract ends 2027-02-01   8. I Komang Ariawan — age 23 (born 2003-02-02) — joined 2025-09-01 — contract ends 2026-08-31   9. I Putu Agus Sudarmawan — age 33 (born 1992-08-27) — joined 2026-01-19 — contract ends 2027-01-18   10. I Putu Dimas (F&B Manager) — age 33 (born 1992-12-17) — joined 2025-09-01 — contract ends 2026-08-31   11. I Putu Vinda Bramasta — age 24 (born 2001-11-05) — joined 2026-01-19 — contract ends 2027-01-18   12. Kaspars Upmanis (Founder/Owner) — age 41 (born 1984-12-20) — joined 2024-12-01 — contract ends —   13. Kelvin De Araujo — age 20 (born 2005-12-26) — joined 2025-11-10 — contract ends 2026-11-09   14. Laila Karimah — age 26 (born 2000-02-01) — joined 2025-07-22 — contract ends —   15. Nicolas Castrillon (General Manager) — age 36 (born 1989-11-28) — joined 2024-08-01 — contract ends —   16. Nisya Nur Ayuna (HR Manager) — age 39 (born 1986-04-02) — joined 2025-05-01 — contract ends 2026-05-24   17. Sakinah Dava Erawan (Marketing Manager) — age 25 (born 2000-10-30) — joined 2025-04-07 — contract ends 2026-04-06   18. Yohanes Baptista — age 27 (born 1999-02-08) — joined 2025-01-28 — contract ends 2026-01-27
+
+## Emails (ops@houseofkairos.com)
+(none)
+
+## Asana Tasks Completed
+- **CONSTRUCTION CHECKLIST:** ROOFTOP: Floor waterproofing (Kaspars Upmanis)
+- **CONSTRUCTION CHECKLIST:** ROOFTOP: Boundary wall overhang (Kaspars Upmanis)
+
+## Notes
+- Summary generated at ~15:00 WITA (07:00 UTC), so this is a partial day snapshot.
+
 **Asana:**
-- Completed: Head of Bar (Recruitment)
-- Completed: Housekeeping Staff (Recruitment)
-- Completed: Sous Chef (Recruitment)
-- Completed: Operations Manager (Recruitment)
-- Completed: Front Office (Recruitment)
-- Completed: Marketing Coordinator (Recruitment)
-- Completed: Purchasing Supervisor (Recruitment)
-- Completed: Fashion Merchandiser (Recruitment)
-- Completed: Chef De Partie (Recruitment)
-- Completed: PA to General Manager (Recruitment)
-- Completed: Laundry Attendant (Recruitment)
-- Completed: Bartender (Recruitment)
-- Completed: Head Chef (Recruitment)
-- Completed: Gym Attendant (Recruitment)
-- Completed: Bookkeeper (Recruitment)
+- Due soon: Operations Manager due 2026-03-31 (Recruitment)
+- Due soon: Sous Chef due 2026-03-06 (Recruitment)
 - Due soon: Head of Bar due 2026-03-06 (Recruitment)
 - Due soon: Housekeeping Staff due 2026-03-06 (Recruitment)
-- Due soon: Sous Chef due 2026-02-27 (Recruitment)
-- Due soon: Operations Manager due 2026-03-31 (Recruitment)
 - Due soon: Front Office due 2026-03-31 (Recruitment)
 - Due soon: Marketing Coordinator due 2026-03-02 (Recruitment)
 - Due soon: Purchasing Supervisor due 2026-03-06 (Recruitment)
 - Due soon: Fashion Merchandiser due 2026-03-20 (Recruitment)
-- Due soon: PA to General Manager due no due date (Recruitment)
-- Due soon: Laundry Attendant due no due date (Recruitment)
-- Due soon: Bookkeeper due no due date (Recruitment)
+- Due soon: PA to General Manager due  (Recruitment)
+- Due soon: Laundry Attendant due  (Recruitment)
+- Due soon: Bookkeeper due  (Recruitment)
 - Due soon: Security due 2026-05-30 (Recruitment)
-- Due soon: IT Supervisor due no due date (Recruitment)
+- Due soon: IT Supervisor due  (Recruitment)
 - Due soon: Launch employee engagement activity with 75% achievement rate due 2025-12-31 (HR)
 - Due soon: Communication & Feedback due 2025-12-31 (HR)
+- Due soon: Training & Development due 2025-12-31 (HR)
+- Due soon: SMART Goals Setting due 2025-12-31 (HR)
+- Due soon: KPI Setting based on SMART due 2025-12-31 (HR)
+- Due soon: Performance Appraisal due 2025-12-31 (HR)
+- Due soon: Performance Improvement Plan due 2025-12-31 (HR)
+- Due soon: Service Excellence Training for Front-liner Staff due 2025-12-31 (HR)
+- Due soon: HR SOP due 2025-12-31 (HR)
+- Due soon: Exit Management SOP due 2025-12-31 (No Project)
+- Due soon: Define channels for Recruitment due 2025-12-31 (HR)
+- Due soon: Code of Conduct due 2025-11-30 (HR)
+- Due soon: Uniforms due 2025-10-31 (HR)
+- Due soon: Running Payroll due 2025-10-31 (HR)
+- Due soon: Live Attendance due 2025-10-31 (HR)
+- Due soon: Mandatory pre-opening training due 2025-10-31 (HR)
+- Due soon: Manage WLKP due  (HR)
+- Due soon: Create job descriptions - all positions due 2025-10-01 (General  Timeline)
+- Due soon: Employee Handbook due 2025-09-30 (HR)
+- Due soon: On Boarding Pack due 2025-09-30 (HR)
+- Due soon: Attendance & Leave Records due 2025-09-30 (No Project)
+- Due soon: Recruitment-Hire 20 qualified staff members due 2025-09-30 (HR)
+- Due soon: Onboarding new hires completed in their first 3 days due 2025-09-30 (HR)
+- Due soon: Employee Administration Forms due 2025-08-30 (HR)
+- Due soon: Recruitment Pipeline due  (HR)
+- Due soon: HRIS & Employee Database due 2025-08-04 (No Project)
+- Due soon: Manpower Regulation due  (HR)
+- Due soon: Team Bonding & Culture Building due  (HR)
+- Due soon: Employee Relations SOP due  (No Project)
+- Due soon: Time Management SOP due  (No Project)
+- Due soon: Leave Management SOP due  (No Project)
+- Due soon: Performance Evaluation SOP due  (No Project)
+- Due soon: Onboarding & Induction SOP due  (No Project)
+- Due soon: Recruitment SOP due  (No Project)
 
-**Asana Comments:**
-- On "Housekeeping Staff" (Recruitment): Candidate 1   Name : Putu Agus Aditya Age : 23 Live : Tabanan Current Company : Not working Last Position : Supervisor HK Last Salary : 6.5 million Availability : ASAP Current Process : Job Offer S...
-- On "Housekeeping Staff" (Recruitment): Candidate 2  Name : Dewa Gede Agung Dewangga Age : 26 Live : Pandak, Kediri Tabanan Current Company : Alex Villa (N5) Canggu Current Position : Senior HK Availability : 1 month notice Current Proce...
+**Email:**
+- (none)

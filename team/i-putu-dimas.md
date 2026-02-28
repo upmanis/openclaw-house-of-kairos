@@ -12,20 +12,12 @@
 
 ---
 
-
 ## Outstanding Asana Tasks
 _Last updated: 2026-02-28_
 
-**CKM kitchen & Bar**
-- [ ] Bar equipment - deposit paid but no agreement on the final equipment — no due date
-- [ ] Circle bar - never approved, will need to change equipment — no due date
+(none)
 
-**No Project**
-- [ ] Glasses — no due date
-- [ ] Napkins — no due date
-- [ ] Plates — no due date
-- [ ] Protein bars - Bumi / Kygo — no due date
-- [ ] Takeaway coffee cups — no due date
+
 
 
 ## Activity Log
@@ -267,34 +259,34 @@ _Last updated: 2026-02-28_
 
 ### 2026-02-28
 
-**Asana:**
-- Completed: Napkins (No Project)
-- Completed: Takeaway coffee cups (No Project)
-- Completed: Plates (No Project)
-- Completed: Glasses (No Project)
-- Completed: Cutlery (No Project)
-- Completed: Straws (No Project)
-- Completed: Protein bars - Bumi / Kygo (No Project)
-- Completed: Protein / supplement supplier (F&B)
-- Completed: SUPPLEMENT PARNERTSHIP (F&B)
-- Completed: Coffee beans (F&B)
-- Completed: Engraving on wine glasses (F&B)
-- Completed: Protein shake menu (F&B)
-- Completed: Cold storage supplier (F&B)
-- Completed: Bar equipment - deposit paid but no agreement on the final equipment (CKM kitchen & Bar)
-- Completed: Circle bar - never approved, will need to change equipment (CKM kitchen & Bar)
-- Due soon: Napkins due no due date (No Project)
-- Due soon: Takeaway coffee cups due no due date (No Project)
-- Due soon: Plates due no due date (No Project)
-- Due soon: Glasses due no due date (No Project)
-- Due soon: Protein bars - Bumi / Kygo due no due date (No Project)
-- Due soon: Bar equipment - deposit paid but no agreement on the final equipment due no due date (CKM kitchen & Bar)
-- Due soon: Circle bar - never approved, will need to change equipment due no due date (CKM kitchen & Bar)
+**WhatsApp:**
 
-**Asana Comments:**
-- On "Napkins" (No Project): for this update we looking for sample of linen material of this napkin will chasing the vendor of it and after discussion with ibu elina we will not put logo on it
-- On "Takeaway coffee cups" (No Project): take away cup we ordering couple of batch on take away cup to start with but in the future when we decide our take away cup will be especially with the logo on it.
-- On "Plates" (No Project): for this we already place an order for it waiting couple of sample to be finalizing
-- On "Glasses" (No Project): glass update on wine glass we order already and now we on state of finalizing glass that we going to use at the bar especially on shape and quantity for it
-- On "Cutlery" (No Project): Payment process on quote that propose by vendor and will continue the process to finance
-- On "Straws" (No Project): for this update we found and approve supplier for the straw and will process the payment true finance team
+#### DM — Kaspars — 13:30
+- **Kaspars:** give me al ist of all employees
+- **Bot:** 1. Alpin Brahmana — age 22 (born 2003-12-11) — joined 2025-09-01 — contract ends 2026-08-31   2. Andy S (Head Chef) — age 30 (born 1995-07-04) — joined 2025-11-24 — contract ends 2026-11-23   3. Annisa Dwi Pramuningrum — age 30 (born 1995-04-19) — joined 2025-11-24 — contract ends 2026-11-23   4. Bintang Cahya — age 24 (born 2001-11-02) — joined 2026-01-20 — contract ends 2027-01-19   5. Gede Andre Danayasa — age 23 (born 2002-07-18) — joined 2026-01-21 — contract ends 2027-01-20   6. Gints Valdmanis (Fitness Manager) — age 42 (born 1983-12-14) — joined 2025-09-01 — contract ends 2026-08-31   7. I Kadek Oka Utama — age 28 (born 1997-10-14) — joined 2026-02-02 — contract ends 2027-02-01   8. I Komang Ariawan — age 23 (born 2003-02-02) — joined 2025-09-01 — contract ends 2026-08-31   9. I Putu Agus Sudarmawan — age 33 (born 1992-08-27) — joined 2026-01-19 — contract ends 2027-01-18   10. I Putu Dimas (F&B Manager) — age 33 (born 1992-12-17) — joined 2025-09-01 — contract ends 2026-08-31   11. I Putu Vinda Bramasta — age 24 (born 2001-11-05) — joined 2026-01-19 — contract ends 2027-01-18   12. Kaspars Upmanis (Founder/Owner) — age 41 (born 1984-12-20) — joined 2024-12-01 — contract ends —   13. Kelvin De Araujo — age 20 (born 2005-12-26) — joined 2025-11-10 — contract ends 2026-11-09   14. Laila Karimah — age 26 (born 2000-02-01) — joined 2025-07-22 — contract ends —   15. Nicolas Castrillon (General Manager) — age 36 (born 1989-11-28) — joined 2024-08-01 — contract ends —   16. Nisya Nur Ayuna (HR Manager) — age 39 (born 1986-04-02) — joined 2025-05-01 — contract ends 2026-05-24   17. Sakinah Dava Erawan (Marketing Manager) — age 25 (born 2000-10-30) — joined 2025-04-07 — contract ends 2026-04-06   18. Yohanes Baptista — age 27 (born 1999-02-08) — joined 2025-01-28 — contract ends 2026-01-27
+
+#### DM — Kaspars — 13:30
+- **Kaspars:** give me al ist of all employees
+- **Bot:** 1. Alpin Brahmana — age 22 (born 2003-12-11) — joined 2025-09-01 — contract ends 2026-08-31   2. Andy S (Head Chef) — age 30 (born 1995-07-04) — joined 2025-11-24 — contract ends 2026-11-23   3. Annisa Dwi Pramuningrum — age 30 (born 1995-04-19) — joined 2025-11-24 — contract ends 2026-11-23   4. Bintang Cahya — age 24 (born 2001-11-02) — joined 2026-01-20 — contract ends 2027-01-19   5. Gede Andre Danayasa — age 23 (born 2002-07-18) — joined 2026-01-21 — contract ends 2027-01-20   6. Gints Valdmanis (Fitness Manager) — age 42 (born 1983-12-14) — joined 2025-09-01 — contract ends 2026-08-31   7. I Kadek Oka Utama — age 28 (born 1997-10-14) — joined 2026-02-02 — contract ends 2027-02-01   8. I Komang Ariawan — age 23 (born 2003-02-02) — joined 2025-09-01 — contract ends 2026-08-31   9. I Putu Agus Sudarmawan — age 33 (born 1992-08-27) — joined 2026-01-19 — contract ends 2027-01-18   10. I Putu Dimas (F&B Manager) — age 33 (born 1992-12-17) — joined 2025-09-01 — contract ends 2026-08-31   11. I Putu Vinda Bramasta — age 24 (born 2001-11-05) — joined 2026-01-19 — contract ends 2027-01-18   12. Kaspars Upmanis (Founder/Owner) — age 41 (born 1984-12-20) — joined 2024-12-01 — contract ends —   13. Kelvin De Araujo — age 20 (born 2005-12-26) — joined 2025-11-10 — contract ends 2026-11-09   14. Laila Karimah — age 26 (born 2000-02-01) — joined 2025-07-22 — contract ends —   15. Nicolas Castrillon (General Manager) — age 36 (born 1989-11-28) — joined 2024-08-01 — contract ends —   16. Nisya Nur Ayuna (HR Manager) — age 39 (born 1986-04-02) — joined 2025-05-01 — contract ends 2026-05-24   17. Sakinah Dava Erawan (Marketing Manager) — age 25 (born 2000-10-30) — joined 2025-04-07 — contract ends 2026-04-06   18. Yohanes Baptista — age 27 (born 1999-02-08) — joined 2025-01-28 — contract ends 2026-01-27
+
+## Emails (ops@houseofkairos.com)
+(none)
+
+## Asana Tasks Completed
+- **CONSTRUCTION CHECKLIST:** ROOFTOP: Floor waterproofing (Kaspars Upmanis)
+- **CONSTRUCTION CHECKLIST:** ROOFTOP: Boundary wall overhang (Kaspars Upmanis)
+
+## Notes
+- Summary generated at ~15:00 WITA (07:00 UTC), so this is a partial day snapshot.
+
+**Asana:**
+- Due soon: Glasses due  (No Project)
+- Due soon: Napkins due  (No Project)
+- Due soon: Takeaway coffee cups due  (No Project)
+- Due soon: Plates due  (No Project)
+- Due soon: Protein bars - Bumi / Kygo due  (No Project)
+- Due soon: Bar equipment - deposit paid but no agreement on the final equipment due  (CKM kitchen & Bar)
+- Due soon: Circle bar - never approved, will need to change equipment due  (CKM kitchen & Bar)
+
+**Email:**
+- (none)

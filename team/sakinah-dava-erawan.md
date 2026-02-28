@@ -12,58 +12,12 @@
 
 ---
 
-
 ## Outstanding Asana Tasks
 _Last updated: 2026-02-28_
 
-**Marketing**
-- [ ] Creative Direction Draft by Hendra — **overdue** 2025-05-13
-- [ ] Researching PR BOX supplier — **overdue** 2025-06-27
-- [ ] Website Planning — **overdue** 2025-07-12
-- [ ] Media Outreach — **overdue** 2025-07-19
-- [ ] Trademark registration — **overdue** 2025-07-25
-- [ ] Billboard outreach — **overdue** 2025-08-16
-- [ ] Third teaser — **overdue** 2025-08-16
-- [ ] Membership presale planning — **overdue** 2025-08-23
-- [ ] Influencer outreach for PR box sending — **overdue** 2025-08-25
-- [ ] Soft opening event planning — **overdue** 2025-09-19
-- [ ] Onboarding kit — **overdue** 2025-09-25
-- [ ] Build influencer list for soft opening — no due date
-- [ ] Embroidery on marketing merch — no due date
+(none)
 
-**Marketing - Merch**
-- [ ] Business card — no due date
-- [ ] Locker Card — no due date
-- [ ] PR Box — no due date
-- [ ] Socks — no due date
 
-**Marketing - Pre-sales campaign**
-- [ ] Design waitlist email — **overdue** 2026-02-11
-- [ ] prepare facilities artwork — **overdue** 2026-02-12
-- [ ] prepare membership benefit artwork — **overdue** 2026-02-12
-- [ ] Prepare presale is now open artwork — **overdue** 2026-02-12
-- [ ] Prepare tour invitation artwork — **overdue** 2026-02-12
-- [ ] Gym rules — **overdue** 2026-02-19
-- [ ] Locker rules — **overdue** 2026-02-19
-- [ ] Menu — **overdue** 2026-02-20
-- [ ] Launch 14 days count down reel — due 2026-03-01
-- [ ] send 1st wave email — due 2026-03-01
-- [ ] send 2nd wave email — due 2026-03-06
-- [ ] Launch 7 days count down reel — due 2026-03-07
-- [ ] send 3rd wave email — due 2026-03-10
-- [ ] Launch tomorrow count down reel — due 2026-03-14
-- [ ] Launch has opened  reel — due 2026-03-15
-- [ ] WEBSITE LIVE — due 2026-03-15
-- [ ] Shooting facilities walk through reel — due 2026-03-18
-- [ ] Shooting pre-sales has sold out — due 2026-03-18
-- [ ] Class Schedule artwork — no due date
-- [ ] Coach  Artwork — no due date
-- [ ] Hot Tub Rules — no due date
-- [ ] Ice bath rules — no due date
-- [ ] Pricing — no due date
-- [ ] Sauna rules — no due date
-- [ ] Steam room rules — no due date
-- [ ] Studio Rules — no due date
 
 
 ## Activity Log
@@ -482,34 +436,70 @@ _Last updated: 2026-02-28_
 
 ### 2026-02-28
 
+**WhatsApp:**
+
+#### DM — Kaspars — 13:30
+- **Kaspars:** give me al ist of all employees
+- **Bot:** 1. Alpin Brahmana — age 22 (born 2003-12-11) — joined 2025-09-01 — contract ends 2026-08-31   2. Andy S (Head Chef) — age 30 (born 1995-07-04) — joined 2025-11-24 — contract ends 2026-11-23   3. Annisa Dwi Pramuningrum — age 30 (born 1995-04-19) — joined 2025-11-24 — contract ends 2026-11-23   4. Bintang Cahya — age 24 (born 2001-11-02) — joined 2026-01-20 — contract ends 2027-01-19   5. Gede Andre Danayasa — age 23 (born 2002-07-18) — joined 2026-01-21 — contract ends 2027-01-20   6. Gints Valdmanis (Fitness Manager) — age 42 (born 1983-12-14) — joined 2025-09-01 — contract ends 2026-08-31   7. I Kadek Oka Utama — age 28 (born 1997-10-14) — joined 2026-02-02 — contract ends 2027-02-01   8. I Komang Ariawan — age 23 (born 2003-02-02) — joined 2025-09-01 — contract ends 2026-08-31   9. I Putu Agus Sudarmawan — age 33 (born 1992-08-27) — joined 2026-01-19 — contract ends 2027-01-18   10. I Putu Dimas (F&B Manager) — age 33 (born 1992-12-17) — joined 2025-09-01 — contract ends 2026-08-31   11. I Putu Vinda Bramasta — age 24 (born 2001-11-05) — joined 2026-01-19 — contract ends 2027-01-18   12. Kaspars Upmanis (Founder/Owner) — age 41 (born 1984-12-20) — joined 2024-12-01 — contract ends —   13. Kelvin De Araujo — age 20 (born 2005-12-26) — joined 2025-11-10 — contract ends 2026-11-09   14. Laila Karimah — age 26 (born 2000-02-01) — joined 2025-07-22 — contract ends —   15. Nicolas Castrillon (General Manager) — age 36 (born 1989-11-28) — joined 2024-08-01 — contract ends —   16. Nisya Nur Ayuna (HR Manager) — age 39 (born 1986-04-02) — joined 2025-05-01 — contract ends 2026-05-24   17. Sakinah Dava Erawan (Marketing Manager) — age 25 (born 2000-10-30) — joined 2025-04-07 — contract ends 2026-04-06   18. Yohanes Baptista — age 27 (born 1999-02-08) — joined 2025-01-28 — contract ends 2026-01-27
+
+#### DM — Kaspars — 13:30
+- **Kaspars:** give me al ist of all employees
+- **Bot:** 1. Alpin Brahmana — age 22 (born 2003-12-11) — joined 2025-09-01 — contract ends 2026-08-31   2. Andy S (Head Chef) — age 30 (born 1995-07-04) — joined 2025-11-24 — contract ends 2026-11-23   3. Annisa Dwi Pramuningrum — age 30 (born 1995-04-19) — joined 2025-11-24 — contract ends 2026-11-23   4. Bintang Cahya — age 24 (born 2001-11-02) — joined 2026-01-20 — contract ends 2027-01-19   5. Gede Andre Danayasa — age 23 (born 2002-07-18) — joined 2026-01-21 — contract ends 2027-01-20   6. Gints Valdmanis (Fitness Manager) — age 42 (born 1983-12-14) — joined 2025-09-01 — contract ends 2026-08-31   7. I Kadek Oka Utama — age 28 (born 1997-10-14) — joined 2026-02-02 — contract ends 2027-02-01   8. I Komang Ariawan — age 23 (born 2003-02-02) — joined 2025-09-01 — contract ends 2026-08-31   9. I Putu Agus Sudarmawan — age 33 (born 1992-08-27) — joined 2026-01-19 — contract ends 2027-01-18   10. I Putu Dimas (F&B Manager) — age 33 (born 1992-12-17) — joined 2025-09-01 — contract ends 2026-08-31   11. I Putu Vinda Bramasta — age 24 (born 2001-11-05) — joined 2026-01-19 — contract ends 2027-01-18   12. Kaspars Upmanis (Founder/Owner) — age 41 (born 1984-12-20) — joined 2024-12-01 — contract ends —   13. Kelvin De Araujo — age 20 (born 2005-12-26) — joined 2025-11-10 — contract ends 2026-11-09   14. Laila Karimah — age 26 (born 2000-02-01) — joined 2025-07-22 — contract ends —   15. Nicolas Castrillon (General Manager) — age 36 (born 1989-11-28) — joined 2024-08-01 — contract ends —   16. Nisya Nur Ayuna (HR Manager) — age 39 (born 1986-04-02) — joined 2025-05-01 — contract ends 2026-05-24   17. Sakinah Dava Erawan (Marketing Manager) — age 25 (born 2000-10-30) — joined 2025-04-07 — contract ends 2026-04-06   18. Yohanes Baptista — age 27 (born 1999-02-08) — joined 2025-01-28 — contract ends 2026-01-27
+
+## Emails (ops@houseofkairos.com)
+(none)
+
+## Asana Tasks Completed
+- **CONSTRUCTION CHECKLIST:** ROOFTOP: Floor waterproofing (Kaspars Upmanis)
+- **CONSTRUCTION CHECKLIST:** ROOFTOP: Boundary wall overhang (Kaspars Upmanis)
+
+## Notes
+- Summary generated at ~15:00 WITA (07:00 UTC), so this is a partial day snapshot.
+
 **Asana:**
-- Completed: Build influencer list for soft opening (Marketing)
-- Completed: WEBSITE LIVE (Marketing - Pre-sales campaign)
-- Completed: Menu (Marketing - Pre-sales campaign)
-- Completed: Gym rules (Marketing - Pre-sales campaign)
-- Completed: Locker rules (Marketing - Pre-sales campaign)
-- Completed: Launch has opened  reel (Marketing - Pre-sales campaign)
-- Completed: Shooting pre-sales has opened (Marketing - Pre-sales campaign)
-- Completed: Shooting count down reel (Marketing - Pre-sales campaign)
-- Completed: Socks (Marketing - Merch)
-- Completed: prepare facilities artwork (Marketing - Pre-sales campaign)
-- Completed: Prepare tour invitation artwork (Marketing - Pre-sales campaign)
-- Completed: prepare membership benefit artwork (Marketing - Pre-sales campaign)
-- Completed: Prepare presale is now open artwork (Marketing - Pre-sales campaign)
-- Completed: Design waitlist email (Marketing - Pre-sales campaign)
-- Completed: Develop campaign planning (Marketing - Pre-sales campaign)
-- Due soon: Build influencer list for soft opening due no due date (Marketing)
+- Due soon: Build influencer list for soft opening due  (Marketing)
 - Due soon: WEBSITE LIVE due 2026-03-15 (Marketing - Pre-sales campaign)
 - Due soon: Menu due 2026-02-20 (Marketing - Pre-sales campaign)
 - Due soon: Gym rules due 2026-02-19 (Marketing - Pre-sales campaign)
 - Due soon: Locker rules due 2026-02-19 (Marketing - Pre-sales campaign)
 - Due soon: Launch has opened  reel due 2026-03-15 (Marketing - Pre-sales campaign)
-- Due soon: Socks due no due date (Marketing - Merch)
+- Due soon: Socks due  (Marketing - Merch)
 - Due soon: prepare facilities artwork due 2026-02-12 (Marketing - Pre-sales campaign)
 - Due soon: Prepare tour invitation artwork due 2026-02-12 (Marketing - Pre-sales campaign)
 - Due soon: prepare membership benefit artwork due 2026-02-12 (Marketing - Pre-sales campaign)
 - Due soon: Prepare presale is now open artwork due 2026-02-12 (Marketing - Pre-sales campaign)
 - Due soon: Design waitlist email due 2026-02-11 (Marketing - Pre-sales campaign)
-- Due soon: Coach  Artwork due no due date (Marketing - Pre-sales campaign)
+- Due soon: Coach  Artwork due  (Marketing - Pre-sales campaign)
 - Due soon: Shooting pre-sales has sold out due 2026-03-18 (Marketing - Pre-sales campaign)
-- Due soon: Class Schedule artwork due no due date (Marketing - Pre-sales campaign)
+- Due soon: Class Schedule artwork due  (Marketing - Pre-sales campaign)
+- Due soon: Pricing due  (Marketing - Pre-sales campaign)
+- Due soon: Studio Rules due  (Marketing - Pre-sales campaign)
+- Due soon: Hot Tub Rules due  (Marketing - Pre-sales campaign)
+- Due soon: Ice bath rules due  (Marketing - Pre-sales campaign)
+- Due soon: Steam room rules due  (Marketing - Pre-sales campaign)
+- Due soon: Sauna rules due  (Marketing - Pre-sales campaign)
+- Due soon: Shooting facilities walk through reel due 2026-03-18 (Marketing - Pre-sales campaign)
+- Due soon: Launch tomorrow count down reel due 2026-03-14 (Marketing - Pre-sales campaign)
+- Due soon: Launch 7 days count down reel due 2026-03-07 (Marketing - Pre-sales campaign)
+- Due soon: Launch 14 days count down reel due 2026-03-01 (Marketing - Pre-sales campaign)
+- Due soon: send 2nd wave email due 2026-03-06 (Marketing - Pre-sales campaign)
+- Due soon: send 1st wave email due 2026-03-01 (Marketing - Pre-sales campaign)
+- Due soon: send 3rd wave email due 2026-03-10 (Marketing - Pre-sales campaign)
+- Due soon: Locker Card due  (Marketing - Merch)
+- Due soon: PR Box due  (Marketing - Merch)
+- Due soon: Business card due  (Marketing - Merch)
+- Due soon: Membership presale planning due 2025-08-23 (Marketing)
+- Due soon: Creative Direction Draft by Hendra due 2025-05-13 (Marketing)
+- Due soon: Soft opening event planning due 2025-09-19 (Marketing)
+- Due soon: Onboarding kit due 2025-09-25 (Marketing)
+- Due soon: Influencer outreach for PR box sending due 2025-08-25 (Marketing)
+- Due soon: Third teaser due 2025-08-16 (Marketing)
+- Due soon: Media Outreach due 2025-07-19 (Marketing)
+- Due soon: Embroidery on marketing merch due  (Marketing)
+- Due soon: Billboard outreach due 2025-08-16 (Marketing)
+- Due soon: Website Planning due 2025-07-12 (Marketing)
+- Due soon: Trademark registration due 2025-07-25 (Marketing)
+- Due soon: Researching PR BOX supplier due 2025-06-27 (Marketing)
+
+**Email:**
+- (none)

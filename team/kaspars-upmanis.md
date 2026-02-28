@@ -11,117 +11,12 @@
 
 ---
 
-
 ## Outstanding Asana Tasks
 _Last updated: 2026-02-28_
 
-**Architecture**
-- [ ] GF - Co-working - built-in furniture — **overdue** 2026-02-25
-- [ ] GF - Reception - merch area — **overdue** 2026-02-25
-- [ ] GF - toilets — **overdue** 2026-02-25
-- [ ] GF - Restaurant DJ station — due 2026-03-04
-- [ ] Rooftop - landing area tiles — due 2026-03-04
-- [ ] Rooftop - drinking station — due 2026-03-11
-- [ ] Rooftop - studio mirrors & walls — due 2026-03-11
-- [ ] Rooftop - outdoor gym mirrors/wall — due 2026-03-18
-- [ ] GF - Co-working - call booths — due 2026-04-08
-- [ ] GF - Ceiling finish — no due date
+(none)
 
-**CONSTRUCTION CHECKLIST**
-- [ ] GF: Ceiling Finish (Gypsum+Paint) — **overdue** 2026-02-15
-- [ ] GF: Ceiling Finish (Gypsum+Paint) — **overdue** 2026-02-15
-- [ ] LGF: Steam room - steamer seat build — **overdue** 2026-02-23
-- [ ] GYM: Wood base for squat racks — **overdue** 2026-02-25
-- [ ] LGF: MEP ventilation — **overdue** 2026-02-25
-- [ ] ROOFTOP: Floor Leveling — **overdue** 2026-02-26
-- [ ] GF: Entrance door installation 🚪 — **overdue** 2026-02-27
-- [ ] GF: Kitchen - add stainless steel on top of wood cover — **overdue** 2026-02-27
-- [ ] GYM: Mirrors — **overdue** 2026-02-27
-- [ ] LGF: Kitchen - SikaBoom gap filling — **overdue** 2026-02-27
-- [ ] LGF: Kitchen - window fixing — **overdue** 2026-02-27
-- [ ] LGF: Pool - Water test & defect repair — **overdue** 2026-02-27
-- [ ] ROOFTOP: Cleaner station - drain — **overdue** 2026-02-27
-- [ ] ROOFTOP: Cleaner station - water — **overdue** 2026-02-27
-- [ ] ROOFTOP: staircase curve ceiling structure — **overdue** 2026-02-27
-- [ ] GF: Choose ceiling finish — due 2026-02-28
-- [ ] LGF: Kitchen gutter — due 2026-02-28
-- [ ] LGF: Steam (Ceiling + Body + Floor + MEP) — due 2026-02-28
-- [ ] ROOFTOP: Drinking station drains — due 2026-02-28
-- [ ] ROOFTOP: Studio Wall Finish (Texture+Paint) — due 2026-02-28
-- [ ] GF: AC tray in office room — due 2026-03-02
-- [ ] GF: Wall Finish (wood cladding) — due 2026-03-02
-- [ ] LGF: Loungers - deliver to site — due 2026-03-02
-- [ ] ROOFTOP: Windows — due 2026-03-02
-- [ ] GF: Library - ceiling lamp — due 2026-03-03
-- [ ] GF: Library - Modulo k.id shelving units for Library — due 2026-03-03
-- [ ] GF: Library - table — due 2026-03-03
-- [ ] GYM: Ceiling diffuser light (LED) — due 2026-03-04
-- [ ] GYM: LED cable remote — due 2026-03-04
-- [ ] GYM: Reception shelving furniture — due 2026-03-04
-- [ ] LGF: Hot water installation — due 2026-03-05
-- [ ] ROOFTOP: Boundary Wall Finish (Paint) — due 2026-03-05
-- [ ] ROOFTOP: Floor Inside Finish (parquet) — due 2026-03-05
-- [ ] LGF: Pool bar - build structure — due 2026-03-06
-- [ ] ROOFTOP: Black grass install — due 2026-03-06
-- [ ] LGF: Icebath (Structure + MEP + Finishing) — due 2026-03-07
-- [ ] LGF: Pool - testing comissioning — due 2026-03-08
-- [ ] ROOFTOP: Floor Outdoor Finishing (grass) — due 2026-03-08
-- [ ] GF: PLN second cable — due 2026-03-09
-- [ ] GYM: Install big ceiling lamps — due 2026-03-10
-- [ ] LGF: Sauna - install seating and heaters — due 2026-03-10
-- [ ] ROOFTOP: Ceiling Finish (Install+Paint) — due 2026-03-10
-- [ ] ROOFTOP: Skirting on boundary wall — due 2026-03-10
-- [ ] GYM: Reception shelving marble (drinking station) — due 2026-03-11
-- [ ] ROOFTOP: 5cm floor gap for windows, 16cm wide — due 2026-03-11
-- [ ] GF: Cardio planter/storage — due 2026-03-12
-- [ ] GYM: facade waterproofing — due 2026-03-12
-- [ ] LGF: Changing rooms - vanity — due 2026-03-12
-- [ ] LGF: Pool - install pool tiles — due 2026-03-12
-- [ ] LGF: Pool area ujung padang marble — due 2026-03-13
-- [ ] LGF: Jacuzzi (Structure + MEP + Finishing) — due 2026-03-14
-- [ ] LGF: MEP Pool + Pooldeck (Accessories) — due 2026-03-14
-- [ ] GF: Kitchen - desk next to dumb waiter — due 2026-03-15
-- [ ] GF: Kitchen - dumb waiter cladding — due 2026-03-15
-- [ ] GF: OUTDOOR: Parking (Structure + Finishing) — due 2026-03-15
-- [ ] LGF: MDP & SDP panels — due 2026-03-16
-- [ ] LGF: Wall Finish (Marble) — due 2026-03-21
-- [ ] LGF: Changing rooms - toilet doors — due 2026-03-25
-- [ ] GF: Library doors / windows — due 2026-04-01
-- [ ] LGF: Changing rooms - middle seating console — due 2026-04-01
-- [ ] LGF: Umbrellas for pool area — due 2026-04-01
-- [ ] GF: Staff stair railing — due 2026-04-15
-- [ ] DESIGN STAGE - GF: Toilets - doors — no due date
-- [ ] GF: Cardio area storage — no due date
-- [ ] GF: Co-working desks & chairs design — no due date
-- [ ] GF: Curtains — no due date
-- [ ] GF: Office - lights — no due date
-- [ ] GF: Reception - iMac — no due date
-- [ ] GF: Reception desk steel cladding — no due date
-- [ ] GF: Restaurant seating — no due date
-- [ ] GYM: Curtains for gym floor — no due date
-- [ ] GYM: LED lights in stairs — no due date
-- [ ] LGF: Changing rooms - custom metal lamps — no due date
-- [ ] LGF: Changing rooms - install sanitary — no due date
-- [ ] LGF: Changing rooms - lockers — no due date
-- [ ] LGF: Changing rooms - loose chairs — no due date
-- [ ] LGF: Changing rooms - mirrors — no due date
-- [ ] LGF: Changing rooms - showers — no due date
-- [ ] LGF: Kitchen - move AC casette unit — no due date
-- [ ] LGF: Laundry - dryer — no due date
-- [ ] LGF: Laundry - exhaust to outside — no due date
-- [ ] LGF: Laundry - iron & ironing board — no due date
-- [ ] LGF: Laundry - washing machine — no due date
-- [ ] LGF: Staff female changing room > water faucet, LED cable — no due date
-- [ ] LGF: Steam room - install speaker — no due date
-- [ ] LGF: Steam room - install tiles — no due date
-- [ ] ROOFTOP: Outdoor gym - ceiling fans — no due date
 
-**F&B**
-- [ ] Menu design — no due date
-- [ ] Towels — no due date
-
-**Operations**
-- [ ] Team Uniform: Plan, Create, Produce and Distribute — no due date
 
 
 ## Activity Log
@@ -1121,51 +1016,153 @@ _Last updated: 2026-02-28_
 
 ### 2026-02-28
 
+**WhatsApp:**
+
+#### HoK | Front Office / Reception — 09:44 (WITA)
+_(Recovered from gateway log — these messages were received before the agent was restarted)_
+- **Kaspars Upmanis:** thanks
+- **Kaspars Upmanis:** Done
+- **Kaspars Upmanis:** card added, plan is Standard now
+
+#### HoK | Front Office / Reception — 13:23 (WITA)
+- **Kaspars Upmanis:** I thought we do only 3 per hour?
+- **Your response:** stayed silent
+
+#### DM — Kaspars — 05:23
+- **Kaspars:** [Sat 2026-02-28 05:23 UTC] test: confirm agent is processing messages
+- **Topics discussed:** Connectivity / processing test.
+- **Decisions/action items:** None.
+- **Your response:** Confirmed receipt.
+
+#### DM — Kaspars — 05:22
+- **Kaspars:** give me al ist of all employees
+- **Topics discussed:** Employee directory.
+- **Decisions/action items:** Pull full employee list via team.py.
+- **Your response:** Sent employee list.
+
+#### DM — Kaspars — 13:00
+- **Kaspars:** [Sat 2026-02-28 05:23 UTC] test: confirm agent is processing messages
+- **Bot:** Confirmed — I’m processing messages.
+
+#### DM — Kaspars — 13:30
+- **Kaspars:** give me al ist of all employees
+- **Bot:** 1. Alpin Brahmana — age 22 (born 2003-12-11) — joined 2025-09-01 — contract ends 2026-08-31   2. Andy S (Head Chef) — age 30 (born 1995-07-04) — joined 2025-11-24 — contract ends 2026-11-23   3. Annisa Dwi Pramuningrum — age 30 (born 1995-04-19) — joined 2025-11-24 — contract ends 2026-11-23   4. Bintang Cahya — age 24 (born 2001-11-02) — joined 2026-01-20 — contract ends 2027-01-19   5. Gede Andre Danayasa — age 23 (born 2002-07-18) — joined 2026-01-21 — contract ends 2027-01-20   6. Gints Valdmanis (Fitness Manager) — age 42 (born 1983-12-14) — joined 2025-09-01 — contract ends 2026-08-31   7. I Kadek Oka Utama — age 28 (born 1997-10-14) — joined 2026-02-02 — contract ends 2027-02-01   8. I Komang Ariawan — age 23 (born 2003-02-02) — joined 2025-09-01 — contract ends 2026-08-31   9. I Putu Agus Sudarmawan — age 33 (born 1992-08-27) — joined 2026-01-19 — contract ends 2027-01-18   10. I Putu Dimas (F&B Manager) — age 33 (born 1992-12-17) — joined 2025-09-01 — contract ends 2026-08-31   11. I Putu Vinda Bramasta — age 24 (born 2001-11-05) — joined 2026-01-19 — contract ends 2027-01-18   12. Kaspars Upmanis (Founder/Owner) — age 41 (born 1984-12-20) — joined 2024-12-01 — contract ends —   13. Kelvin De Araujo — age 20 (born 2005-12-26) — joined 2025-11-10 — contract ends 2026-11-09   14. Laila Karimah — age 26 (born 2000-02-01) — joined 2025-07-22 — contract ends —   15. Nicolas Castrillon (General Manager) — age 36 (born 1989-11-28) — joined 2024-08-01 — contract ends —   16. Nisya Nur Ayuna (HR Manager) — age 39 (born 1986-04-02) — joined 2025-05-01 — contract ends 2026-05-24   17. Sakinah Dava Erawan (Marketing Manager) — age 25 (born 2000-10-30) — joined 2025-04-07 — contract ends 2026-04-06   18. Yohanes Baptista — age 27 (born 1999-02-08) — joined 2025-01-28 — contract ends 2026-01-27
+
+#### DM — Kaspars — 13:30
+- **Kaspars:** give me al ist of all employees
+- **Bot:** 1. Alpin Brahmana — age 22 (born 2003-12-11) — joined 2025-09-01 — contract ends 2026-08-31   2. Andy S (Head Chef) — age 30 (born 1995-07-04) — joined 2025-11-24 — contract ends 2026-11-23   3. Annisa Dwi Pramuningrum — age 30 (born 1995-04-19) — joined 2025-11-24 — contract ends 2026-11-23   4. Bintang Cahya — age 24 (born 2001-11-02) — joined 2026-01-20 — contract ends 2027-01-19   5. Gede Andre Danayasa — age 23 (born 2002-07-18) — joined 2026-01-21 — contract ends 2027-01-20   6. Gints Valdmanis (Fitness Manager) — age 42 (born 1983-12-14) — joined 2025-09-01 — contract ends 2026-08-31   7. I Kadek Oka Utama — age 28 (born 1997-10-14) — joined 2026-02-02 — contract ends 2027-02-01   8. I Komang Ariawan — age 23 (born 2003-02-02) — joined 2025-09-01 — contract ends 2026-08-31   9. I Putu Agus Sudarmawan — age 33 (born 1992-08-27) — joined 2026-01-19 — contract ends 2027-01-18   10. I Putu Dimas (F&B Manager) — age 33 (born 1992-12-17) — joined 2025-09-01 — contract ends 2026-08-31   11. I Putu Vinda Bramasta — age 24 (born 2001-11-05) — joined 2026-01-19 — contract ends 2027-01-18   12. Kaspars Upmanis (Founder/Owner) — age 41 (born 1984-12-20) — joined 2024-12-01 — contract ends —   13. Kelvin De Araujo — age 20 (born 2005-12-26) — joined 2025-11-10 — contract ends 2026-11-09   14. Laila Karimah — age 26 (born 2000-02-01) — joined 2025-07-22 — contract ends —   15. Nicolas Castrillon (General Manager) — age 36 (born 1989-11-28) — joined 2024-08-01 — contract ends —   16. Nisya Nur Ayuna (HR Manager) — age 39 (born 1986-04-02) — joined 2025-05-01 — contract ends 2026-05-24   17. Sakinah Dava Erawan (Marketing Manager) — age 25 (born 2000-10-30) — joined 2025-04-07 — contract ends 2026-04-06   18. Yohanes Baptista — age 27 (born 1999-02-08) — joined 2025-01-28 — contract ends 2026-01-27
+
+## Emails (ops@houseofkairos.com)
+(none)
+
+## Asana Tasks Completed
+- **CONSTRUCTION CHECKLIST:** ROOFTOP: Floor waterproofing (Kaspars Upmanis)
+- **CONSTRUCTION CHECKLIST:** ROOFTOP: Boundary wall overhang (Kaspars Upmanis)
+
+## Notes
+- Summary generated at ~15:00 WITA (07:00 UTC), so this is a partial day snapshot.
+
 **Asana:**
-- Completed: GF: OUTDOOR: Parking (Structure + Finishing) (CONSTRUCTION CHECKLIST)
-- Completed: LGF: Laundry - exhaust to outside (CONSTRUCTION CHECKLIST)
-- Completed: LGF: Pool - install pool tiles (CONSTRUCTION CHECKLIST)
-- Completed: LGF: Pool area ujung padang marble (CONSTRUCTION CHECKLIST)
-- Completed: LGF: Wall Finish (Marble) (CONSTRUCTION CHECKLIST)
-- Completed: LGF: Steam (Ceiling + Body + Floor + MEP) (CONSTRUCTION CHECKLIST)
-- Completed: LGF: Jacuzzi (Structure + MEP + Finishing) (CONSTRUCTION CHECKLIST)
-- Completed: LGF: Icebath (Structure + MEP + Finishing) (CONSTRUCTION CHECKLIST)
-- Completed: GF: Cardio planter/storage (CONSTRUCTION CHECKLIST)
-- Completed: LGF: Changing rooms - middle seating console (CONSTRUCTION CHECKLIST)
-- Completed: LGF: Changing rooms - lockers (CONSTRUCTION CHECKLIST)
-- Completed: GYM: Mirrors (CONSTRUCTION CHECKLIST)
-- Completed: GYM: Install big ceiling lamps (CONSTRUCTION CHECKLIST)
-- Completed: GYM: Reception shelving furniture (CONSTRUCTION CHECKLIST)
-- Completed: ROOFTOP: Boundary wall overhang (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: all drain pipe holes need to be closed due  (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Entrance door installation 🚪 due 2026-03-10 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Steam room - steamer seat build due 2026-02-23 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Drinking station drains due 2026-02-28 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Steam (Ceiling + Body + Floor + MEP) due 2026-02-28 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: MEP (Accessories) due 2026-02-28 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: MEP (Accessories) due 2026-02-28 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Studio Wall Finish (Texture+Paint) due 2026-02-28 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen gutter due 2026-02-28 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Choose ceiling finish due 2026-02-28 (CONSTRUCTION CHECKLIST)
 - Due soon: GF: OUTDOOR: Parking (Structure + Finishing) due 2026-03-15 (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: Laundry - exhaust to outside due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Laundry - exhaust to outside due  (CONSTRUCTION CHECKLIST)
 - Due soon: LGF: Pool - install pool tiles due 2026-03-12 (CONSTRUCTION CHECKLIST)
 - Due soon: LGF: Pool area ujung padang marble due 2026-03-13 (CONSTRUCTION CHECKLIST)
 - Due soon: LGF: Wall Finish (Marble) due 2026-03-21 (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: Steam (Ceiling + Body + Floor + MEP) due 2026-02-28 (CONSTRUCTION CHECKLIST)
 - Due soon: LGF: Jacuzzi (Structure + MEP + Finishing) due 2026-03-14 (CONSTRUCTION CHECKLIST)
 - Due soon: LGF: Icebath (Structure + MEP + Finishing) due 2026-03-07 (CONSTRUCTION CHECKLIST)
 - Due soon: GF: Cardio planter/storage due 2026-03-12 (CONSTRUCTION CHECKLIST)
 - Due soon: LGF: Changing rooms - middle seating console due 2026-04-01 (CONSTRUCTION CHECKLIST)
-- Due soon: LGF: Changing rooms - lockers due no due date (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Changing rooms - lockers due  (CONSTRUCTION CHECKLIST)
 - Due soon: GYM: Mirrors due 2026-02-27 (CONSTRUCTION CHECKLIST)
 - Due soon: GYM: Install big ceiling lamps due 2026-03-10 (CONSTRUCTION CHECKLIST)
 - Due soon: GYM: Reception shelving furniture due 2026-03-04 (CONSTRUCTION CHECKLIST)
 - Due soon: ROOFTOP: Floor Leveling due 2026-02-26 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: 5cm floor gap for windows, 16cm wide due 2026-03-11 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Ceiling Finish (Install+Paint) due 2026-03-10 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Cleaner station - water due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Cleaner station - drain due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: staircase curve ceiling structure due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: GF - Ceiling finish due  (Architecture)
+- Due soon: GF: Restaurant seating due  (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Changing rooms - vanity due 2026-03-12 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library doors / windows due 2026-04-01 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: AC tray in office room due 2026-03-02 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Wall Finish (wood cladding) due 2026-03-02 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Kitchen - add stainless steel on top of wood cover due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Kitchen - dumb waiter cladding due 2026-03-15 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Pool - Water test & defect repair due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - SikaBoom gap filling due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - window fixing due 2026-02-27 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: facade waterproofing due 2026-03-12 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Floor Inside Finish (parquet) due 2026-03-05 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Floor Outdoor Finishing (grass) due 2026-03-08 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Wood base for squat racks due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Hot water installation due 2026-03-05 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: MEP ventilation due 2026-02-25 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Pool bar - build structure due 2026-03-06 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: PLN second cable due 2026-03-09 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Ceiling Finish (Gypsum+Paint) due 2026-02-15 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Skirting on boundary wall due 2026-03-10 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Changing rooms - toilet doors due 2026-03-25 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Cardio area storage due  (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Kitchen - desk next to dumb waiter due 2026-03-15 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Windows due 2026-03-02 (CONSTRUCTION CHECKLIST)
+- Due soon: GF - Co-working - built-in furniture due 2026-02-25 (Architecture)
+- Due soon: GF - toilets due 2026-02-25 (Architecture)
+- Due soon: GF - Reception - merch area due 2026-02-25 (Architecture)
+- Due soon: LGF: MDP & SDP panels due 2026-03-16 (CONSTRUCTION CHECKLIST)
+- Due soon: DESIGN STAGE - GF: Toilets - doors due  (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Staff stair railing due 2026-04-15 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Sauna - install seating and heaters due 2026-03-10 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Reception shelving marble (drinking station) due 2026-03-11 (CONSTRUCTION CHECKLIST)
+- Due soon: Towels due  (F&B)
+- Due soon: Menu design due  (F&B)
+- Due soon: GF - Co-working - call booths due 2026-04-08 (Architecture)
+- Due soon: GYM: LED lights in stairs due  (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Curtains for gym floor due  (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - Modulo k.id shelving units for Library due 2026-03-03 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - ceiling lamp due 2026-03-03 (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Library - table due 2026-03-03 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Umbrellas for pool area due 2026-04-01 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Outdoor gym - ceiling fans due  (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Boundary Wall Finish (Paint) due 2026-03-05 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: LED cable remote due 2026-03-04 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Pool - testing comissioning due 2026-03-08 (CONSTRUCTION CHECKLIST)
+- Due soon: ROOFTOP: Black grass install due 2026-03-06 (CONSTRUCTION CHECKLIST)
+- Due soon: GYM: Ceiling diffuser light (LED) due 2026-03-04 (CONSTRUCTION CHECKLIST)
+- Due soon: Rooftop - drinking station due 2026-03-11 (Architecture)
+- Due soon: GF - Restaurant DJ station due 2026-03-04 (Architecture)
+- Due soon: Rooftop - landing area tiles due 2026-03-04 (Architecture)
+- Due soon: Rooftop - studio mirrors & walls due 2026-03-11 (Architecture)
+- Due soon: Rooftop - outdoor gym mirrors/wall due 2026-03-18 (Architecture)
+- Due soon: Team Uniform: Plan, Create, Produce and Distribute due  (Operations)
+- Due soon: GF: Ceiling Finish (Gypsum+Paint) due 2026-02-15 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Laundry - washing machine due  (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Laundry - iron & ironing board due  (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: MEP Pool + Pooldeck (Accessories) due 2026-03-14 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Staff female changing room > water faucet, LED cable due  (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Steam room - install speaker due  (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Steam room - install tiles due  (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Loungers - deliver to site due 2026-03-02 (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Changing rooms - showers due  (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Changing rooms - loose chairs due  (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Changing rooms - custom metal lamps due  (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Changing rooms - install sanitary due  (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Changing rooms - mirrors due  (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Laundry - dryer due  (CONSTRUCTION CHECKLIST)
+- Due soon: LGF: Kitchen - move AC casette unit due  (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Curtains due  (CONSTRUCTION CHECKLIST)
+- Due soon: GF: Co-working desks & chairs design due  (CONSTRUCTION CHECKLIST)
 
-**Asana Comments:**
-- On "LGF: Pool - install pool tiles" (CONSTRUCTION CHECKLIST): Water test on Sunday, 1st May.
-- On "LGF: Pool area ujung padang marble" (CONSTRUCTION CHECKLIST): Starting tomorrow, 28th Feb.   Deadline (as per last provided timeline by Cakrawala): 13th March for full pool deck completion.
-- On "LGF: Wall Finish (Marble)" (CONSTRUCTION CHECKLIST): Good progress on this.
-- On "LGF: Steam (Ceiling + Body + Floor + MEP)" (CONSTRUCTION CHECKLIST): No progress..... Is there any plan to finish this project?
-- On "LGF: Steam (Ceiling + Body + Floor + MEP)" (CONSTRUCTION CHECKLIST): No progress for the past 5 days.   Deadline tomorrow for Steam room to be finished. Will it be achieved?
-- On "LGF: Icebath (Structure + MEP + Finishing)" (CONSTRUCTION CHECKLIST): In 9 days you have deadline for ice bath, including finishing.  I haven't seen any progress on it in the past 3 days. ..
-- On "GF: Cardio planter/storage" (CONSTRUCTION CHECKLIST): Smooth plaster done tomorrow.
-- On "LGF: Changing rooms - middle seating console" (CONSTRUCTION CHECKLIST): Ready to install
-- On "LGF: Changing rooms - lockers" (CONSTRUCTION CHECKLIST): Ready to install them on site
-- On "GYM: Mirrors" (CONSTRUCTION CHECKLIST): Storage room ready 100%
-- On "GYM: Mirrors" (CONSTRUCTION CHECKLIST): Arranging mirror installation
-- On "GYM: Reception shelving furniture" (CONSTRUCTION CHECKLIST): Good progress so far
-- On "ROOFTOP: Floor waterproofing" (CONSTRUCTION CHECKLIST): Waterproofing done. Now adding screed.
-- On "ROOFTOP: 5cm floor gap for windows, 16cm wide" (CONSTRUCTION CHECKLIST): We really need windows.....  what is the status with this task?
-- On "ROOFTOP: Ceiling Finish (Install+Paint)" (CONSTRUCTION CHECKLIST): No work on site. What's the status?
+**Email:**
+- (none)
