@@ -2,6 +2,10 @@
 
 This folder is home. Treat it that way.
 
+## ⚠️ State Directory
+
+OpenClaw state dir is `~/openclaw` (NOT `~/.openclaw`). All credentials, logs, config, cron, and workspace live under `~/openclaw`. The env var `OPENCLAW_STATE_DIR=/Users/ai/openclaw` is set in both the shell and the LaunchAgent plist. Never reference `~/.openclaw` — it does not exist.
+
 ## First Run
 
 If `BOOTSTRAP.md` exists, that's your birth certificate. Follow it, figure out who you are, then delete it. You won't need it again.
@@ -293,9 +297,11 @@ The daily summary must include these three sections:
 - Note any unresolved questions or follow-ups needed
 
 **2. Emails Received**
-- Query ops@houseofkairos.com for ALL today's emails (inbox + spam): `GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail search 'newer_than:1d in:anywhere' -a ops@houseofkairos.com`
+- Query ops@houseofkairos.com for ALL today's emails — MUST include spam:
+  - All mail: `GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail search 'newer_than:1d in:anywhere' -a ops@houseofkairos.com`
+  - Spam only: `GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail search 'newer_than:1d in:spam' -a ops@houseofkairos.com`
 - List each email: sender, subject, brief summary, whether it needs action
-- Flag anything in spam — note it as "[SPAM]" so Kaspars can review
+- **ALWAYS check spam separately** — legitimate emails often end up there. Mark spam items with **[SPAM]** prefix so Kaspars can review and unspam
 - Flag anything urgent or unanswered
 
 **3. Asana Tasks Completed Today**
