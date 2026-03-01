@@ -1,6 +1,6 @@
 # House of Kairos — Employees
 
-For birthdays, ages, joiners, contracts, or any sorting → run: `python3 /root/.openclaw/workspace/scripts/team.py`
+For birthdays, ages, joiners, contracts, or any sorting → run: `python3 /Users/ai/openclaw/workspace/scripts/team.py`
 
 ## Team Directory
 

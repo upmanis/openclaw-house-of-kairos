@@ -22,8 +22,8 @@ from datetime import datetime, timezone, timedelta
 # WITA = UTC+8
 WITA = timezone(timedelta(hours=8))
 
-BASE_DIR = "/root/.openclaw/workspace"
-SESSIONS_DIR = "/root/.openclaw/agents/whatsapp-lite/sessions"
+BASE_DIR = "/Users/ai/openclaw/workspace"
+SESSIONS_DIR = "/Users/ai/openclaw/agents/whatsapp-lite/sessions"
 SESSIONS_INDEX = os.path.join(SESSIONS_DIR, "sessions.json")
 ALIASES_FILE = os.path.join(BASE_DIR, "team/_aliases.json")
 TEAM_DIR = os.path.join(BASE_DIR, "team")

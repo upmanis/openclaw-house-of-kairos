@@ -188,14 +188,14 @@ Add local team-management script usage and guidance here. These are the canonica
 **Rule:** NEVER calculate birthdays, ages, joiners, contract end dates, or sort employees manually. Use the scripts below and copy the output verbatim.
 
 ```bash
-python3 /root/.openclaw/workspace/scripts/team.py birthdays [limit]
-python3 /root/.openclaw/workspace/scripts/team.py ages [limit]
-python3 /root/.openclaw/workspace/scripts/team.py joiners [limit]
-python3 /root/.openclaw/workspace/scripts/team.py contracts [limit]
-python3 /root/.openclaw/workspace/scripts/team.py list [limit]
+python3 /Users/ai/openclaw/workspace/scripts/team.py birthdays [limit]
+python3 /Users/ai/openclaw/workspace/scripts/team.py ages [limit]
+python3 /Users/ai/openclaw/workspace/scripts/team.py joiners [limit]
+python3 /Users/ai/openclaw/workspace/scripts/team.py contracts [limit]
+python3 /Users/ai/openclaw/workspace/scripts/team.py list [limit]
 ```
 
-Example: `python3 /root/.openclaw/workspace/scripts/team.py birthdays 3`
+Example: `python3 /Users/ai/openclaw/workspace/scripts/team.py birthdays 3`
 
 For employee emails and details, see `employees.md` in workspace.
 

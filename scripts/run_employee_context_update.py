@@ -3,9 +3,9 @@ import json, os, re, subprocess, sys
 from datetime import datetime, timedelta, timezone, date
 
 WORKSPACE_GID = "1208695572000101"
-ALIASES_PATH = "/root/.openclaw/workspace/team/_aliases.json"
-TEAM_DIR = "/root/.openclaw/workspace/team"
-MEMORY_DIR = "/root/.openclaw/workspace/memory"
+ALIASES_PATH = "/Users/ai/openclaw/workspace/team/_aliases.json"
+TEAM_DIR = "/Users/ai/openclaw/workspace/team"
+MEMORY_DIR = "/Users/ai/openclaw/workspace/memory"
 
 # Time handling
 try:

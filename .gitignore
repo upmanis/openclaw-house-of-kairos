@@ -9,3 +9,7 @@
 *.svg
 *.html
 out/
+tmp/
+tmp_*
+__pycache__/
+*.jsonl

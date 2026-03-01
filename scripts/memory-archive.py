@@ -10,7 +10,7 @@ Usage:
     python3 memory-archive.py [--dry-run] [--days-digest N] [--days-archive N]
 
 Cron (Sundays 15:30 UTC / 23:30 WITA):
-    30 15 * * 0 cd /root/.openclaw/workspace && python3 scripts/memory-archive.py >> /tmp/memory-archive.log 2>&1
+    30 15 * * 0 cd /Users/ai/openclaw/workspace && python3 scripts/memory-archive.py >> /tmp/memory-archive.log 2>&1
 """
 
 import argparse

@@ -2,7 +2,7 @@
 import json, os, re, subprocess, sys
 from datetime import datetime, timedelta, timezone
 
-WORKSPACE = "/root/.openclaw/workspace"
+WORKSPACE = "/Users/ai/openclaw/workspace"
 ALIASES_PATH = os.path.join(WORKSPACE, "team/_aliases.json")
 TEAM_DIR = os.path.join(WORKSPACE, "team")
 MEM_DIR = os.path.join(WORKSPACE, "memory")
