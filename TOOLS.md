@@ -160,16 +160,70 @@ GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail search 'newer_than:3d is:unread
 
 ### Sending emails
 
-```bash
-# Send a simple email
-GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail send --to "recipient@example.com" --subject "Subject" --body "Email body" -a ops@houseofkairos.com
+**⚠️ CRITICAL: `--body` does NOT unescape `\n`. Never put `\n` in `--body`.**
+For any email with multiple lines or paragraphs, use `--body-file -` with a heredoc:
 
-# Reply to a message (use message ID from search/get)
-GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail send --reply-to-message-id <messageId> --reply-all --body "Reply text" -a ops@houseofkairos.com
+```bash
+# Multi-line email (CORRECT — use this for all multi-paragraph emails)
+GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail send \
+  --to "recipient@example.com" \
+  --subject "Subject" \
+  --body-file - \
+  -a ops@houseofkairos.com <<'EOF'
+Hi team,
+
+First paragraph here.
+
+Second paragraph here.
+
+Best regards,
+Chief of Staff
+EOF
+
+# Single-line email only (still include signature — use heredoc)
+GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail send \
+  --to "recipient@example.com" \
+  --subject "Subject" \
+  --body-file - \
+  -a ops@houseofkairos.com <<'EOF'
+Short one-line message.
+
+
+Chief of Staff, House of Kairos
+EOF
+
+# Reply to a message
+GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail send \
+  --reply-to-message-id <messageId> --reply-all \
+  --body-file - \
+  -a ops@houseofkairos.com <<'EOF'
+Reply text here.
+
+More lines if needed.
+
+
+Chief of Staff, House of Kairos
+EOF
 
 # Send with CC and attachment
-GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail send --to "to@example.com" --cc "cc@example.com" --subject "Subject" --body "Body" --attach /path/to/file -a ops@houseofkairos.com
+GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail send \
+  --to "to@example.com" --cc "cc@example.com" \
+  --subject "Subject" \
+  --body-file - \
+  --attach /path/to/file \
+  -a ops@houseofkairos.com <<'EOF'
+Email body here.
+
+
+Chief of Staff, House of Kairos
+EOF
 ```
+
+**Rules:**
+- **Default to `--body-file -` with heredoc** for all emails unless the body is a single short sentence
+- **NEVER use `\n` inside `--body "..."`** — it will appear as literal text in the email
+- Use `<<'EOF'` (quoted) to prevent shell variable expansion in the body
+- **ALWAYS end every email with the signature:** two blank lines before, then `Chief of Staff, House of Kairos`
 
 ### Notes
 
