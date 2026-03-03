@@ -31,6 +31,7 @@ Don't ask permission. Just do it.
 - **Gmail search:** `GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail search 'query' -a ops@houseofkairos.com`
 - **Team scripts:** `python3 scripts/team.py <command>`
 - **HOK OS database (CRITICAL):** For ANY database query (revenue, members, check-ins, classes, memberships), ALWAYS use a preset: `python3 scripts/hok-query.py revenue-month` — NEVER write your own SQL, NEVER ask the user for column names. Available presets: member-count, revenue-month, revenue-all, revenue-by-method, memberships-active, memberships-month, checkins-today, checkins-yesterday, classes-today, classes-tomorrow, joined-week, yesterday-stats. Just pick the matching preset and run it. See TOOLS.md § HOK OS for details.
+- **Browser:** `openclaw browser --browser-profile openclaw <command>` — start/stop/open/snapshot/click/type. Use `snapshot` to read pages (structured text with refs). See TOOLS.md § Browser for full commands.
 
 ## Memory
 
@@ -194,6 +195,8 @@ Reactions are lightweight social signals. Humans use them constantly — they sa
 ## Tools
 
 Skills provide your tools. When you need one, check its `SKILL.md`. Keep local notes (camera names, SSH details, voice preferences) in `TOOLS.md`.
+
+**🌐 Browser:** You have a dedicated Chromium browser (`openclaw browser --browser-profile openclaw`). Use it to visit websites, read content, fill forms, and interact with web pages. Always use `snapshot` (not `screenshot`) to read page content — it's structured and token-efficient. See TOOLS.md § Browser for all commands.
 
 **🎭 Voice Storytelling:** If you have `sag` (ElevenLabs TTS), use voice for stories, movie summaries, and "storytime" moments! Way more engaging than walls of text. Surprise people with funny voices.
 
@@ -369,3 +372,9 @@ Per-employee profile files that accumulate a historic log of all activity, sourc
 2. Add nickname overrides to `scripts/init_team_profiles.py` if needed
 3. Re-run: `python3 scripts/init_team_profiles.py` (safe — skips existing profiles)
 4. The cron job will automatically pick them up from the updated `_aliases.json`
+
+---
+
+## Automated Flows
+
+See [FINANCE-WORKFLOW.md](FINANCE-WORKFLOW.md) for the "Send to Finance" flow.

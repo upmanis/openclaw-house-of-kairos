@@ -231,6 +231,7 @@ EOF
 - Access: **read + send** (gmail.modify scope)
 - New emails are also pushed to you in real-time via Gmail Pub/Sub webhook
 - **Sending to kaspars@houseofkairos.com** — allowed without asking
+- **Sending to finance@houseofkairos.com** — allowed without asking ONLY when triggered by "Send to Finance" flow (see AGENTS.md § Send to Finance). Always CC kaspars@houseofkairos.com.
 - **Sending to anyone else** — always ask Kaspars for approval first
 
 ---
@@ -322,3 +323,66 @@ python3 scripts/hok-query.py "SELECT first_name, last_name FROM members WHERE de
 - **ONLY members has deleted_at** — do NOT filter other tables by deleted_at
 - Prices are in Indonesian Rupiah (IDR)
 - Use `--staging` flag for staging environment
+
+---
+
+## Browser — Chromium (headless or visible)
+
+You have a dedicated Chromium browser via `openclaw browser`. Use it to visit pages, read content, fill forms, click buttons, and take screenshots.
+
+**Profile:** `openclaw` (port 18800). Always use `--browser-profile openclaw`.
+
+### Lifecycle
+
+```bash
+openclaw browser --browser-profile openclaw start      # Launch (no-op if already running)
+openclaw browser --browser-profile openclaw stop       # Shut down
+openclaw browser --browser-profile openclaw status     # Check if running
+```
+
+### Navigation & reading
+
+```bash
+openclaw browser --browser-profile openclaw open https://example.com          # Open URL in new tab
+openclaw browser --browser-profile openclaw navigate https://example.com      # Navigate current tab
+openclaw browser --browser-profile openclaw snapshot                          # AI-friendly page content (PREFERRED for reading)
+openclaw browser --browser-profile openclaw snapshot --format aria            # Accessibility tree
+openclaw browser --browser-profile openclaw screenshot                        # Full screenshot image
+openclaw browser --browser-profile openclaw screenshot --full-page            # Full-page screenshot
+openclaw browser --browser-profile openclaw pdf                               # Save page as PDF
+```
+
+### Interaction
+
+```bash
+openclaw browser --browser-profile openclaw click 12              # Click element by ref from snapshot
+openclaw browser --browser-profile openclaw type 23 "hello"       # Type into element
+openclaw browser --browser-profile openclaw type 23 "hello" --submit  # Type and submit
+openclaw browser --browser-profile openclaw press Enter            # Press a key
+openclaw browser --browser-profile openclaw hover 44               # Hover an element
+openclaw browser --browser-profile openclaw select 9 OptionA       # Select dropdown option
+openclaw browser --browser-profile openclaw fill --fields '[{"ref":"1","value":"Ada"}]'  # Fill form
+openclaw browser --browser-profile openclaw upload /path/to/file   # Upload a file
+```
+
+### Tabs
+
+```bash
+openclaw browser --browser-profile openclaw tabs                   # List open tabs
+openclaw browser --browser-profile openclaw focus <targetId>       # Switch to tab
+openclaw browser --browser-profile openclaw close <targetId>       # Close a tab
+```
+
+### Waiting
+
+```bash
+openclaw browser --browser-profile openclaw wait --text "Done"     # Wait for text to appear
+openclaw browser --browser-profile openclaw wait --selector ".result"  # Wait for CSS selector
+```
+
+### Tips
+
+- **Use `snapshot` to read pages** — it returns structured, token-efficient content with clickable refs. Prefer it over `screenshot` for text content.
+- **Refs come from the latest snapshot** — always take a fresh `snapshot` before clicking or typing by ref.
+- Browser stays running across commands. Start it once, use it many times, stop when done.
+- If the browser is not responding, `stop` then `start` again.

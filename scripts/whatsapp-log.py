@@ -2,7 +2,7 @@
 """
 WhatsApp message log extractor.
 
-Reads whatsapp-lite session JSONL files and writes structured logs
+Reads main agent session JSONL files and writes structured logs
 to daily memory files (memory/YYYY-MM-DD.md).
 
 With --employee-logs, also writes per-employee WhatsApp transcripts
@@ -23,7 +23,7 @@ from datetime import datetime, timezone, timedelta
 WITA = timezone(timedelta(hours=8))
 
 BASE_DIR = "/Users/ai/openclaw/workspace"
-SESSIONS_DIR = "/Users/ai/openclaw/agents/whatsapp-lite/sessions"
+SESSIONS_DIR = "/Users/ai/openclaw/agents/main/sessions"
 SESSIONS_INDEX = os.path.join(SESSIONS_DIR, "sessions.json")
 ALIASES_FILE = os.path.join(BASE_DIR, "team/_aliases.json")
 TEAM_DIR = os.path.join(BASE_DIR, "team")
@@ -251,7 +251,7 @@ def extract_messages(target_date, phone_map):
     grouped = {}
 
     for session_key, session_meta in sessions.items():
-        if 'whatsapp' not in session_key and session_key != 'agent:whatsapp-lite:main':
+        if 'whatsapp' not in session_key:
             continue
 
         session_id = session_meta.get("sessionId")
