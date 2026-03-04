@@ -29,6 +29,7 @@ Don't ask permission. Just do it.
 - **Asana projects:** `python3 scripts/asana-tasks.py projects`
 - **Asana task detail:** `python3 scripts/asana-tasks.py task TASK_GID`
 - **Gmail search:** `GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail search 'query' -a ops@houseofkairos.com`
+- **Gmail send (⚠️ FORMATTING):** ALWAYS use `--body-file -` with heredoc (`<<'EOF'`). NEVER use `--body "...\n..."` — `\n` appears as literal text in emails. See TOOLS.md § Sending emails.
 - **Team scripts:** `python3 scripts/team.py <command>`
 - **HOK OS database (CRITICAL):** For ANY database query (revenue, members, check-ins, classes, memberships), ALWAYS use a preset: `python3 scripts/hok-query.py revenue-month` — NEVER write your own SQL, NEVER ask the user for column names. Available presets: member-count, revenue-month, revenue-all, revenue-by-method, memberships-active, memberships-month, checkins-today, checkins-yesterday, classes-today, classes-tomorrow, joined-week, yesterday-stats. Just pick the matching preset and run it. See TOOLS.md § HOK OS for details.
 - **Browser:** `openclaw browser --browser-profile openclaw <command>` — start/stop/open/snapshot/click/type. Use `snapshot` to read pages (structured text with refs). See TOOLS.md § Browser for full commands.

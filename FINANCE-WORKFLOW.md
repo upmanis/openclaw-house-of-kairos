@@ -11,7 +11,9 @@ This is a fully automated flow. When triggered, find the file, extract details, 
 The flow triggers when ALL of these are true:
 1. Message is a **DM from Kaspars** (+37120000453) — never groups
 2. Message text contains **"send to finance"** (case-insensitive, partial match OK)
-3. A **file attachment** (PDF or image) exists in the current message OR in a recent preceding message
+3. A **file attachment** (PDF or image) exists in the current message OR in a recent preceding message that has NOT already been processed and sent to finance
+
+**⚠️ DEDUPLICATION: Before executing, check if you ALREADY sent an invoice to finance in this conversation within the last few messages. If your recent output contains a "✅ Invoice #... logged and sent to finance" confirmation (or similar), and the current message is just "send to finance" text without a NEW attachment — this is a duplicate trigger from WhatsApp splitting media and text into separate messages. Reply with `NO_REPLY` and do not re-execute the flow.**
 
 #### How to find the attachment
 
@@ -52,6 +54,8 @@ Use the Read tool to view the image, then extract the same fields via vision/OCR
 **If extraction fails** (garbled text, scanned image, etc.): Don't stop — proceed to Step 2 with fallback values.
 
 #### Step 2: Send email (NO confirmation — just send it)
+
+**📧 FORMAT: Use `--body-file -` with heredoc EXACTLY as shown below. NEVER use `--body "...\n..."` — see TOOLS.md § Sending emails.**
 
 ```bash
 GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail send \
@@ -103,3 +107,4 @@ If extraction failed: "Sent to finance (couldn't read invoice details, but file 
 - **DO NOT ask** for subject/CC/notes — they're defined above
 - **DO NOT ask** for confirmation before sending — just send
 - **DO NOT trigger** from group chats, non-Kaspars contacts, or messages without "send to finance"
+- **DO NOT re-trigger** when you already sent the same invoice to finance moments ago — WhatsApp often delivers the PDF and "send to finance" text as two separate messages. If you already completed the flow, reply `NO_REPLY`.

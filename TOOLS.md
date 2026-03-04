@@ -160,6 +160,15 @@ GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail search 'newer_than:3d is:unread
 
 ### Sending emails
 
+**🚨 MANDATORY EMAIL FORMAT — APPLIES TO ALL OUTBOUND EMAILS:**
+
+| Rule | Why |
+|------|-----|
+| **ALWAYS** use `--body-file -` with `<<'EOF'` heredoc | Preserves line breaks |
+| **NEVER** use `--body "..."` for multi-line emails | `\n` appears as LITERAL TEXT in the email — broken formatting |
+| **NEVER** put `\n` in any `--body` or `--body-file` value | gog does not interpret escape sequences |
+| **ALWAYS** end with signature: `Chief of Staff, House of Kairos` | Two blank lines before signature |
+
 **⚠️ CRITICAL: `--body` does NOT unescape `\n`. Never put `\n` in `--body`.**
 For any email with multiple lines or paragraphs, use `--body-file -` with a heredoc:
 
@@ -222,6 +231,7 @@ EOF
 **Rules:**
 - **Default to `--body-file -` with heredoc** for all emails unless the body is a single short sentence
 - **NEVER use `\n` inside `--body "..."`** — it will appear as literal text in the email
+- **NEVER use `--body "line1\nline2"`** — this is the #1 formatting bug. The `\n` will appear literally in the email. Use `--body-file -` with heredoc instead.
 - Use `<<'EOF'` (quoted) to prevent shell variable expansion in the body
 - **ALWAYS end every email with the signature:** two blank lines before, then `Chief of Staff, House of Kairos`
 
