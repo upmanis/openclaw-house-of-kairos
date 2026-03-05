@@ -4,6 +4,8 @@
 
 **⚡ CRITICAL: When Kaspars says "send to finance" — DO NOT ASK QUESTIONS. Execute immediately.**
 
+**NEVER use the `message` tool to send to finance. Email ≠ WhatsApp. Always use `gog gmail send`.**
+
 This is a fully automated flow. When triggered, find the file, extract details, send email, confirm. Zero questions.
 
 #### Trigger detection
@@ -53,6 +55,13 @@ Use the Read tool to view the image, then extract the same fields via vision/OCR
 
 **If extraction fails** (garbled text, scanned image, etc.): Don't stop — proceed to Step 2 with fallback values.
 
+#### PRE-SEND CHECKLIST (verify ALL before executing):
+- [ ] Command includes `--attach "/path/to/file"` with the ACTUAL media file path from Step 1
+- [ ] Command includes `--cc "kaspars@houseofkairos.com"`
+- [ ] Subject follows EXACT format: `Please submit - {amount} {vendor}` (NOT "Invoice:", NOT any other format)
+- [ ] Using `gog gmail send` (NOT the `message` tool — email is NOT WhatsApp)
+- [ ] Only ONE WhatsApp reply will be sent after this (the confirmation in Step 3)
+
 #### Step 2: Send email (NO confirmation — just send it)
 
 **📧 FORMAT: Use `--body-file -` with heredoc EXACTLY as shown below. NEVER use `--body "...\n..."` — see TOOLS.md § Sending emails.**
@@ -82,6 +91,8 @@ Please process the attached invoice:
 Chief of Staff, House of Kairos
 EOF
 ```
+
+⚠️ **WITHOUT `--attach`, finance receives NO file. This defeats the entire purpose. NEVER omit it.**
 
 **Subject format:** `Please submit - {amount} {vendor}` (e.g., "Please submit - Rp8,850,000 Rezeki Meubel")
 

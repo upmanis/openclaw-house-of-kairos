@@ -176,6 +176,7 @@ For any email with multiple lines or paragraphs, use `--body-file -` with a here
 # Multi-line email (CORRECT — use this for all multi-paragraph emails)
 GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail send \
   --to "recipient@example.com" \
+  --cc "kaspars@houseofkairos.com" \
   --subject "Subject" \
   --body-file - \
   -a ops@houseofkairos.com <<'EOF'
@@ -192,6 +193,7 @@ EOF
 # Single-line email only (still include signature — use heredoc)
 GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail send \
   --to "recipient@example.com" \
+  --cc "kaspars@houseofkairos.com" \
   --subject "Subject" \
   --body-file - \
   -a ops@houseofkairos.com <<'EOF'
@@ -229,6 +231,7 @@ EOF
 ```
 
 **Rules:**
+- **ALWAYS CC `kaspars@houseofkairos.com`** on every outbound email (unless the email is TO Kaspars directly). Add `--cc "kaspars@houseofkairos.com"` to every send command.
 - **Default to `--body-file -` with heredoc** for all emails unless the body is a single short sentence
 - **NEVER use `\n` inside `--body "..."`** — it will appear as literal text in the email
 - **NEVER use `--body "line1\nline2"`** — this is the #1 formatting bug. The `\n` will appear literally in the email. Use `--body-file -` with heredoc instead.

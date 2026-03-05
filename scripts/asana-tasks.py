@@ -6,6 +6,7 @@ Usage:
     python3 asana-tasks.py search <query> [options]
     python3 asana-tasks.py task <task_gid>
     python3 asana-tasks.py projects
+    python3 asana-tasks.py summary
 
 Options (list mode):
     --completed          Include completed tasks
@@ -240,6 +241,63 @@ def list_projects():
     print(f"\n({len(data)} projects)")
 
 
+def workspace_search(extra_params):
+    """Search tasks across the entire workspace."""
+    params = {
+        "opt_fields": "name,due_on,projects.name,assignee.name",
+        **extra_params,
+    }
+    return api(f"workspaces/{WORKSPACE}/tasks/search", params).get("data", [])
+
+
+def summary():
+    """Morning briefing summary: overdue (top 10) + due today, workspace-wide."""
+    today = today_wita()
+
+    # Overdue tasks: due before today, not completed
+    overdue = workspace_search({
+        "due_before": today,
+        "completed": "false",
+        "sort_by": "due_date",
+        "sort_ascending": "true",
+        "limit": "10",
+    })
+
+    # Due today
+    due_today = workspace_search({
+        "due_on": today,
+        "completed": "false",
+        "sort_by": "due_date",
+        "sort_ascending": "true",
+        "limit": "100",
+    })
+
+    print(f"=== OVERDUE TASKS (top 10, as of {today}) ===")
+    if overdue:
+        for t in overdue:
+            due = t.get("due_on") or "no date"
+            name = t.get("name", "?")
+            assignee = (t.get("assignee") or {}).get("name", "unassigned")
+            projects = ", ".join(p.get("name", "") for p in (t.get("projects") or []))
+            proj_str = f" | {projects}" if projects else ""
+            print(f"- {due} | {name} | {assignee}{proj_str}")
+        print(f"({len(overdue)} shown)")
+    else:
+        print("(none)")
+
+    print(f"\n=== DUE TODAY ({today}) ===")
+    if due_today:
+        for t in due_today:
+            name = t.get("name", "?")
+            assignee = (t.get("assignee") or {}).get("name", "unassigned")
+            projects = ", ".join(p.get("name", "") for p in (t.get("projects") or []))
+            proj_str = f" | {projects}" if projects else ""
+            print(f"- {name} | {assignee}{proj_str}")
+        print(f"({len(due_today)} tasks)")
+    else:
+        print("(none)")
+
+
 if __name__ == "__main__":
     if not TOKEN:
         print("Error: ASANA_TOKEN not set", file=sys.stderr)
@@ -250,7 +308,9 @@ if __name__ == "__main__":
         print(__doc__)
         sys.exit(0)
 
-    if args[0] == "search":
+    if args[0] == "summary":
+        summary()
+    elif args[0] == "search":
         positional, opts = parse_opts(args[1:])
         search_tasks(" ".join(positional), opts)
     elif args[0] == "task" and len(args) > 1:

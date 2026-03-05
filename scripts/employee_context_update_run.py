@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import json, os, re, subprocess, sys
+import json, os, re, shlex, subprocess, sys
 from datetime import datetime, timedelta, timezone
 
 WORKSPACE = "/Users/ai/openclaw/workspace"
@@ -129,6 +129,60 @@ def asana_search(params: dict):
     return json.loads(out).get("data", [])
 
 
+def asana_stories_fetch(task_gid):
+    """Fetch stories (comments) for a task."""
+    out = sh(f'curl -s -H "Authorization: Bearer $ASANA_TOKEN" '
+             f'"https://app.asana.com/api/1.0/tasks/{task_gid}/stories'
+             f'?opt_fields=type,resource_subtype,created_by.name,created_by.gid,created_at,text"')
+    return json.loads(out).get("data", [])
+
+
+def asana_comments_today(asana_users_by_email, aliases):
+    """Find all comments posted today by team members across all tasks."""
+    modified_tasks = asana_search({
+        "modified_at.after": start_utc.strftime("%Y-%m-%dT%H:%M:%S.000Z"),
+        "modified_at.before": end_utc.strftime("%Y-%m-%dT%H:%M:%S.000Z"),
+        "opt_fields": "name,due_on,memberships.project.name",
+    })
+
+    # Build reverse map: asana_gid → slug
+    gid_to_slug = {}
+    for slug, meta in aliases.items():
+        email = (meta.get("email") or "").lower()
+        asana_user = asana_users_by_email.get(email)
+        if asana_user:
+            gid_to_slug[asana_user["gid"]] = slug
+
+    # For each modified task, fetch stories and filter to today's comments by team members
+    comments_by_slug = {slug: [] for slug in aliases}
+    for task in modified_tasks:
+        task_gid = task["gid"]
+        stories = asana_stories_fetch(task_gid)
+        for s in stories:
+            if s.get("resource_subtype") != "comment_added":
+                continue
+            created_at = s.get("created_at", "")
+            try:
+                dt = datetime.fromisoformat(created_at.replace("Z", "+00:00"))
+            except Exception:
+                continue
+            if not (start_utc <= dt < end_utc):
+                continue
+            author_gid = (s.get("created_by") or {}).get("gid")
+            slug = gid_to_slug.get(author_gid)
+            if not slug:
+                continue
+            comments_by_slug[slug].append({
+                "task_name": (task.get("name") or "").strip(),
+                "task_gid": task_gid,
+                "project": task_project_name(task),
+                "due_on": task.get("due_on"),
+                "comment_text": (s.get("text") or "").strip(),
+                "commented_at": created_at,
+            })
+    return comments_by_slug
+
+
 def asana_for_user(user_gid: str):
     # Completed last 24h
     completed = asana_search({
@@ -170,7 +224,9 @@ def asana_for_user(user_gid: str):
 def gmail_for_email(email: str):
     # returns list of dicts {subject, from, to, snippet} where possible
     try:
-        out = sh(f'GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail search "newer_than:1d in:anywhere (from:{email} OR to:{email})" -a ops@houseofkairos.com')
+        gog_pw = shlex.quote(os.environ.get("GOG_KEYRING_PASSWORD", ""))
+        safe_email = shlex.quote(email)
+        out = sh(f'GOG_KEYRING_PASSWORD={gog_pw} gog gmail search "newer_than:1d in:anywhere (from:{safe_email} OR to:{safe_email})" -a ops@houseofkairos.com')
     except Exception as e:
         return {"raw": f"(error: {e})", "items": []}
 
@@ -245,7 +301,7 @@ def last_20_lines_has_today(profile_text: str) -> bool:
     return f"### {TODAY}" in tail
 
 
-def format_activity_append(wh_blocks, completed, due_soon, gmail_items):
+def format_activity_append(wh_blocks, completed, due_soon, gmail_items, asana_comments=None):
     lines = []
     lines.append(f"### {TODAY}")
     lines.append("")
@@ -280,6 +336,17 @@ def format_activity_append(wh_blocks, completed, due_soon, gmail_items):
                 lines.append(f"- Due soon: {t.get('name','').strip()} due {due} ({proj})")
         lines.append("")
 
+    # Asana Comments
+    if asana_comments:
+        lines.append("**Asana Comments:**")
+        for c in asana_comments:
+            due = c.get("due_on") or "no date"
+            text = c.get("comment_text", "")
+            lines.append(f"- Commented on: {c['task_name']} ({c['project']}) — due {due}")
+            if text:
+                lines.append(f"  > {text}")
+        lines.append("")
+
     # Email
     lines.append("**Email:**")
     if not gmail_items:
@@ -299,6 +366,7 @@ def main():
 
     # Asana users
     asana_users_by_email = asana_get_users()
+    comments_by_slug = asana_comments_today(asana_users_by_email, aliases)
 
     results = {}
     for slug, meta in aliases.items():
@@ -322,6 +390,7 @@ def main():
             "asana_due_soon": due_soon,
             "asana_open_all": open_all,
             "gmail_items": gmail.get("items", []),
+            "asana_comments": comments_by_slug.get(slug, []),
         }
 
     changed = []
@@ -340,9 +409,9 @@ def main():
             new_text = text
 
         # Step 6: append if any activity from WhatsApp/Asana/Gmail
-        any_activity = bool(r["whatsapp"]) or bool(r["asana_completed"]) or bool(r["asana_due_soon"]) or bool(r["gmail_items"])
+        any_activity = bool(r["whatsapp"]) or bool(r["asana_completed"]) or bool(r["asana_due_soon"]) or bool(r["gmail_items"]) or bool(r["asana_comments"])
         if any_activity and not last_20_lines_has_today(new_text):
-            append = format_activity_append(r["whatsapp"], r["asana_completed"], r["asana_due_soon"], r["gmail_items"])
+            append = format_activity_append(r["whatsapp"], r["asana_completed"], r["asana_due_soon"], r["gmail_items"], r["asana_comments"])
             if not new_text.endswith("\n"):
                 new_text += "\n"
             new_text += append

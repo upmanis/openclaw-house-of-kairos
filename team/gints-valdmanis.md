@@ -46,7 +46,7 @@ Relocated to Bali with his family, initially for winter season, now living there
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-03-03_
+_Last updated: 2026-03-04_
 
 (none)
 
@@ -126,20 +126,3 @@ _Last updated: 2026-03-03_
 
 **Email:**
 - No results
-### 2026-02-28
-
-**WhatsApp:**
-
-
-## Emails (ops@houseofkairos.com)
-(none)
-
-## Asana Tasks Completed
-- **CONSTRUCTION CHECKLIST:** ROOFTOP: Floor waterproofing (Kaspars Upmanis)
-- **CONSTRUCTION CHECKLIST:** ROOFTOP: Boundary wall overhang (Kaspars Upmanis)
-
-## Notes
-- Summary generated at ~15:00 WITA (07:00 UTC), so this is a partial day snapshot.
-
-**Email:**
-- (none)

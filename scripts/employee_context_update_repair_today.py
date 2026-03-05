@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import json, os, re, subprocess
+import json, os, re, shlex, subprocess
 from datetime import datetime, timedelta
 
 WORKSPACE = "/Users/ai/openclaw/workspace"
@@ -130,7 +130,9 @@ def asana_for_user(user_gid: str):
 
 def gmail_for_email(email: str):
     try:
-        out = sh(f'GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail search "newer_than:1d in:anywhere (from:{email} OR to:{email})" -a ops@houseofkairos.com')
+        gog_pw = shlex.quote(os.environ.get("GOG_KEYRING_PASSWORD", ""))
+        safe_email = shlex.quote(email)
+        out = sh(f'GOG_KEYRING_PASSWORD={gog_pw} gog gmail search "newer_than:1d in:anywhere (from:{safe_email} OR to:{safe_email})" -a ops@houseofkairos.com')
     except Exception:
         return []
     lines = [l.rstrip() for l in out.splitlines() if l.strip()]

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import json, os, re, subprocess, sys
+import json, os, re, shlex, subprocess, sys
 from datetime import datetime, timedelta, timezone, date
 
 WORKSPACE_GID = "1208695572000101"
@@ -150,8 +150,10 @@ def append_activity_log(profile_text: str, entry_text: str) -> str:
 
 
 def gmail_search(email: str):
-    q = f"newer_than:1d in:anywhere (from:{email} OR to:{email})"
-    cmd = f"GOG_KEYRING_PASSWORD=openclaw-hok-2026 gog gmail search {json.dumps(q)} -a ops@houseofkairos.com"
+    gog_pw = shlex.quote(os.environ.get("GOG_KEYRING_PASSWORD", ""))
+    safe_email = shlex.quote(email)
+    q = f"newer_than:1d in:anywhere (from:{safe_email} OR to:{safe_email})"
+    cmd = f"GOG_KEYRING_PASSWORD={gog_pw} gog gmail search {json.dumps(q)} -a ops@houseofkairos.com"
     out = sh(cmd)
     return out.strip()
 

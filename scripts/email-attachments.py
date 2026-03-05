@@ -18,7 +18,7 @@ import sys
 from datetime import datetime, timedelta, timezone
 
 # --- Config ---
-GOG_PASSWORD = "openclaw-hok-2026"
+GOG_PASSWORD = os.environ.get("GOG_KEYRING_PASSWORD", "")
 ACCOUNT = "ops@houseofkairos.com"
 WORKSPACE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MEMORY_DIR = os.path.join(WORKSPACE, "memory")
