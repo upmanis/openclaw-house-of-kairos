@@ -43,7 +43,7 @@ PROJECTS = [
 ]
 
 
-def api(path: str, params: dict | None = None):
+def api(path: str, params: dict = None):
     url = f"{BASE}/{path}"
     if params:
         url += "?" + urllib.parse.urlencode(params)
@@ -57,7 +57,7 @@ def api(path: str, params: dict | None = None):
         sys.exit(1)
 
 
-def api_all_pages(path: str, params: dict | None = None):
+def api_all_pages(path: str, params: dict = None):
     params = dict(params or {})
     params["limit"] = "100"
     all_data = []

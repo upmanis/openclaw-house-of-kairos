@@ -13,7 +13,7 @@
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-03-05_
+_Last updated: 2026-03-06_
 
 (none)
 
@@ -433,3 +433,58 @@ _Last updated: 2026-03-05_
 - Due soon: Coach  Artwork due no due date (Marketing - Pre-sales campaign)
 - Due soon: Shooting pre-sales has sold out due 2026-03-18 (Marketing - Pre-sales campaign)
 - Due soon: Class Schedule artwork due no due date (Marketing - Pre-sales campaign)
+### 2026-03-06
+
+**WhatsApp:**
+
+#### HoK | Marketing — 13:46
+- **Who said what (verbatim):**
+  - **Nicolas Castrillon:** "Yep, the festival is from the 15th to the 18th. But if influencers get invited and it’s free, they might plan to stay in Ulu for the whole weekend."
+  - **Nicolas Castrillon:** "In any case, if people ask right now, we are still just saying “mid April”, or simply “April”."
+  - **Nicolas Castrillon:** "cc. @256074590470155 make sure everyone knows this please."
+  - **Nicolas Castrillon:** "@254365562572988 any thoughts from mkt side in your experience?"
+  - **Sakinah Dava Erawan:** "[openclaw] <media:document>"
+- **Files/images shared:** 1 PDF document: `HoK_pricing---998cf39b-b1bd-4789-97d6-3f865efeabad.pdf` (membership/pricing one-pager content with pass prices and terms).
+- **Topics discussed:** Festival date window (15th–18th), influencer weekend-stay implication, temporary external messaging (“mid April” / “April”), and request for marketing perspective.
+- **Decisions/action items:** Keep launch messaging generic as “mid April” or “April” until confirmed; align team communication.
+- **Your response:** stayed silent
+
+#### HoK | Marketing — 13:47
+- **Who said what (verbatim):**
+  - **Sakinah Dava Erawan:** "<media:document>"
+  - **Sakinah Dava Erawan:** "Please check the pricing page and class schedule page team :)"
+- **Files/images shared:** 1 PDF document: `HoK_schedule---a37d86f5-24fd-450d-92ce-b297e5ee7643.pdf`.
+- **Topics discussed:** Request for team to review pricing page and class schedule page.
+- **Decisions/action items:** Team asked to check both pages.
+- **Your response:** stayed silent
+
+#### HoK | Front Office / Reception — 14:42
+- **Who said what:** Sakinah Dava Erawan: Hi team
+- **Topics discussed:** Team greeting
+- **Decisions/action items:** None
+- **Your response:** stayed silent
+
+#### HoK | Front Office / Reception — 14:46
+- **Who said what:** Sakinah Dava Erawan: Hereby the compressed pdf | Sakinah Dava Erawan: Compressed it from 319MB, to 5.5mb😀 | House of Kairos: yeayy thank you kiki!
+- **Topics discussed:** PDF compression and successful file sharing acknowledgement
+- **Decisions/action items:** Compressed and shared Opening Edition Pack PDF (319MB -> 5.5MB)
+- **Files/images shared:** Opening_Edition_Pack---c25d723c-801e-4aec-b7b4-3e7572e5eccb.pdf (application/pdf)
+- **Your response:** stayed silent
+
+#### Merch | House of Kairos — 15:56
+- **Who said what (verbatim):**
+  - **Sakinah Dava Erawan:** "Amazing, thank you Agus"
+- **Topics discussed:** Acknowledgement/appreciation for Agus' shipment update.
+- **Decisions/action items:** None stated.
+- **Your response:** stayed silent
+
+#### Merch | House of Kairos — 18:28
+- **Who said what (verbatim):**
+  - **Sakinah Dava Erawan:** "Wowww"
+- **Topics discussed:** Positive reaction to the new t-shirt drop image.
+- **Decisions/action items:** None stated.
+- **Your response:** stayed silent
+
+**Email:**
+- (none)
+

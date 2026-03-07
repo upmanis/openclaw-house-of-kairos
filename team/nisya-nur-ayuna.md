@@ -13,7 +13,7 @@
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-03-05_
+_Last updated: 2026-03-06_
 
 (none)
 
@@ -461,3 +461,37 @@ _Last updated: 2026-03-05_
 - Due soon: IT Supervisor due no due date (Recruitment)
 - Due soon: Launch employee engagement activity with 75% achievement rate due 2025-12-31 (HR)
 - Due soon: Communication & Feedback due 2025-12-31 (HR)
+### 2026-03-06
+
+**WhatsApp:**
+
+#### HoK | HR — 14:56–15:07
+- **Who said what (verbatim):**
+  - **Nisya Nur Ayuna:** "Update Info, Procurement Spv has signed the job offer. he will join on Tuesday💪🏻 but before I send the contract, just want to make sure again, will we provide him company phone? that's to make us easier to track all the suppliers contact."
+  - **Kaspars Upmanis:** "Yes"
+  - **Kaspars Upmanis:** "let's do that"
+  - **Kaspars Upmanis:** "with a new number? What is the process here?"
+  - **Nisya Nur Ayuna:** "yes with new number, just had a quick discussion with Vikrama, we can buy post-paid for the number like FO number. we can register the number under my name, because FO number already use Vikram's name"
+- **Topics discussed:** Procurement Supervisor offer acceptance/start date; confirmation to provide company phone; decision for new number and post-paid setup approach.
+- **Decisions/action items:** Proceed with company phone and new number; proposed post-paid number registration under Nisya's name.
+- **Your response:** "Nisya, good question. For the Procurement Spv, yes — we should provide a company phone. They'll be the primary point of contact for suppliers, and having a dedicated line will keep communications organized and professional.
+
+I'll add this to their onboarding checklist. Should we use a specific phone model or carrier plan for procurement staff, or keep it flexible?"
+
+#### HoK | HR — 15:13
+- **Who said what (verbatim):**
+  - **Nisya Nur Ayuna:** "I suggest to buy from the supplier in Bali, same as when Vik buy printer for HR🙏🏻"
+- **Topics discussed:** Recommendation to source laptop from Bali supplier based on prior successful HR printer purchase flow.
+- **Decisions/action items:** Suggestion recorded; final procurement channel decision pending confirmation.
+- **Your response:** stayed silent
+
+#### HoK | HR — 15:15
+- **Who said what (verbatim):**
+  - **Nisya Nur Ayuna:** "ah😅"
+- **Topics discussed:** Light acknowledgement/reaction.
+- **Decisions/action items:** None.
+- **Your response:** stayed silent
+
+**Email:**
+- (none)
+

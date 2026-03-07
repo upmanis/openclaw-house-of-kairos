@@ -70,3 +70,53 @@
 - 19cbb92b5e326b68  2026-03-05 09:17  Vikrama Imanthaka <vikrama@houseofkairos.com>  Vendor Payment Request                                      UNREAD,CATEGORY_PERSONAL,SPAM  -
 - 19cb77c6e629eda0  2026-03-05 08:57  ops@houseofkairos.com                          Invoice: TRIWATU BATA - Terakota Tiles Delivery (Rp 40.4M)  SENT                           [2 msgs]
 
+### 2026-03-06
+
+**WhatsApp:**
+
+#### HoK | Operations — 14:50
+- **Who said what:**
+  - Kaspars Upmanis: "will need 2, max 3 (if entrance will have 2 macs)"
+  - Kaspars Upmanis: "now we can start with 1"
+  - Kaspars Upmanis: "entrance needs doors to protect from rain first.. :/ 
+
+for now we would put one in gym floor"
+  - Yohanes Baptista: "I was going to suggest buy all 3 (or 2) if we find a seller or supplier who has the silver option. The other unused ones we can keep it somewhere..
+
+The authorized reseller that I asked, they have no stock for the silver colors."
+  - Kaspars Upmanis: "ugh..
+will have to go with jakarta ones"
+  - Kaspars Upmanis: "0361736811"
+  - Kaspars Upmanis: "here is the number pak🙏🏻"
+  - Kaspars Upmanis: "^ globalxtreme support"
+  - Kaspars Upmanis: "please contact"
+  - Kaspars Upmanis: "ask Laila for our account details"
+  - Kaspars Upmanis: "maybe unpaid invoice or just a simple restart from their side"
+- **Topics discussed:** iMac procurement quantity and color availability; temporary placement decision; ISP support contact and possible account/invoice issue.
+- **Decisions/action items:** Start with 1 iMac now (total need 2, max 3 later); place one on gym floor for now; contact GlobalXtreme support (0361736811); ask Laila for account details; check unpaid invoice vs provider-side restart.
+- **Your response:** stayed silent
+
+#### HoK | Operations — 15:00
+- **Who said what:**
+  - Kaspars Upmanis: "will need 2, max 3 (if entrance will have 2 macs)"
+  - Kaspars Upmanis: "now we can start with 1"
+  - Kaspars Upmanis: "entrance needs doors to protect from rain first.. :/ 
+for now we would put one in gym floor"
+  - Yohanes Baptista: "I was going to suggest buy all 3 (or 2) if we find a seller or supplier who has the silver option. The other unused ones we can keep it somewhere..
+
+The authorized reseller that I asked, they have no stock for the silver colors."
+  - Kaspars Upmanis: "ugh..
+will have to go with jakarta ones"
+  - Kaspars Upmanis: "0361736811"
+  - Kaspars Upmanis: "here is the number pak🙏🏻"
+  - Kaspars Upmanis: "^ globalxtreme support"
+  - Kaspars Upmanis: "please contact"
+  - Kaspars Upmanis: "ask Laila for our account details"
+  - Kaspars Upmanis: "maybe unpaid invoice or just a simple restart from their side"
+- **Topics discussed:** iMac procurement quantity and color availability; temporary placement decision; ISP support contact and possible account/invoice issue.
+- **Decisions/action items:** Start with 1 iMac now (total need 2, max 3 later); place one on gym floor for now; contact GlobalXtreme support (0361736811); ask Laila for account details; check unpaid invoice vs provider-side restart.
+- **Your response:** stayed silent
+
+**Email:**
+- (none)
+

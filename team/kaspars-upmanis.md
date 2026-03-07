@@ -12,7 +12,7 @@
 ---
 
 ## Outstanding Asana Tasks
-_Last updated: 2026-03-05_
+_Last updated: 2026-03-06_
 
 (none)
 
@@ -1284,4 +1284,410 @@ _(Recovered from gateway log — these messages were received before the agent w
 **Email:**
 - ID                DATE              FROM                                         SUBJECT        LABELS                         THREAD
 - 19cbc19070a11c25  2026-03-05 11:44  Kaspars Upmanis <kaspars@houseofkairos.com>  Please submit  UNREAD,CATEGORY_PERSONAL,SPAM  -
+
+### 2026-03-06
+
+**WhatsApp:**
+
+#### HoK | Housekeeping — 08:47
+- **Who said what:**
+  - **Kaspars Upmanis:** "@178640742559918 where should we put them? 🙂"
+- **Topics discussed:** Placement/location for the unpacked items.
+- **Decisions/action items:** Waiting for instruction on where to place them.
+- **Your response:** stayed silent
+
+#### HoK | Housekeeping — 08:52
+- **Who said what (verbatim):**
+  - **Unknown:** "[image]" (replying to Kaspars Upmanis: "and the furniture")
+- **Files/images shared:** 1 photo showing a dark wood cabinet/shelving unit and furniture panel pieces.
+- **Topics discussed:** Furniture item/location context in response to placement discussion.
+- **Decisions/action items:** None stated.
+- **Your response:** stayed silent
+
+#### HoK | Housekeeping — 10:33
+- **Who said what (verbatim):**
+  - **Kaspars Upmanis:** "for sofas use ONLY clean water"
+- **Files/images shared:** 1 photo of brown sofas/chairs upholstery.
+- **Topics discussed:** Sofa cleaning instructions.
+- **Decisions/action items:** Use only clean water for sofas.
+- **Your response:** stayed silent
+
+#### HoK | Housekeeping — 10:34
+- **Who said what (verbatim):**
+  - **Kaspars Upmanis:** "chemicals can destroy fake leather material"
+- **Topics discussed:** Material care warning for fake leather sofas.
+- **Decisions/action items:** Avoid chemical cleaners on fake leather material.
+- **Your response:** stayed silent
+
+#### HoK | Housekeeping — 12:18
+- **Who said what (verbatim):**
+  - **Kaspars Upmanis:** "please clean gym floor windows"
+- **Topics discussed:** Cleaning request for gym floor windows.
+- **Decisions/action items:** Clean gym floor windows.
+- **Your response:** stayed silent
+
+#### HoK | Operations — 09:01
+- **Who said what:**
+  - Kaspars Upmanis: "Pagi!
+Need to mark on site which area is the broken lan cable in cardio zone"
+- **Topics discussed:** Broken LAN cable location marking needed in cardio zone (on-site).
+- **Decisions/action items:** Need to mark the exact broken LAN cable area on site in cardio zone.
+- **Your response:** stayed silent
+
+#### HoK | Operations — 09:01
+- **Who said what:**
+  - Kaspars Upmanis: "On Monday floor guys coming to do some works. They can fix it"
+- **Topics discussed:** Floor team arriving Monday can fix the broken LAN cable issue.
+- **Decisions/action items:** Coordinate/mark area so floor guys can fix it on Monday.
+- **Your response:** stayed silent
+
+#### Hok | Gym — 09:53
+- **Who said what:**
+  - **Kaspars Upmanis:** "@178640742559918 - where should the audio rack be?"
+- **Topics discussed:** Audio rack placement question in gym construction area.
+- **Decisions/action items:** None yet.
+- **Your response:** stayed silent
+- **Files/images shared:** 1 image (construction room with unfinished wall/ceiling and visible wiring points).
+
+#### Hok | Gym — 09:53
+- **Who said what:**
+  - **Kaspars Upmanis:** "on rooftop studios"
+- **Topics discussed:** Proposed location for audio rack.
+- **Decisions/action items:** Audio rack should be on rooftop studios.
+- **Your response:** stayed silent
+
+#### HoK | Operations — 10:33
+- **Who said what:**
+  - Kaspars Upmanis: "gea :)"
+- **Topics discussed:** Casual acknowledgement.
+- **Decisions/action items:** None.
+- **Your response:** stayed silent
+
+#### Hok | Gym — 11:10
+- **Who said what:**
+  - **Kaspars Upmanis:** "will need to ask technogym to help with moving, maybe"
+- **Topics discussed:** Potential need for Technogym assistance with moving equipment.
+- **Decisions/action items:** Possible action to contact Technogym for moving support.
+- **Your response:** stayed silent
+
+#### HoK | Operations — 11:20
+- **Who said what:**
+  - Kaspars Upmanis: "rooftop - laundry room"
+- **Topics discussed:** Location specified for cold towel fridge placement.
+- **Decisions/action items:** Planned location is rooftop laundry room.
+- **Your response:** stayed silent
+
+#### HoK | Operations — 11:20
+- **Who said what:**
+  - Kaspars Upmanis: "for storing cold towels"
+- **Topics discussed:** Clarification that rooftop laundry room location is for storing cold towels.
+- **Decisions/action items:** Cold-towel storage purpose confirmed for planned setup location.
+- **Your response:** stayed silent
+
+#### HoK | Operations — 11:20
+- **Who said what:**
+  - Kaspars Upmanis: "to give to the ladies after finishing class"
+- **Topics discussed:** Intended use of cold towels clarified as post-class guest amenity for ladies.
+- **Decisions/action items:** Cold towel service target use case confirmed.
+- **Your response:** stayed silent
+
+#### HoK | Housekeeping — 12:19 (queued)
+- **Who said what (verbatim):**
+  - **Kaspars Upmanis:** "whole window and frames"
+  - **Kaspars Upmanis:** "deep-clean"
+  - **Kaspars Upmanis:** "[image]"
+  - **Kaspars Upmanis:** "[image]"
+- **Files/images shared:** 2 photos showing gym arched windows, visible dirt marks on glass, and wider gym area with multiple windows/frames.
+- **Topics discussed:** Scope clarification for cleaning gym windows.
+- **Decisions/action items:** Deep-clean the whole windows and frames.
+- **Your response:** stayed silent
+
+#### HoK | Operations — 14:50
+- **Who said what:**
+  - Kaspars Upmanis: "will need 2, max 3 (if entrance will have 2 macs)"
+  - Kaspars Upmanis: "now we can start with 1"
+  - Kaspars Upmanis: "entrance needs doors to protect from rain first.. :/ 
+
+for now we would put one in gym floor"
+  - Yohanes Baptista: "I was going to suggest buy all 3 (or 2) if we find a seller or supplier who has the silver option. The other unused ones we can keep it somewhere..
+
+The authorized reseller that I asked, they have no stock for the silver colors."
+  - Kaspars Upmanis: "ugh..
+will have to go with jakarta ones"
+  - Kaspars Upmanis: "0361736811"
+  - Kaspars Upmanis: "here is the number pak🙏🏻"
+  - Kaspars Upmanis: "^ globalxtreme support"
+  - Kaspars Upmanis: "please contact"
+  - Kaspars Upmanis: "ask Laila for our account details"
+  - Kaspars Upmanis: "maybe unpaid invoice or just a simple restart from their side"
+- **Topics discussed:** iMac procurement quantity and color availability; temporary placement decision; ISP support contact and possible account/invoice issue.
+- **Decisions/action items:** Start with 1 iMac now (total need 2, max 3 later); place one on gym floor for now; contact GlobalXtreme support (0361736811); ask Laila for account details; check unpaid invoice vs provider-side restart.
+- **Your response:** stayed silent
+
+#### HoK | Operations — 15:00
+- **Who said what:**
+  - Kaspars Upmanis: "will need 2, max 3 (if entrance will have 2 macs)"
+  - Kaspars Upmanis: "now we can start with 1"
+  - Kaspars Upmanis: "entrance needs doors to protect from rain first.. :/ 
+for now we would put one in gym floor"
+  - Yohanes Baptista: "I was going to suggest buy all 3 (or 2) if we find a seller or supplier who has the silver option. The other unused ones we can keep it somewhere..
+
+The authorized reseller that I asked, they have no stock for the silver colors."
+  - Kaspars Upmanis: "ugh..
+will have to go with jakarta ones"
+  - Kaspars Upmanis: "0361736811"
+  - Kaspars Upmanis: "here is the number pak🙏🏻"
+  - Kaspars Upmanis: "^ globalxtreme support"
+  - Kaspars Upmanis: "please contact"
+  - Kaspars Upmanis: "ask Laila for our account details"
+  - Kaspars Upmanis: "maybe unpaid invoice or just a simple restart from their side"
+- **Topics discussed:** iMac procurement quantity and color availability; temporary placement decision; ISP support contact and possible account/invoice issue.
+- **Decisions/action items:** Start with 1 iMac now (total need 2, max 3 later); place one on gym floor for now; contact GlobalXtreme support (0361736811); ask Laila for account details; check unpaid invoice vs provider-side restart.
+- **Your response:** stayed silent
+
+#### HoK | Operations — 15:10
+- **Who said what:**
+  - Kaspars Upmanis: "last invoice"
+- **Topics discussed:** Shared the latest GlobalXtreme invoice reference.
+- **Decisions/action items:** None explicitly stated.
+- **Files/images shared:** Screenshot of a GlobalXtreme e-Faktur email showing maintenance fee period 07/12/2025–07/06/2026 for PT. Rock Wellness Investments, Location ID `wellnessG38B`, customer number `1024 0601 1104 4163`.
+- **Your response:** stayed silent
+
+#### HoK | HR — 14:56–15:07
+- **Who said what (verbatim):**
+  - **Nisya Nur Ayuna:** "Update Info, Procurement Spv has signed the job offer. he will join on Tuesday💪🏻 but before I send the contract, just want to make sure again, will we provide him company phone? that's to make us easier to track all the suppliers contact."
+  - **Kaspars Upmanis:** "Yes"
+  - **Kaspars Upmanis:** "let's do that"
+  - **Kaspars Upmanis:** "with a new number? What is the process here?"
+  - **Nisya Nur Ayuna:** "yes with new number, just had a quick discussion with Vikrama, we can buy post-paid for the number like FO number. we can register the number under my name, because FO number already use Vikram's name"
+- **Topics discussed:** Procurement Supervisor offer acceptance/start date; confirmation to provide company phone; decision for new number and post-paid setup approach.
+- **Decisions/action items:** Proceed with company phone and new number; proposed post-paid number registration under Nisya's name.
+- **Your response:** "Nisya, good question. For the Procurement Spv, yes — we should provide a company phone. They'll be the primary point of contact for suppliers, and having a dedicated line will keep communications organized and professional.
+
+I'll add this to their onboarding checklist. Should we use a specific phone model or carrier plan for procurement staff, or keep it flexible?"
+
+#### HoK | Operations — 15:24
+- **Who said what:**
+  - Kaspars Upmanis: "from indah"
+- **Topics discussed:** Update relayed from Indah about GlobalXtreme internet status and technician follow-up.
+- **Decisions/action items:** GlobalXtreme confirmed package is active and no area outage; Indah will try to get their technician to check on site.
+- **Files/images shared:** Screenshot text included: "Global extreme confirmed the package is still on, there are no problem in the area with the internet pak" and "Will see if I can drag their technician to take a look."
+- **Your response:** stayed silent
+
+#### HoK | Operations — 15:34
+- **Who said what:**
+  - Kaspars Upmanis: "i .. don't know 🙈"
+  - Kaspars Upmanis: "ah yes, it says on invoice - PR RWI"
+- **Topics discussed:** Clarification of account/entity name from invoice.
+- **Decisions/action items:** Confirmed invoice indicates PR RWI.
+- **Your response:** stayed silent
+
+#### Hok | Gym — 11:13
+- **Who said what:**
+  - **Kaspars Upmanis:** "<media:image>"
+- **Topics discussed:** Shared screenshot of an Instagram DM from account @_gypsy_spirit_ expressing interest to work at the studio.
+- **Decisions/action items:** None stated.
+- **Your response:** stayed silent
+- **Files/images shared:** 1 image. Visible text in screenshot:
+  - "Hey!"
+  - "I hope you are having a great week!"
+  - "Looking forward to this opening!"
+  - "I live in Seseh, I have a freelance Kitas and would love to work at the studio if you are looking for practitioners! I teach fascia flow, somatics & breathwork and sound healing!"
+  - "Look forward to hearing from you!"
+  - "Fawn"
+
+#### Merch | House of Kairos — 15:41
+- **Who said what (verbatim):**
+  - **Kaspars Upmanis:** "that was quick!"
+  - **Kaspars Upmanis:** "looks cool"
+- **Topics discussed:** Positive reaction to fast vendor confirmation and shared merch update.
+- **Decisions/action items:** None stated.
+- **Your response:** stayed silent
+
+#### Merch | House of Kairos — 15:47
+- **Who said what (verbatim):**
+  - **Kaspars Upmanis:** "👍 perfect"
+- **Topics discussed:** Confirmation/approval of merch production timeline update.
+- **Decisions/action items:** None stated.
+- **Your response:** stayed silent
+
+#### HoK | Housekeeping — 16:08
+- **Who said what (verbatim):**
+  - **Kaspars Upmanis:** "please bring polishing machine back to isola today 🙏"
+- **Topics discussed:** Returning polishing machine to Isola.
+- **Decisions/action items:** Bring polishing machine back to Isola today.
+- **Your response:** stayed silent
+
+#### HoK | Operations — 17:02
+- **Who said what:**
+  - Kaspars Upmanis: "Global extreme update 
+
+We had tried several ways to reboot but doesn't work. The technician will come tomorrow to take a look"
+- **Topics discussed:** GlobalXtreme troubleshooting update and next step.
+- **Decisions/action items:** Reboot attempts failed; technician scheduled to visit tomorrow.
+- **Your response:** stayed silent
+
+#### Merch | House of Kairos — 17:03
+- **Who said what (verbatim):**
+  - **Kaspars Upmanis:** "new tahirt drop 😛"
+- **Files/images shared:** 1 image showing new House of Kairos t-shirt packaging: a black frosted zip bag with white House of Kairos logo and `HOUSEOFKAIROS.COM` text, plus stacked garment labels/tags on the table.
+- **Topics discussed:** New t-shirt merch drop preview.
+- **Decisions/action items:** None stated.
+- **Your response:** stayed silent
+
+#### Hok | Gym — 17:52
+- **Who said what:**
+  - **Kaspars Upmanis:** "😊"
+- **Topics discussed:** Reaction emoji.
+- **Decisions/action items:** None.
+- **Your response:** stayed silent
+
+#### Hok | Gym — 17:52
+- **Who said what:**
+  - **Kaspars Upmanis:** "you'll reach out?"
+- **Topics discussed:** Asking whether someone will initiate outreach.
+- **Decisions/action items:** Pending confirmation on who will reach out.
+- **Your response:** stayed silent
+
+#### Hok | Gym — 17:53
+- **Who said what:**
+  - **Kaspars Upmanis:** "oxidation 😬"
+- **Topics discussed:** Concern about oxidation/corrosion on equipment finish.
+- **Decisions/action items:** None explicitly stated.
+- **Your response:** stayed silent
+
+#### Hok | Gym — 17:54
+- **Who said what:**
+  - **Kaspars Upmanis:** "they can \"fix\" that little rust?"
+- **Topics discussed:** Question whether minor rust/oxidation on equipment can be fixed.
+- **Decisions/action items:** Pending confirmation from vendor/technicians.
+- **Your response:** stayed silent
+
+#### Hok | Gym — 17:56
+- **Who said what:**
+  - **Kaspars Upmanis:** "sweet!"
+- **Topics discussed:** Positive acknowledgment of Monday readiness update.
+- **Decisions/action items:** None.
+- **Your response:** stayed silent
+
+
+## Distilled — Hok | Gym (audio rack, floor polishing, equipment status)
+
+### Decisions
+- Audio rack location: rooftop studios, with preference to place it closer to the exit.
+- Floor polishing constraint acknowledged: several installed machines may need to be moved to polish underneath.
+- Bench scope: apply the same handling/check to all benches.
+- Rust handling: Technogym team agreed to try replacing the rust-affected part; fallback is to implement another fix if replacement is not possible.
+
+### State changes
+- Gints completed on-site examination and shared multiple close-up checks of equipment clearance/condition.
+- Oxidation/rust was identified on at least one equipment component.
+- Bench assembly/setup progressed to near-complete.
+- Rooftop studio area reported on track to be ready by Monday.
+
+### Action items
+- Confirm with Technogym support whether they will assist with equipment moves needed for floor polishing.
+- Execute rust-part replacement attempt; if unsuccessful, define and apply alternative remediation.
+- Verify final audio rack position near rooftop studio exit before lock-in.
+- Reconfirm Monday readiness milestone for rooftop studio completion.
+
+#### Hok | Gym — 17:57
+- **Who said what:**
+  - **Gints Valdmanis:** "<media:image>"
+  - **Kaspars Upmanis:** "floor is ready.. just need lots of re-arrangement 😬"
+  - **Gints Valdmanis:** "I also got the Wrong gym parking boys number :)"
+  - **Kaspars Upmanis:** "eta do rubber first"
+  - **Kaspars Upmanis:** "sweet :)"
+- **Topics discussed:** Rooftop/storage photo update, floor readiness with significant re-arrangement needed, gym flooring sequence and coordination contacts.
+- **Decisions/action items:** Floor is ready; next step is to do rubber first; additional re-arrangement still required.
+- **Your response:** stayed silent
+- **Files/images shared:** 1 image (wrapped furniture/items stored on rooftop-side corridor under roof cover).
+
+#### Hok | Gym — 17:57
+- **Who said what:**
+  - **Kaspars Upmanis:** "😆"
+- **Topics discussed:** Reaction emoji.
+- **Decisions/action items:** None.
+- **Your response:** stayed silent
+
+#### Hok | Gym — 17:57
+- **Who said what:**
+  - **Kaspars Upmanis:** "cooool!"
+- **Topics discussed:** Positive reaction.
+- **Decisions/action items:** None.
+- **Your response:** stayed silent
+
+#### Hok | Gym — 17:57
+- **Who said what:**
+  - **Kaspars Upmanis:** "gotta make those studios beautiful 👌👌"
+  - **Gints Valdmanis:** "He wants to talk contract and numbers- I told him that we can get back to this next week."
+- **Topics discussed:** Studio finishing quality emphasis and hiring follow-up timing.
+- **Decisions/action items:** Contract and compensation discussion deferred to next week.
+- **Your response:** stayed silent
+
+#### Hok | Gym — 17:57
+- **Who said what:**
+  - **Kaspars Upmanis:** "@10522686705819 maybe smoop around your contacts about him?"
+- **Topics discussed:** Request for background-check style outreach through contacts regarding a candidate.
+- **Decisions/action items:** Ask tagged person to check their network for info about him.
+- **Your response:** stayed silent
+
+#### Hok | Gym — 17:57
+- **Who said what:**
+  - **Kaspars Upmanis:** "I feel there's something we don't see 😆"
+- **Topics discussed:** Intuition/concern about possible unseen issue regarding the discussed person/situation.
+- **Decisions/action items:** None explicitly stated.
+- **Your response:** stayed silent
+
+#### Hok | Gym — 17:57
+- **Who said what:**
+  - **Kaspars Upmanis:** "and all about \"feelings\"  - \"uncomfortable \" etc 😆"
+- **Topics discussed:** Commentary on candidate explanation style (feelings/discomfort framing).
+- **Decisions/action items:** None explicitly stated.
+- **Your response:** stayed silent
+
+#### HoK | Operations — 20:14
+- **Who said what:**
+  - Kaspars Upmanis: "from Indah"
+- **Topics discussed:** Source clarification for the GlobalXtreme update.
+- **Decisions/action items:** Confirmed update came from Indah.
+- **Your response:** stayed silent
+
+#### HoK | HR — 15:10
+- **Who said what (verbatim):**
+  - **Kaspars Upmanis:** "laptop and mobility for sure"
+- **Topics discussed:** Decision on device policy for role mobility.
+- **Decisions/action items:** Use laptop setup to support mobility.
+- **Your response:** stayed silent
+
+#### HoK | HR — 15:10
+- **Who said what (verbatim):**
+  - **Kaspars Upmanis:** "\"always online\""
+- **Topics discussed:** Additional note on preferred availability expectation.
+- **Decisions/action items:** None explicitly beyond prior mobility direction.
+- **Your response:** stayed silent
+
+#### HoK | HR — 15:11
+- **Who said what (verbatim):**
+  - **Kaspars Upmanis:** "so it's laptop :) 💻"
+- **Topics discussed:** Final confirmation of device choice.
+- **Decisions/action items:** Device decision confirmed as laptop.
+- **Your response:** stayed silent
+
+#### HoK | HR — 15:14
+- **Who said what (verbatim):**
+  - **Kaspars Upmanis:** "well, he didn’t. I bought it on tokopedia.."
+- **Topics discussed:** Clarification on prior procurement method for HR printer purchase.
+- **Decisions/action items:** Historical note: purchase was made via Tokopedia, not by Vikrama.
+- **Your response:** stayed silent
+
+#### HoK | HR — 15:14
+- **Who said what (verbatim):**
+  - **Kaspars Upmanis:** "🙂"
+- **Topics discussed:** Acknowledgement/reaction.
+- **Decisions/action items:** None.
+- **Your response:** stayed silent
+
+**Email:**
+- (none)
 
